@@ -1,0 +1,7 @@
+label: Description
+type:  text
+help: A line between 16 and 155 characters to introduce this page
+validate:
+  minLength: 16
+  maxLength: 155
+required: true

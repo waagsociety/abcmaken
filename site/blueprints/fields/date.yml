@@ -1,0 +1,4 @@
+label: Date
+type: date
+format: DD-MM-YYYY
+default: today

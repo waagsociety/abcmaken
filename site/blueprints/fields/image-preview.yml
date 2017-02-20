@@ -1,0 +1,4 @@
+label: Thumbnail Image
+type:  image
+required: true
+width: 1/2

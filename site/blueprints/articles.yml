@@ -1,0 +1,7 @@
+title: Articles
+icon: newspaper-o
+pages: articles-page
+files: false
+fields:
+  title: title
+  description: description

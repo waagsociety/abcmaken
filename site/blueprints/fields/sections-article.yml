@@ -1,0 +1,31 @@
+label: Sections
+type: builder
+required: true
+fieldsets:
+  bodytext:
+    label: Body Text
+    snippet: builder/bodytext
+    fields:
+      text:
+        label: text
+        type: textarea
+  imageBanner:
+    label: Image Banner
+    snippet: builder/imagebanner
+    fields:
+      picture:
+        label: Background Image
+        type: image
+      text:
+        label: Headline Text
+        type: text
+  quote:
+    label: Quote
+    snippet: builder/quote
+    fields:
+      text:
+        label: Quote Text
+        type: textarea
+      citation:
+        label: Citation
+        type: text

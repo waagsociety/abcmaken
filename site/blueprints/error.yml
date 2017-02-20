@@ -1,0 +1,12 @@
+title: Error
+hide: true
+icon: exclamation-triangle
+pages: false
+files: false
+fields:
+  title: title
+  description: description
+  text: text
+  line: line-a
+  seotitle: seo-title
+  seodescription: seo-description

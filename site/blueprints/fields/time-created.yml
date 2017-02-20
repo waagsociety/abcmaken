@@ -1,0 +1,8 @@
+label: Date and Time
+type: datetime
+  date:
+    format: DD-MM-YYYY
+  time:
+    format: 24
+default: now
+required: true

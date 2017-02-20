@@ -1,0 +1,9 @@
+label: Date Created
+type: datetime
+date:
+  format: DD-MM-YYYY
+  default: now
+time:
+  format: 24
+  interval: 1
+  default: now

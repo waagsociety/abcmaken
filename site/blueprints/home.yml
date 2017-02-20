@@ -1,0 +1,8 @@
+title: Home
+icon: home
+pages: true
+fields:
+  title: title
+  line: line-a
+  seotitle: seo-title
+  seodescription: seo-description

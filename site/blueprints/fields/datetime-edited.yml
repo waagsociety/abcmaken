@@ -1,0 +1,11 @@
+label: Date Edited
+type: datetime
+date:
+  format: DD-MM-YYYY
+  default: now
+  override: true
+time:
+  format: 24
+  interval: 1
+  default: now
+  override: true

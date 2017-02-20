@@ -1,0 +1,15 @@
+title: Page
+icon: file-text-o 
+pages: true
+files:
+  fields:
+    copyright: copyright
+    description: description
+    caption: caption
+fields:
+  title: title
+  description: description
+  text: text
+  line: line-a
+  seotitle: seo-title
+  seodescription: seo-description

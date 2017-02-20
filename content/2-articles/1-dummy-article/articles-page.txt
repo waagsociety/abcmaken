@@ -1,0 +1,60 @@
+Title: Dummy article
+
+----
+
+Description: sadsadsi dsakjsdakjdsakjdsa daskjdsakj daskjdaskjdaskjads
+
+----
+
+Author: 
+
+----
+
+Cover: ditos-hec.jpg
+
+----
+
+Preview: ditos-hec.jpg
+
+----
+
+Text: sadsadsi dsakjsdakjdsakjdsa daskjdsakj daskjdaskjdaskjads sadsadsi dsakjsdakjdsakjdsa daskjdsakj daskjdaskjdaskjads sadsadsi dsakjsdakjdsakjdsa daskjdsakj daskjdaskjdaskjads
+
+----
+
+Keywords: 
+
+----
+
+Created: 2016-11-01 10:27:00
+
+----
+
+Edited: 2016-11-01 10:27:00
+
+----
+
+Line: 
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Sections: 
+
+- 
+  text: Martin is cool
+  _fieldset: bodytext
+- 
+  text: >
+    sadsadsi dsakjsdakjdsakjdsa daskjdsakj
+    daskjdaskjdaskjads sadsadsi
+    dsakjsdakjdsakjdsa daskjdsakj
+    daskjdaskjdaskjads
+  _fieldset: bodytext

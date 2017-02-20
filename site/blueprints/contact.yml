@@ -1,0 +1,10 @@
+title: Contact
+pages: true
+files: true
+fields:
+  title: title
+  description: description
+  text: text
+  line: line-a
+  seotitle: seo-title
+  seodescription: seo-description

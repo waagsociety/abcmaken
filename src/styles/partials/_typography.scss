@@ -1,0 +1,106 @@
+html {
+  font-size: 100%;
+  text-rendering: optimizeLegibility;
+  text-rendering: geometricPrecision;
+}
+
+body {
+  font-family: serif;
+  font-size: 1.125em;
+}
+
+h1,
+.alpha,
+h2,
+.beta,
+h3,
+.gamma,
+h4,
+.delta,
+h5,
+.epsilon,
+h6,
+.zeta {
+  color: $brand-color;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  margin: 0;
+}
+
+h1,
+.alpha {
+  font-size: 2.625em;
+  line-height: 1.0476190476190477;
+}
+
+h2,
+.beta {
+  font-size: 1.96875em;
+  line-height: 1.3968253968253967;
+}
+
+h3,
+.gamma {
+  font-size: 1.3125em;
+  line-height: 1.5714285714285714;
+}
+
+h4,
+.delta {
+  font-size: 1.1484375em;
+  line-height: 1.1972789115646258;
+}
+
+h5,
+.epsilon {
+  font-size: 0.984375em;
+  line-height: 1.3968253968253967;
+}
+
+h6,
+.zeta {
+  font-size: 0.875em;
+  line-height: 1.5714285714285714;
+}
+
+p,
+blockquote {
+  font-size: 1.25em;
+  hyphens: none;
+}
+
+dd,
+dt,
+li {
+  margin: 0;
+}
+
+a {
+  color: $brand-color;
+  font-family: 'Montserrat', sans-serif;
+  opacity: 1;
+  text-decoration: none;
+  transition: opacity 0.3s ease-in-out;
+}
+
+input,
+select,
+button,
+textarea,
+.btn {
+  font-size: 1.3125em;
+  line-height: 1.5714285714285714;
+}
+
+strong {
+  font-weight: 700;
+}
+
+input,
+button,
+.btn,
+label {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
