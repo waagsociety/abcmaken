@@ -5,8 +5,7 @@ html {
 }
 
 body {
-  font-family: serif;
-  font-size: 1.125em;
+  font-family: "brandon-grotesque",sans-serif;
 }
 
 h1,
@@ -22,7 +21,6 @@ h5,
 h6,
 .zeta {
   color: $brand-color;
-  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   letter-spacing: 0.01em;
   margin: 0;
@@ -66,7 +64,6 @@ h6,
 
 p,
 blockquote {
-  font-size: 1.25em;
   hyphens: none;
 }
 
@@ -78,7 +75,7 @@ li {
 
 a {
   color: $brand-color;
-  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
   opacity: 1;
   text-decoration: none;
   transition: opacity 0.3s ease-in-out;
@@ -89,7 +86,6 @@ select,
 button,
 textarea,
 .btn {
-  font-size: 1.3125em;
   line-height: 1.5714285714285714;
 }
 
@@ -101,6 +97,5 @@ input,
 button,
 .btn,
 label {
-  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
 }

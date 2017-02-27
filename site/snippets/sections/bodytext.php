@@ -1,3 +1,3 @@
 <section class="bodyText">
-  <?= $data->text()->kt() ?>
+  <?= $data->text() ?>
 </section>

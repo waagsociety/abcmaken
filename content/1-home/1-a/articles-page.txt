@@ -1,0 +1,58 @@
+Sectiondefault: 
+
+----
+
+Title: A
+
+----
+
+Description: De A is van: Alles is gemaakt, Avontuur, Arduino, Automata, Ambachten
+
+----
+
+Cover: rocket.jpg
+
+----
+
+Preview: 
+
+----
+
+Sections: 
+
+- 
+  text: creativitijd kent geen teit
+  citation: Platform Maker Education
+  _fieldset: quote
+
+----
+
+Sectionmeta: 
+
+----
+
+Author: 
+
+----
+
+Keywords: 
+
+----
+
+Created: 2017-02-20 12:50:00
+
+----
+
+Edited: 2017-02-20 12:50:00
+
+----
+
+Sectionseo: 
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 

@@ -1,3 +1,11 @@
 .container {
-  padding: $gutter;
+  padding: $gutter * 2;
+  
+  @include breakpoint(s) {
+    padding: $gutter;
+  }
+
+  @include breakpoint(s) {
+    padding: $gutter / 2;
+  }
 }

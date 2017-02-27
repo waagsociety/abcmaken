@@ -1,0 +1,21 @@
+.quote-section {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  min-height: 400px;
+  text-align: center;
+  widows: 100%;
+
+  blockquote {
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+  }
+
+  .citation {
+    font-size: 1.3125em;
+    letter-spacing: 0.15em;
+  }
+}
+

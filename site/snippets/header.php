@@ -6,9 +6,13 @@
   <title><?php echo $page->title()->html() ?> - <?php echo $site->title()->html() ?></title>
   <meta name="description" content="<?php echo $site->description()->html() ?>">
   <meta name="keywords" content="<?php echo $site->keywords()->html() ?>">
+  <script src="https://use.typekit.net/wkf2lia.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
   <link rel="canonical" href="<?= $page->url() ?>">
   <link rel="alternate" hreflang="en" href="en" />
   <?php echo css('assets/css/main.css') ?>
   <?php snippet('seo') ?>
 </head>
 <body class="<?= $page->uid() ?>">
+<div class="animation-container">
+<?php snippet('menu') ?>
