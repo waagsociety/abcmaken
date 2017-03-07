@@ -21,8 +21,20 @@ Preview:
 Sections: 
 
 - 
-  text: creativitijd kent geen teit
-  citation: Platform Maker Education
+  text: Arduino
+  citation: 'Een Arduino is een <a href="/home/b#bla-bla">bla bla</a>'
+  _fieldset: quote
+- 
+  text: Aandacht
+  citation: 'Ja heel leuk  <a href="/home/b#bla-bla-bla">bla bla bla</a>'
+  _fieldset: quote
+- 
+  text: Avontuur
+  citation: 'Link naar <a href="http://www.waag.org" > buiten </a>'
+  _fieldset: quote
+- 
+  text: Alles is al gemaakt
+  citation: 'Link binnen deze letter <a href="#arduino"> arduino </a>'
   _fieldset: quote
 
 ----

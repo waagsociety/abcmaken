@@ -23,6 +23,14 @@ Sections:
 - 
   text: dsadsadas
   _fieldset: bodytext
+- 
+  text: Bla bla
+  citation: Ra ra ra ar ar ar
+  _fieldset: quote
+- 
+  text: Bla bla bla
+  citation: 3 maal de bla
+  _fieldset: quote
 
 ----
 
