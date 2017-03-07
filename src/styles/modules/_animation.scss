@@ -1,13 +1,17 @@
 body {
   background: #49a8fc;
-  overflow: hidden;
+  /*overflow: hidden;*/
+} 
+
+html {
+  overflow:auto;
 }
 
 .animation-container {
   display: block;
   height: 100vh;
   opacity: 0;
-  overflow: scroll;
+  /*overflow: scroll;*/
   transition: 0.4s ease-in;
 }
 

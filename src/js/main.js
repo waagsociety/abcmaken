@@ -51,7 +51,7 @@ window.onpageshow = function(event) {
     
 //a link in a section was clicked, find out which section it belongs to, put a link to the section in the browser history to make backbutton work nicely
 function onSectionLinkClicked(e) {
-
+                     
 	var s = e.target.closest("section");    
 	if(s !== undefined)
 	{                          
@@ -76,13 +76,16 @@ function gotoToSectionWithAnchor(hash) {
 	var anchor = hash.substr(1);
 	var element = document.querySelectorAll("[data-id='" + anchor + "']")[0];
 	if(element !== undefined) {  
-		element.scrollIntoView();
+		//element.scrollIntoView();
+		zenscroll.intoView(element)
 	}
 	
 }
      
 //
 document.addEventListener("DOMContentLoaded", function(event) {
+          
+	zenscroll.toY(0)
 
 	//add handler to links within sections 
 	var list = document.querySelectorAll("section.quote-section a");
@@ -98,6 +101,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 			gotoToSectionWithAnchor(anchor)
  		}, 1000); 
 	}
+                  
 
 	//
 	setTimeout(init, 30);  

@@ -10,7 +10,6 @@
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
   <link rel="canonical" href="<?= $page->url() ?>">
   <link rel="alternate" hreflang="en" href="en" />
-  <?php echo js('assets/js/main.min.js') ?> 
   <?php echo css('assets/css/main.css') ?>
   <?php snippet('seo') ?>
 </head>
