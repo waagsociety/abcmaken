@@ -21,21 +21,43 @@ Preview:
 Sections: 
 
 - 
-  text: Arduino
-  citation: 'Een Arduino is een <a href="/home/b#bla-bla">bla bla</a>'
+  text: |
+    Arduino is een (link: home/b#bla-bla text: bla bla)
+    - bla
+    - bla
+  citation: >
+    Ik weet nog goed dat ik mijn eerste
+    Arduino kocht ~ Lodewijk Loos
   _fieldset: quote
+  title: Arduino
+  anchor: arduino
 - 
-  text: Aandacht
-  citation: 'Ja heel leuk  <a href="/home/b#bla-bla-bla">bla bla bla</a>'
+  text: 'Aandacht is ook belangrijk  (link: home/b#bla-bla-bla text: bla bla bla)'
+  citation: >
+    Met aandacht kun je zoveel meer ~ Pieter
+    Puk
   _fieldset: quote
+  anchor: aandacht
+  title: Aandacht
 - 
-  text: Avontuur
-  citation: 'Link naar <a href="http://www.waag.org" > buiten </a>'
+  text: 'Avontuur Link naar (link: http://www.waag.org text: buiten)'
+  citation: >
+    Avontuur maakt het mooiste in mij los ~
+    Aad
   _fieldset: quote
+  anchor: avontuur
+  title: Avontuur
 - 
-  text: Alles is al gemaakt
+  text: |
+    Alles is al gemaakt, ja ja echt niet.
+    Link binnen deze letter (link: #arduino text: arduino)
   citation: 'Link binnen deze letter <a href="#arduino"> arduino </a>'
   _fieldset: quote
+  anchor: alles
+  title: Alles is al gemaakt
+- 
+  text: LSLALA
+  _fieldset: intro-section
 
 ----
 

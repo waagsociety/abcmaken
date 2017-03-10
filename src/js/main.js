@@ -11,10 +11,6 @@ if (window.Element && !Element.prototype.closest) {
 	};
 }
 
-function loaded(el) {
-  el.classList.add('loaded')
-}
-
 function getMousePos(e) {
   return { 
     x: e.clientX,
@@ -36,22 +32,63 @@ function initArticleNav(prevClass, nextClass) {
     }
     e.preventDefault()
   }
-}
+}         
+
+
+window.onunload = window.onbeforeunload = (function(){
+   
+	//we leave this page, remove the loaded
+	//document.querySelector('.animation-container').classList.remove('loaded') 
+	
+
+})      
+            
+//force scroll animation when backbutton hit (Safari needs this)
+window.onpageshow = function(event) {
+	 	init();
+};            
+         
+//
+window.onpagehide = function(event) {
+	 	document.querySelector('.animation-container').classList.remove('loaded')
+};
+
 
 function init() {
-  loaded(document.querySelector('.animation-container'))
-}
+	
+	//goto to top
+	zenscroll.toY(0)
 
-//force reload when backbutton hit so we have animation
-window.onpageshow = function(event) {
-    if (event.persisted) {
-        window.location.reload() 
-    }
-};            
-    
+	//add handler to links within sections 
+	var list = document.querySelectorAll("section.quote-section a");
+	for (var i=0;i<list.length;i++) {
+		list[i].addEventListener("click", onSectionLinkClicked, false);
+	}
+
+	//when there's as a hash anchor in the url, 
+	var anchor = window.location.hash.substr(); 
+	if(anchor.length > 0)
+	{ 
+		setTimeout(function(){   
+			gotoToSectionWithAnchor(anchor)
+ 		}, 1000); 
+	}
+
+	//animate   
+	document.querySelector('.animation-container').classList.remove('loaded') 
+	setTimeout(function() {
+		document.querySelector('.animation-container').classList.add('loaded') 
+	}, 30); 
+	
+}
+     
+
+
 //a link in a section was clicked, find out which section it belongs to, put a link to the section in the browser history to make backbutton work nicely
 function onSectionLinkClicked(e) {
-                     
+                         
+	
+
 	var s = e.target.closest("section");    
 	if(s !== undefined)
 	{                          
@@ -64,7 +101,8 @@ function onSectionLinkClicked(e) {
 		      
 		if(targetLocation.host === window.location.host && targetLocation.pathname === window.location.pathname) {
 			gotoToSectionWithAnchor(targetLocation.hash)
-		}
+		}      
+
 	}       
 	
 }       
@@ -84,27 +122,10 @@ function gotoToSectionWithAnchor(hash) {
      
 //
 document.addEventListener("DOMContentLoaded", function(event) {
-          
-	zenscroll.toY(0)
-
-	//add handler to links within sections 
-	var list = document.querySelectorAll("section.quote-section a");
-	for (var i=0;i<list.length;i++) {
-		list[i].addEventListener("click", onSectionLinkClicked, false);
-	}
-
-	//when there's as a hash anchor in the url, 
-	var anchor = window.location.hash.substr(); 
-	if(anchor.length > 0)
-	{ 
-		setTimeout(function(){   
-			gotoToSectionWithAnchor(anchor)
- 		}, 1000); 
-	}
-                  
-
-	//
-	setTimeout(init, 30);  
+       
+  init();
+ 
+	 
  
 });
 
