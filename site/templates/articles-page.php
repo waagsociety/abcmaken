@@ -8,8 +8,17 @@
 
   <?php snippet('article-nav') ?>
   <header class="article-header">
-    <div class="bg" style="background-image: url(<?= $page->contentURL() . '/' . $page->cover() ?>);"></div>
     <h1 class="intro-letter vh_font-size15"><?= $page->title() ?></h1>
+    
+    <!-- Check if page has a video -->
+    <?php if($page->video()): ?>
+      <video class="bg-video" autoplay loop muted style="background-image: url(<?= $page->contentURL() . '/' . $page->cover() ?>);"> 
+        <source src="<?= $page->video()->url() ?>" type=video/webm> 
+      </video>
+    <!-- no video available show image -->
+    <?php else: ?>
+      <div class="bg" style="background-image: url(<?= $page->contentURL() . '/' . $page->cover() ?>);"></div>
+    <?php endif ?>
     
     <a class="mouse-btn">
       <svg width="35" height="79"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#i:mouse"></use></svg>

@@ -14,8 +14,10 @@ fields:
     icon: file-text-o
   title: title
   description: description
+  video: video
   cover: image-cover
   sections: sections-article
+
   sectionMeta:
     label: Metadata
     id: meta
