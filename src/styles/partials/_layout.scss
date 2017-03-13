@@ -9,3 +9,7 @@
     padding: $gutter / 2;
   }
 }
+
+body.menu-open {
+  overflow: hidden;
+}
