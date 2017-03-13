@@ -21,8 +21,19 @@ Preview:
 Sections: 
 
 - 
-  text: dsadsadas
-  _fieldset: bodytext
+  text: |
+    Bla bla bal bla bla bla bla bla bla
+    (link: home/a#aandacht text: Aandacht)
+  citation: Er is een hoop bla bla in de wereld
+  _fieldset: quote
+  anchor: bla-bla
+  title: Bla bla
+- 
+  text: 'Bla bla bla (link: home/b#bla-bla text: zie ook)'
+  citation: Het kan altijd erger ~ Max Watje
+  _fieldset: quote
+  anchor: bla-bla-bla
+  title: Bla Bla 2 the max
 
 ----
 
