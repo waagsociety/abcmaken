@@ -1,13 +1,13 @@
 <?php if($page->hasPrev()): ?>
-<a href="<?php echo $page->prev()->url() ?>" class="article-nav prev-article"><?= $page->prev()->title() ?></a>
+  <?php snippet('article-nav-item', ['item' => $page->prev(), 'direction' => 'prev']) ?>
 <? else: ?>
- <a href="<?php echo $pages->find('home')->children()->last()->url() ?>" class="article-nav prev-article"><?php echo $pages->find('home')->children()->last()->title() ?></a>
+  <?php snippet('article-nav-item', ['item' => $pages->find('home')->children()->last(), 'direction' => 'prev']) ?>
 <?php endif ?>
 
 <?php if($page->hasNextVisible()): ?>
-<a href="<?= $page->nextVisible()->url() ?>" class="article-nav next-article"><?= $page->nextVisible()->title() ?></a>
+  <?php snippet('article-nav-item', ['item' => $page->nextVisible(), 'direction' => 'next']) ?>
 <? else: ?>
-<a href="<?php echo $pages->find('home')->children()->first()->url() ?>" class="article-nav next-article"><?php echo $pages->find('home')->children()->first()->title() ?></a>
+  <?php snippet('article-nav-item', ['item' => $pages->find('home')->children()->first(), 'direction' => 'next']) ?>
 <?php endif ?>
 
 
