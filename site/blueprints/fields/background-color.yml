@@ -1,0 +1,4 @@
+label: Background Color
+type:  color
+default: ffffff
+width: 1/4

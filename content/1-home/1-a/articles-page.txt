@@ -24,6 +24,34 @@ Sections:
   text: creativitijd kent geen teit
   citation: Platform Maker Education
   _fieldset: quote
+  bgcolor: '#9fedbe'
+  textcolor: '#212020'
+  indextitle: quote
+- 
+  title: Avontuur
+  text: |
+    ##Avontuur
+    Avontuur is een onderneming, ervaring of belevenis, waarvan de uitkomst niet bij voorbaat vast staat. En het wordt vaak gekenmerkt door iets spannends of onverwacht. Maken is samen op avontuur gaan. Laat de uitkomst vrij, richt je op het proces en zie waar je uitkomt. Dan ontstaan de mooiste dingen.
+    
+    Het begint met nieuwsgierigheid en verwondering! Samen met kinderen op ontdekkingsreis in je eigen wereld? Laat je leiden door het boek ‘How to be an explorer of the world’ van Keri Smith.
+    
+    
+    (link: https://www.bol.com/nl/p/how-to-be-an-explorer-of-the-world/1001004011806642 text: How to be an explorer of the world class: btn )
+  standardimage: ks-17-a_web.jpg
+  bgcolor: '#ff008c'
+  textcolor: '#ffffff'
+  alignblock: left
+  _fieldset: content-block
+  indextitle: Avontuur
+- 
+  standardimage: arduino.jpg
+  _fieldset: image-section
+- 
+  text: |
+    ##Arduino
+    Een Arduino is een microcontroller, iets groter dan een pinpas of creditcard. Je kunt een microcontroller zien als een mini-computer die je zelf kunt programmeren en waarmee je van alles kunt maken. De Arduino (link: https://www.arduino.cc/ text: website) is natuurlijk de bron der bronnen waar je toffe projecten en goede instructies vindt, maar op Internet in het algemeen en Youtube meer specifiek zijn honderden leerzame en innovatieve Arduino projecten en tutorials te vinden.
+    Lees ook de blog van (link: http://makered.nl/raspberry-pi-vs-arduino/ text: Freek Pols) en / of het artikel op (link: http://makezine.com/2015/12/04/admittedly-simplistic-guide-raspberry-pi-vs-arduino/ text:Makezine) die de Raspberry Pi en de Arduino vergelijken.
+  _fieldset: text-section
 
 ----
 
@@ -51,8 +79,8 @@ Sectionseo:
 
 ----
 
-Seotitle: 
+Seotitle: De A is van - ABC van het maken
 
 ----
 
-Seodescription: 
+Seodescription: De A is van: Alles is gemaakt, Avontuur, Arduino, Automata, Ambachten

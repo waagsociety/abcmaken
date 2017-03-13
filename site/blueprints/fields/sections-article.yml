@@ -20,9 +20,30 @@ fieldsets:
   quote:
     label: Quote
     fields:
+      indextitle: indextitle
+      bgcolor: background-color
+      textcolor: text-color
       text:
         label: Quote Text
         type: textarea
       citation:
         label: Citation
         type: text
+  content-block:
+    label: content-block
+    fields:
+      indextitle: indextitle
+      title: title
+      text: text
+      standardimage: image-cover
+      bgcolor: background-color
+      textcolor: text-color
+      alignblock: align-block
+  image-section:
+    label: image-section
+    fields:
+      standardimage: image-cover
+  text-section:
+    label: text-section
+    fields:
+      text: text

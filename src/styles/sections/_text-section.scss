@@ -1,0 +1,32 @@
+.text-section {
+  padding: 0 ($gutter * 4) ($gutter * 4);
+  background: #02060f;
+
+  @include breakpoint(s) {
+    padding: $gutter / 2
+  }
+
+  .content {
+    margin: auto;
+    text-align: center;
+    max-width: 40em;
+
+    @include breakpoint(s) {
+      text-align: left;
+    }
+  }
+
+  p {
+    color: #fff;
+    font-size: 1.3em;
+
+    @include breakpoint(s) {
+    font-size: 1.2em;
+    }
+  }
+
+  h2 {
+    color: #fff;
+
+  }
+}

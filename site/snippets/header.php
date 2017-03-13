@@ -14,5 +14,5 @@
   <?php snippet('seo') ?>
 </head>
 <body class="<?= $page->uid() ?>">
-<div class="animation-container">
 <?php snippet('menu') ?>
+<div class="animation-container">

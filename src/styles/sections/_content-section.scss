@@ -1,0 +1,102 @@
+.about .story-block {
+
+  .content-wrapper {
+    min-height: calc(100vh - 50px);
+  }
+
+  .content h2 {
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 2em;
+    letter-spacing: 0.1em;
+    margin-bottom: 0.2em;
+  }
+}
+
+.story-block {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  overflow: hidden;
+
+
+  .bg {
+    background-position: center center;
+    height: auto;
+    position: relative;
+    background-size: cover;
+    width: 50%;
+
+    @include breakpoint(s) {
+      min-height: 350px;
+    }
+  }
+
+  .content-wrapper {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    max-width: none;
+    min-height: 450px;
+    padding: ($gutter * 2) $gutter ;
+    width: 50%;
+
+    p {
+      font-size: 1.35em;
+      opacity: 1;
+      margin-bottom: 2em;
+    }
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+
+    @include breakpoint(s) {
+      padding: $gutter / 2;
+    }
+  }
+
+  .content {
+    max-width: 30em;
+    
+    h3 {
+      font-weight: 500;
+      text-transform: uppercase;
+      font-size: 2em;
+      letter-spacing: 0.1em;
+      margin-bottom: 0.2em;
+    }
+
+    h1,
+    h2 {
+      font-size: 2.2em;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+    }
+  }
+
+  .bg,
+  .content-wrapper {
+    @include breakpoint(s) {
+      width: 100%;
+    }
+  }
+}
+
+
+.philosophy {
+  .story-block h2 {
+    font-size: 1.3em;
+    line-height: 1.5em;
+    margin-bottom: 0;
+  }
+
+  .story-block .content-wrapper{
+    min-height: 70vh;
+  }
+}
+
+.about .bg {
+  background-position: left center;
+}

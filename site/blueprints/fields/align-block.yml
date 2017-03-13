@@ -1,0 +1,7 @@
+label: Align block
+type: select
+default: left
+options:
+  left: left
+  right: right
+width: 1/4

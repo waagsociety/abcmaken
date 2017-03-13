@@ -1,5 +1,12 @@
 <?php snippet('header') ?>
 
+<?php
+
+  $index = 0;
+
+?>
+
+  <?php snippet('article-nav') ?>
   <header class="article-header">
     <div class="bg" style="background-image: url(<?= $page->contentURL() . '/' . $page->cover() ?>);"></div>
     <h1 class="intro-letter"><?= $page->title() ?></h1>
@@ -7,14 +14,15 @@
     <a class="mouse-btn">
       <svg width="35" height="79"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#i:mouse"></use></svg>
     </a>
-
-    <?php snippet('article-nav') ?>
   </header>
 
 
   <main class="main" role="main">
-    <?php foreach($page->sections()->toStructure() as $section): ?>
-      <?php snippet('sections/' . $section->_fieldset(), array('data' => $section)) ?>
+    <?php foreach($page->sections()->toStructure() as $section): $index ++ ?>
+      <?php snippet('sections/' . $section->_fieldset(), array(
+        'data' => $section,
+        'index' => $index
+      )) ?>
     <?php endforeach ?>
   </main>
 
