@@ -60,11 +60,17 @@ function init() {
 	zenscroll.toY(0)
 
 	//add handler to links within sections 
-	var list = document.querySelectorAll("section.quote-section a");
-	for (var i=0;i<list.length;i++) {
-		list[i].addEventListener("click", onSectionLinkClicked, false);
+	var links1 = document.querySelectorAll("section.quote-section a");
+	for (var i=0;i<links1.length;i++) {
+		links1[i].addEventListener("click", onSectionLinkClicked, false);
+	}          
+	
+	//add handler to links in index
+	var links2 = document.querySelectorAll(".menu-panel a");
+	for (var i=0;i<links2.length;i++) { 
+		links2[i].addEventListener("click", onIndexLinkClicked, false);
 	}
-
+	
 	//when there's as a hash anchor in the url, 
 	var anchor = window.location.hash.substr(); 
 	if(anchor.length > 0)
@@ -81,14 +87,24 @@ function init() {
 	}, 30); 
 	
 }
-     
+ 
+function onIndexLinkClicked(e) {       
+	
+	document.querySelector('.navigation').classList.toggle('active');
+	document.body.classList.toggle('menu-open');
+	
+	var targetLocation = document.createElement('a');
+	targetLocation.href = e.target.href; 
+	if(targetLocation.host === window.location.host && targetLocation.pathname === window.location.pathname) {
+		gotoToSectionWithAnchor(targetLocation.hash)
+	}
+
+}   
 
 
 //a link in a section was clicked, find out which section it belongs to, put a link to the section in the browser history to make backbutton work nicely
 function onSectionLinkClicked(e) {
                          
-	
-
 	var s = e.target.closest("section");    
 	if(s !== undefined)
 	{                          
@@ -122,11 +138,7 @@ function gotoToSectionWithAnchor(hash) {
      
 //
 document.addEventListener("DOMContentLoaded", function(event) {
-       
   init();
- 
-	 
- 
 });
 
 

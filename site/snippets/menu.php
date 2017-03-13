@@ -9,7 +9,7 @@
       <span class="stripe"></span>
     </div>
   </div>
-</nav>
+</nav>           
 
 <nav class="menu-panel">
   <ul class="menu-list">
@@ -17,11 +17,14 @@
     <li class="item">
       <div>
         <a class="letter" href="<?php echo $item->url() ?>"><?php echo html($item->title()) ?></a>
-        <ul>
-          <li>Applicatie</li>
-          <li>Applicatie</li>
-          <li>Applicatie</li>
-          <li>Applicatie</li>
+        <ul>     
+		  <?php foreach($item->sections()->toStructure() as $section): ?>
+          <li>
+			<a href="<?php echo $item->url() ?>#<?php echo strtolower(preg_replace("/[^A-Za-z0-9]/", '-', $section->anchor())); ?>">
+			   <?php echo $section->title() ?>
+			</a>
+		  </li>
+		  <?php endforeach ?>
         </ul>
       </div>
     </li>
@@ -33,5 +36,6 @@
   document.querySelector('.navigation').addEventListener('click', function() {
     this.classList.toggle('active');
     document.body.classList.toggle('menu-open')
-  })
+  })    
+  
 </script>
