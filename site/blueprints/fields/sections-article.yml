@@ -8,15 +8,9 @@ fieldsets:
       text:
         label: text
         type: textarea
-  imageBanner:
-    label: Image Banner
-    fields:
-      picture:
-        label: Background Image
-        type: image
-      text:
-        label: Headline Text
-        type: text
+      anchor:
+        label: Anchor
+        type: text   
   quote:
     label: Quote
     fields:
@@ -39,6 +33,9 @@ fieldsets:
     label: content-block
     fields:
       indextitle: indextitle
+      anchor:
+        label: Anchor
+        type: text   
       title: title
       text: text
       standardimage: image-cover
@@ -49,7 +46,16 @@ fieldsets:
     label: image-section
     fields:
       standardimage: image-cover
+      anchor:
+        label: Anchor
+        type: text   
   text-section:
     label: text-section
     fields:
+      anchor:
+        label: Anchor
+        type: text   
+      title: title
       text: text
+      bgcolor: background-color
+      textcolor: text-color

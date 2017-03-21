@@ -18,10 +18,11 @@
   }
 </style>
 
-<section class="story-block section-<?php echo $index ?>">
+<section class="story-block section-<?php echo $index ?>" data-id="<?php echo strtolower(preg_replace("/[^A-Za-z0-9]/", '-', $data->anchor())); ?>" >
   <div class="bg"></div>
   <div class="content-wrapper">
     <div class="content">
+      <h2><?= $data->title() ?></h2>
       <?php if($data->text()->isNotEmpty()): ?>
        <?php echo kirbytext($data->text()) ?>
       <?php endif ?>

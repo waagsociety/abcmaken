@@ -21,19 +21,23 @@ Preview:
 Sections: 
 
 - 
-  text: |
-    Bla bla bal bla bla bla bla bla bla
-    (link: home/a#aandacht text: Aandacht)
-  citation: Er is een hoop bla bla in de wereld
-  _fieldset: quote
-  anchor: bla-bla
-  title: Bla bla
-- 
-  text: 'Bla bla bla (link: home/b#bla-bla text: zie ook)'
-  citation: Het kan altijd erger ~ Max Watje
-  _fieldset: quote
-  anchor: bla-bla-bla
-  title: Bla Bla 2 the max
+  anchor: Begin!
+  title: Begin!
+  text: >
+    Aarzel niet, maar begin! Eert moet je
+    lol krijgen in het maken. Doe eerst de
+    Marshmallow Challenge (link intern)
+    bijvoorbeeld
+    (www.marshmallowchallenge.com/). Kijk in
+    dit filmpje
+    (https://www.ted.com/talks/tom_wujec_build_a_tower?language=nl)
+    waarom. Of maak een Marsh Moonlander
+    (instructie invoegen). Of start een
+    Muizenvalrace op jouw school
+    (https://openthings.wiki/nl/project/view/47).
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  _fieldset: text-section
 
 ----
 
@@ -66,3 +70,7 @@ Seotitle:
 ----
 
 Seodescription: 
+
+----
+
+Video: 

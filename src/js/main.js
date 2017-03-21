@@ -77,7 +77,7 @@ function init() {
 	{ 
 		setTimeout(function(){   
 			gotoToSectionWithAnchor(anchor)
- 		}, 1000); 
+ 		}, 500); 
 	}
 
 	//animate   
@@ -89,10 +89,8 @@ function init() {
 }
  
 function onIndexLinkClicked(e) {       
-	
 	document.querySelector('.navigation').classList.toggle('active');
 	document.body.classList.toggle('menu-open');
-	
 	var targetLocation = document.createElement('a');
 	targetLocation.href = e.target.href; 
 	if(targetLocation.host === window.location.host && targetLocation.pathname === window.location.pathname) {
@@ -122,16 +120,16 @@ function onSectionLinkClicked(e) {
 	}       
 	
 }       
-          
+
+zenscroll.setup(200, 0)
 //like #avontuur, scroll to the section, find it by data-id attribute  
 function gotoToSectionWithAnchor(hash) {
-	            
-	//
 	var anchor = hash.substr(1);
 	var element = document.querySelectorAll("[data-id='" + anchor + "']")[0];
 	if(element !== undefined) {  
 		//element.scrollIntoView();
-		zenscroll.intoView(element)
+		element.classList.add('active');
+		zenscroll.to(element, 300)
 	}
 	
 }

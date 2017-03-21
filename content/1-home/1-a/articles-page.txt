@@ -21,29 +21,73 @@ Preview:
 Sections: 
 
 - 
+  text: |
+    Een Arduino is een microcontroller, iets groter dan een pinpas of creditcard. Je kunt een microcontroller zien als een mini-computer die je zelf kunt programmeren, bijvoorbeeld om te reageren op knopjes of om lampjes en motors aan te sturen. Je kunt er van alles mee maken.
+    
+    
+    Bouw je eigen robot!
+    De Arduino (link: https://www.arduino.cc/ text: website) is natuurlijk de bron der bronnen waar je leuke projecten en goede instructies vindt, maar op de rest van het internet en vooral op Youtube zijn honderden leerzame en innovatieve Arduino projecten en tutorials te vinden.
+    
+    
+    Lees ook de (link:http://makered.nl/raspberry-pi-vs-arduino/ text: blog) van Freek Pols en / of het artikel op (link: http://makezine.com/2015/12/04/admittedly-simplistic-guide-raspberry-pi-vs-arduino/ text: Makezine ) die de Raspberry Pi en de Arduino vergelijken.
+  _fieldset: text-section
+  anchor: Arduino
+  bgcolor: '#2ea3f2'
+  textcolor: '#ffffff'
+  title: Arduino
+- 
+  standardimage: arduino.jpg
+  _fieldset: image-section
+  anchor: ""
+- 
   indextitle: Avontuur
   title: Avontuur
   text: |
     Een Avontuur is een onderneming, ervaring of belevenis, waarvan de uitkomst niet bij voorbaat vast staat. En het wordt vaak gekenmerkt door iets spannends of onverwacht. Maken is samen op avontuur gaan. Laat de uitkomst vrij, richt je op het proces en zie waar je uitkomt. Dan ontstaan de mooiste dingen.
     
-    Het begint met nieuwsgierigheid en verwondering! Samen met kinderen op ontdekkingsreis in je eigen wereld? Laat je leiden door het boek ‘How to be an explorer of the world’ van Keri Smith (https://www.bol.com/nl/p/how-to-be-an-explorer-of-the-world/1001004011806642/).
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+    Het begint met nieuwsgierigheid en verwondering! Samen met kinderen op ontdekkingsreis in je eigen wereld? Laat je leiden door het boek (link: https://www.bol.com/nl/p/how-to-be-an-explorer-of-the-world/1001004011806642/ text:‘How to be an explorer of the world’ van Keri Smith).
+  standardimage: giphy-downsized-large.gif
+  bgcolor: '#f2f2f2'
+  textcolor: '#211c1c'
   alignblock: left
   _fieldset: content-block
+  anchor: Avontuur
 - 
-  standardimage: arduino.jpg
-  _fieldset: image-section
-- 
+  indextitle: Ambacht
+  anchor: Ambacht
+  title: Ambacht
   text: |
-    ##Arduino
-    Een Arduino is een microcontroller, iets groter dan een pinpas of creditcard. Je kunt een microcontroller zien als een mini-computer die je zelf kunt programmeren, bijvoorbeeld om te reageren op knopjes of om lampjes en motors aan te sturen. Je kunt er van alles mee maken.
-    Bouw je eigen robot!
+    Een ambacht is handwerk dat wordt aangeleerd om een beroep mee uit te oefenen, maar je kunt het natuurlijk ook gewoon voor de lol doen. Het is wel iets waar je moeite voor moet doen om er goed in te worden. Je betaalt de schoenmaker graag om je schoenen te maken omdat hij iets kan wat jij niet kan.
     
-    De Arduino website (https://www.arduino.cc/) is natuurlijk de bron der bronnen waar je leuke projecten en goede instructies vindt, maar op de rest van het internet en vooral op Youtube zijn honderden leerzame en innovatieve Arduino projecten en tutorials te vinden.
-    Lees ook de blog van Freek Pols (http://makered.nl/raspberry-pi-vs-arduino/) en / of het artikel op Makezine (http://makezine.com/2015/12/04/admittedly-simplistic-guide-raspberry-pi-vs-arduino/) die de Raspberry Pi en de Arduino vergelijken.
-  _fieldset: text-section
+    Er zijn heel wat ambachten die haast niemand meer doet, omdat er tegenwoordig fabrieken zijn die dingen veel goedkoper en sneller kunnen maken dan dat de ambachtslieden van vroeger dat konden. Gelukkig ontstaan er ook nieuwe ambachten (zie ook skills). Bijvoorbeeld als je heel goed dingen kunt maken met behulp van een 3D printer en een computer,  kun je dat ook een ambacht noemen. Op deze website vind je veel informatie over nieuwe ambachten, als je graag eens iets wilt weten over oude ambachten ga dan eens naar het Openluchtmuseum, het Archeon of het Zuiderzeemuseum.
+    
+    Je kunt zeggen dat je voor elk ambacht bepaalde skills (link intern) nodig hebt. Filosoof Henk Oosterling zet zich via het project “Rotterdam Vakmanstad”  (http://www.vakmanstad.nl) in voor meer aandacht voor het verkrijgen van skills in het onderwijs naast de cognitieve vakken (taal, rekenen) waar nu vaak de nadruk op ligt.
+    
+    (
+    Linken naar filosoof Henk Oosterling (zie video’s op Youtube).
+    https://www.youtube.com/watch?v=UcyReF2iT3o
+    )
+  standardimage: ambacht.jpg
+  bgcolor: '#2b1a20'
+  textcolor: '#ffffff'
+  alignblock: right
+  _fieldset: content-block
+- 
+  indextitle: Automata
+  anchor: Automata
+  title: Automata
+  text: |
+    Een Automata is een machine gemaakt met behulp van simpele middelen, zoals bijvoorbeeld karton, houten stokjes en elastiekjes. Met deze spulletjes kun je heuse mechanische principes zoals bijvoorbeeld “hoe tandwielen werken” in de praktijk brengen.
+    
+    Het maken van Automata is technisch knutselen en is leuk voor iedereen die met een schaar en een lijmpistool overweg kan. Het kan al heel leuk zijn om een machine te maken die niks nuttigs doet, maar probeer ook eens een machine te maken die een verhaal vertelt.
+    
+    https://www.youtube.com/watch?v=76brOY2t6zI
+    https://openthings.wiki/nl/project/view/46
+  standardimage: automata.jpg
+  bgcolor: '#6b7dd4'
+  textcolor: '#ffffff'
+  alignblock: left
+  _fieldset: content-block
 
 ----
 
@@ -79,4 +123,4 @@ Seodescription:
 
 ----
 
-Video: small.webm
+Video: 3d-printer.mp4
