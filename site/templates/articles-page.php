@@ -8,7 +8,6 @@
 
   <?php snippet('article-nav') ?>
   <header class="article-header">
-    <h1 class="intro-letter vh_font-size15"><?= $page->title() ?></h1>
     
     <!-- Check if page has a video -->
     <?php if($page->video()): ?>

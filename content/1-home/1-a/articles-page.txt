@@ -21,60 +21,29 @@ Preview:
 Sections: 
 
 - 
-  text: |
-    Arduino is een (link: home/b#bla-bla text: bla bla)
-    - bla
-    - bla
-  citation: >
-    Ik weet nog goed dat ik mijn eerste
-    Arduino kocht ~ Lodewijk Loos
-  _fieldset: quote
-  title: Arduino
-  anchor: arduino
-- 
-  text: 'Aandacht is ook belangrijk  (link: home/b#bla-bla-bla text: bla bla bla)'
-  citation: >
-    Met aandacht kun je zoveel meer ~ Pieter
-    Puk
-  _fieldset: quote
-  anchor: aandacht
-  title: Aandacht
-- 
-  text: 'Avontuur Link naar (link: http://www.waag.org text: buiten)'
-  citation: >
-    Avontuur maakt het mooiste in mij los ~
-    Aad
-  _fieldset: quote
-  anchor: avontuur
+  indextitle: Avontuur
   title: Avontuur
+  text: |
+    Een Avontuur is een onderneming, ervaring of belevenis, waarvan de uitkomst niet bij voorbaat vast staat. En het wordt vaak gekenmerkt door iets spannends of onverwacht. Maken is samen op avontuur gaan. Laat de uitkomst vrij, richt je op het proces en zie waar je uitkomt. Dan ontstaan de mooiste dingen.
+    
+    Het begint met nieuwsgierigheid en verwondering! Samen met kinderen op ontdekkingsreis in je eigen wereld? Laat je leiden door het boek ‘How to be an explorer of the world’ van Keri Smith (https://www.bol.com/nl/p/how-to-be-an-explorer-of-the-world/1001004011806642/).
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  _fieldset: content-block
 - 
   standardimage: arduino.jpg
   _fieldset: image-section
 - 
   text: |
-    Alles is al gemaakt, ja ja echt niet.
-    Link binnen deze letter (link: #arduino text: arduino)
-  citation: 'Link binnen deze letter <a href="#arduino"> arduino </a>'
-  _fieldset: quote
-  anchor: alles
-  title: Alles is al gemaakt
-- 
-  text: LSLALA
-  _fieldset: intro-section
-- 
-  indextitle: ardtje
-  title: ardtje patatje
-  text: >
-    ardtje patatje ardtje patatje ardtje
-    patatje
-  standardimage: ks-17-a_web.jpg
-  bgcolor: '#f09393'
-  textcolor: '#422d2d'
-  alignblock: left
-  _fieldset: content-block
-- 
-  text: dsakjhdaskdhskjshadsa
-  _fieldset: intro-section
+    ##Arduino
+    Een Arduino is een microcontroller, iets groter dan een pinpas of creditcard. Je kunt een microcontroller zien als een mini-computer die je zelf kunt programmeren, bijvoorbeeld om te reageren op knopjes of om lampjes en motors aan te sturen. Je kunt er van alles mee maken.
+    Bouw je eigen robot!
+    
+    De Arduino website (https://www.arduino.cc/) is natuurlijk de bron der bronnen waar je leuke projecten en goede instructies vindt, maar op de rest van het internet en vooral op Youtube zijn honderden leerzame en innovatieve Arduino projecten en tutorials te vinden.
+    Lees ook de blog van Freek Pols (http://makered.nl/raspberry-pi-vs-arduino/) en / of het artikel op Makezine (http://makezine.com/2015/12/04/admittedly-simplistic-guide-raspberry-pi-vs-arduino/) die de Raspberry Pi en de Arduino vergelijken.
+  _fieldset: text-section
 
 ----
 

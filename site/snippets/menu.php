@@ -14,20 +14,18 @@
 <nav class="menu-panel">
   <ul class="menu-list">
     <?php foreach($pages->find('home')->children() as $item): ?>
-    <li class="item">
-      <div>
-        <a class="letter" href="<?php echo $item->url() ?>"><?php echo html($item->title()) ?></a>
-        <ul>     
-		  <?php foreach($item->sections()->toStructure() as $section): ?>
-          <li>
-			<a href="<?php echo $item->url() ?>#<?php echo strtolower(preg_replace("/[^A-Za-z0-9]/", '-', $section->anchor())); ?>">
-			   <?php echo $section->title() ?>
-			</a>
-		  </li>
-		  <?php endforeach ?>
-        </ul>
-      </div>
-    </li>
+      <li class="item">
+        <div>
+          <a class="letter" href="<?php echo $item->url() ?>"><?php echo html($item->title()) ?></a>
+          <ul>     
+            <?php foreach($item->sections()->toStructure() as $section): ?>
+              <li class="small-item">
+                <a href="<?php echo $item->url() ?>#<?php echo strtolower(preg_replace("/[^A-Za-z0-9]/", '-', $section->anchor())); ?>"><?= $section->title() ?></a>
+              </li>
+            <?php endforeach ?>
+          </ul>
+        </div>
+      </li>
     <?php endforeach ?>
   </ul>
 </nav>
