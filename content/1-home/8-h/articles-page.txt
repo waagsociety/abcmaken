@@ -1,4 +1,4 @@
-Sectiondefault: 
+Sectiondefault:
 
 ----
 
@@ -10,31 +10,86 @@ Description: hoi hoi hoi hoi hoi hoi
 
 ----
 
-Cover: rocket.jpg
+Cover: abc-letter-h.jpg
 
 ----
 
-Preview: 
+Preview:
 
 ----
 
-Sections: 
+Sections:
 
-- 
-  text: dsadsadas
-  _fieldset: bodytext
+-
+  indextitle: Hands, Heart, Head
+  bgcolor: '#d4e661'
+  textcolor: '#141414'
+  anchor: Hands-Heart-Head
+  title: Hands, Heart, Head
+  text: >
+    “Maker Education stimulates
+    childrens’ head, heart and hands”
+  citation: Sylvia Martinez
+  _fieldset: quote
+-
+  indextitle: Helden
+  anchor: Helden
+  title: Helden
+  text: 'Helden van Nederlandse bodem: Daan Roosegaarde, Rolf Hut, Theo Janssen, Rolf Hut, Leo van der Veen, Annouk Wipprecht, Bas van Abel.'
+  standardimage: abc-letter-h.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Hacken
+  anchor: Hacken
+  title: Hacken
+  text: |
+    Hacken is een breed begrip. Kortgezegd betekent hacken het vinden van toepassingen die niet door de maker van het middel bedoeld zijn. Veel mensen denken bij hacken aan bad guys die inbreken op computers. Maar zoals met alles kun je ook technologie voor slechte én voor goede dingen gebruiken. Wat dacht je van deze Circuitbender die oud speelgoed gebruikt om muziek te maken bijvoorbeeld? Of van de alle handige harry’s die (link: http://www.instructables.com/id/Big-lamps-from-Ikea-lampan-lamps./ text: IKEA meubels hacken) tot iets totaal wat  (link: https://www.youtube.com/watch?v=ofSdiyD-6uk text: anders).
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: High Tech High
+  anchor: High Tech High
+  title: High Tech High
+  text: |
+    High Tech High is een vernieuwende schoolvorm uit de Verenigde Staten die onder andere samen werken en maken centraal stelt. De documentaire “Most likely to succeed” is inspirerend en geeft een goed beeld (link: https://vimeo.com/122502930 text: Trailer)
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Hummingbird kit
+  anchor: Hummingbird kit
+  title: Hummingbird kit
+  text: |
+    Hummingbird kit is een verzameling aan componenten die je kunt gebruiken om je eigen robotjes te maken door een combinatie van knutselen en programmeren. Altijd handig om in de kast te (link: http://www.hummingbirdkit.com/ text: hebben liggen).
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
 
 ----
 
-Sectionmeta: 
+Sectionmeta:
 
 ----
 
-Author: 
+Author:
 
 ----
 
-Keywords: 
+Keywords:
 
 ----
 
@@ -46,12 +101,16 @@ Edited: 2017-02-20 12:50:00
 
 ----
 
-Sectionseo: 
+Sectionseo:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:
+
+----
+
+Video:

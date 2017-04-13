@@ -1,4 +1,4 @@
-Sectiondefault: 
+Sectiondefault:
 
 ----
 
@@ -14,27 +14,59 @@ Cover: rocket.jpg
 
 ----
 
-Preview: 
+Preview:
 
 ----
 
-Sections: 
+Sections:
 
-- 
-  text: dsadsadas
-  _fieldset: bodytext
+-
+  indextitle: Zet jezelf op de kaart
+  anchor: Zet jezelf op de kaart
+  title: Zet jezelf op de kaart
+  text: |
+    Ben jij ook bezig met maakonderwijs? Zet jezelf op de kaart op de website van (link: https://makereducation.nl/zet-jezelf-op-de-kaart text: Platform Maker Education). Deze website is een centrale plek voor iedereen in Nederland die zich bezighoudt met Maakonderwijs. Zo blijf je op de hoogte van alle ontwikkelingen in maakland en zie je welke toffe events van scholen, makerspaces en autonome makers op de agenda staan. Organiseer jij zelf een maakevent? Deel ‘m dan met de rest van de community.
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Zagen
+  anchor: Zagen
+  title: Zagen
+  text: |
+    Zagen hoeft allang niet meer met de hand. Dat kan tegenwoordig (al een tijdje) gewoon met de computer gedaan worden. Meestal gebruik je dan een CNC-frees. Je kunt de computer voor je laten zagen met een CNC-frees. Maar probeer ook eens een vogel te maken uit een boomstam met de (link: https://www.youtube.com/watch?v=fyDaxzeFaRk text: kettingzaag) van je oom.
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Zo nu ben jij aan Zet!
+  anchor: Zo nu ben jij aan Zet!
+  title: Zo nu ben jij aan Zet!
+  text: |
+    Maakonderwijs doe je samen. Daarom hebben we jou nodig! Ben je geïnspireerd geraakt en kriebelen je handen? Wil je ook meer maken in het onderwijs? Sluit je dan aan bij ABC van het Maken door de campagnevideo te delen met je beste vriend, buurvrouw, je favoriete docent, je zus die voor de klas staat of gewoon met al je online vrienden via Facebook, Twitter of Instagram en gebruik de hashtag #watmaakjij. Hier is de link naar de video. Go go go! 
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+----
+
+Sectionmeta:
 
 ----
 
-Sectionmeta: 
+Author:
 
 ----
 
-Author: 
-
-----
-
-Keywords: 
+Keywords:
 
 ----
 
@@ -46,12 +78,16 @@ Edited: 2017-02-20 12:50:00
 
 ----
 
-Sectionseo: 
+Sectionseo:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:
+
+----
+
+Video:

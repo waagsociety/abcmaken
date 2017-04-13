@@ -9,12 +9,16 @@
     <section class="pages-list">
       <?php foreach($items as $item): $index++;   ?>
         <?php
-          $image = thumb($item->image($item->cover()->toURL()), array('width' => 300))->url();
+          $image = thumb($item->image($item->cover()->toURL()), array('width' => 600))->url();
         ?>
        <a class="item-container" href="<?= $item->url() ?>">
-        <article class="item" style="background-image: url(<?= $image ?>)">
+        <div class="bg" style="background-image: url(<?= $image ?>)"></div>
+        <article class="item">
           <div class="content">
-            <h1 class="hover-title"><?= $item->title() ?></h1>
+            <div>
+
+              <button>Bekijk letter <h1 class="hover-title"><?= $item->title() ?></h1></button>
+            </div>
           </div>
         </article>
        </a>

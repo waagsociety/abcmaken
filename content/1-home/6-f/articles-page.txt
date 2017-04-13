@@ -1,4 +1,4 @@
-Sectiondefault: 
+Sectiondefault:
 
 ----
 
@@ -10,31 +10,159 @@ Description: hoi hoi hoi hoi hoi hoi
 
 ----
 
-Cover: rocket.jpg
+Cover: abc-letter-f.jpg
 
 ----
 
-Preview: 
+Preview:
 
 ----
 
-Sections: 
+Sections:
 
-- 
-  text: dsadsadas
-  _fieldset: bodytext
+-
+  indextitle: Fabschoolino
+  anchor: Fabschoolino
+  title: Fabschoolino
+  text: >
+    De (link: https://fabschoolino.waag.org text: Fabschoolino) is een doe-het-zelf mini-computer die speciaal ontwikkeld is voor de jonge maker. Dit
+    bouwpakketje is een op de Arduino
+    gebaseerde microcontroller die je
+    helemaal zelf moet solderen en
+    programmeren. Helemaal zelf ja! Speciaal
+    voor alle super nieuwsgierige aagjes,
+    niet-te-stoppen ontdekkers en makers
+    vanaf 9 tot 100 jaar oud. Met de
+    Fabschoolino kunnen scholen, makerspaces
+    en handige ouders samen met kinderen op
+    een creatieve en technische
+    ontdekkingstocht.
+  standardimage: fabschoolino.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  _fieldset: content-block
+-
+  indextitle: Fantasie
+  anchor: Fantasie
+  title: Fantasie
+  text: |
+    Dagdromen, we doen het allemaal wel eens. Maar heb je er wel eens bij stil gestaan dat de menselijke verbeeldingskracht een gigantische impact heeft gehad op hoe de wereld er vandaag de dag uitziet? Zonder fantasie was er waarschijnlijk nog nooit een astronaut op de maan geland, hadden we geen auto’s en bestond er geen Internet. Innovatie gaat hand in hand met fantasie. Een goede dosis fantasie helpt je denken buiten de gebruikelijke kaders. En daar komen weer geniale ideeën uit voort.
+
+    “Everything you can imagine is real” - Pablo Picasso.
+
+    “Imagination is the beginning of creation. You imagine what you desire, you will what you imagine and at last you create what you will.” ― George Bernard Shaw
+  standardimage: fabschoolino.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Fablab
+  anchor: Fablab
+  title: Fablab
+  text: |
+    Een FabLab (fabrication laboratory) is een kleinschalige werkplaats waar persoonlijke digitale fabricage mogelijk is. In een Fablab kunnen mensen met behulp van digitale apparatuur hun ideeën realiseren in een prototype of product. Zo kun je een idee uit je hoofd tastbaar maken!
+
+    Het Fablab-concept is ontwikkeld door Neil Gershenfeld bij het MIT (USA) en staat voor Fabrication Laboratory. Inmiddels is het Fablab-concept over de hele wereld verspreid. FabLabs zijn wereldwijd met elkaar verbonden, waardoor er een enorm kennisnetwerk voor digitale sociale innovatie ontstaat. In een FabLab vind je machines zoals de 3D printer, de laser cutter en een CNC milling machine. Op de website van de (link: http://fabfoundation.org text: FabFoundation) vind je alles over het FabLab en het wereldwijde netwerk. Wil je een Fablab bezoeken? Je kunt altijd even binnen kijken. Op de website van Stichting (link: http://www.fablab.nl text: FabLab Benelux) kan je zien waar een FabLab bij jou in de buurt is.
+  standardimage: fabschoolino.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: FabLearn
+  anchor: FabLearn
+  title: FabLearn
+  text: |
+    (link: http://fablearn.org text: FabLearn) is een netwerk, geleid door door Paolo Blikstein van Stanford University. Naast een netwerk is het ook een onderzoek samenwerkingsverband en visie voor het leren in de 21ste eeuw. Want de 21ste eeuw vraagt om nieuwe vaardigheden.
+
+    FabLearn verspreidt ideeën, best practices en middelen om een internationale gemeenschap van docenten, onderzoekers en beleidsmakers inzetten voor de integratie van de principes van constructionist leren, in de volksmond bekend als "leren door te maken".
+    FabLearn organiseert jaarlijks een conferentie. Er is ook een jaarlijkse Europese (link: http://fablearn.eu/ text: FabLearn conferentie).
+  standardimage: fabschoolino.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Feest
+  anchor: Feest
+  title: Feest
+  text: >
+    Dit woord mag natuurlijk niet ontbreken.
+    Maken is een feest! En dat mag het ook
+    gewoon zijn. Of je nu thuis of op school
+    aan de slag gaat. Zorg voor lekker eten
+    en drinken terwijl je aan de slag gaat.
+  standardimage: fabschoolino.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Focus
+  anchor: Focus
+  title: Focus
+  text: 'Maken brengt focus. Is het je wel eens opgevallen dat iemand z’n tong uitsteekt tijdens een secuur werkje? Dat betekent dat je je concentreert. Waarom dat zo is, lees je hier. Maar even terug naar de focus. Juist nu, in de drukke informatie samenleving van de 21se eeuw, is het van belang dat we ons concentratievermogen blijven trainen. Remco Pijpers schreef een mooie blog over de relatie tussen maken en (link: https://www.kennisnet.nl/artikel/maker-education-heeft-de-toekomst/ text: focus)'
+  standardimage: fabschoolino.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Fouten maken
+  anchor: Fouten maken
+  title: Fouten maken
+  text: |
+    Een belangrijke levensles: fouten maken en falen is niet erg. Ook bij maken hoort dat er soms iets mis gaat en dáár leer je veel van. Zoals Thomas Edison zei toen hij de gloeilamp uitvond: “Ik heb 10.000 manieren ontdekt hoe je geen gloeilamp moet maken”. Daarom is het doorzettingsvermogen ook zo belangrijk in het maakproces.
+
+    “What we do know is, if you’re not prepared to be wrong, you’ll never come up with anything original. And by the time they get to be adults, most kids have lost that capacity. They have become frightened of being wrong.” – Ken Robinson
+  standardimage: fabschoolino.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Frezen
+  anchor: Frezen
+  title: Frezen
+  text: |
+    Frezen is het weghalen van materiaal (bijvoorbeeld hout of metaal) met een snel ronddraaiend gereedschap, de freesboor. Met een computergestuurde frees kun je bijvoorbeeld heel precies een object halen uit een blok hout op eenzelfde manier zoals een beeldhouwer een beeld maakt uit een blok steen. Het enige dat je dan natuurlijk wel zelf moet is het object in een 3D programma op de computer maken. Je kunt een CNC frees ook gebruiken om (link: /home/p#printplaten text: printplaten) te (link: http://www.instructables.com/id/Make-your-own-PCBs-on-an-inexpensive-desktop-CNC-m/ text: maken).
+  standardimage: fabschoolino.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: FabKlas
+  anchor: FabKlas
+  title: FabKlas
+  text: '(link: http://fabklas.nl text: FabKlas) is een initiatief van Arjan van der Meij en Per-Ivar Kloen van De Populier in Den Haag. Natuurlijk delen zij hun lessen en projecten ook met iedereen. Benieuwd naar wat zij maken? Kijk maar eens op hun website. Ook De Neptunus in Amsterdam heeft een FabKlas. En ook zij delen hun projecten en (link: http://www.natuurentechniek.nl/fabklas text: lesmateriaal).'
+  standardimage: fabschoolino.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
 
 ----
 
-Sectionmeta: 
+Sectionmeta:
 
 ----
 
-Author: 
+Author:
 
 ----
 
-Keywords: 
+Keywords:
 
 ----
 
@@ -46,12 +174,16 @@ Edited: 2017-02-20 12:50:00
 
 ----
 
-Sectionseo: 
+Sectionseo:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:
+
+----
+
+Video:

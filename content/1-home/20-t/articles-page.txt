@@ -1,4 +1,4 @@
-Sectiondefault: 
+Sectiondefault:
 
 ----
 
@@ -14,27 +14,116 @@ Cover: rocket.jpg
 
 ----
 
-Preview: 
+Preview:
 
 ----
 
-Sections: 
+Sections:
 
-- 
-  text: dsadsadas
-  _fieldset: bodytext
+-
+  indextitle: Tools
+  anchor: Tool
+  title: Tools
+  text: |
+    Het Engelse woord voor gereedschap. Deze (link: https://www.bright.nl/bright-ideas/waarom-ouders-makers-moeten-worden text: poster) geeft een overzicht van de vijftig tools die je moet kennen voor je 12de. Hoe ver kom jij? Bestel de poster van Astrid Poot voor op school of thuis en ga aan de slag!
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: 'Twintig procent'
+  anchor: 'Twintig procent'
+  title: 'Twintig procent'
+  text: |
+    Wat zou er gebeuren als leerlingen 20% van hun schooltijd mogen steken in hun eigen maakprojecten? Victor Hupe is zeventien jaar, zit in 6 VWO op De Populier in Den Haag. In een TEDx video houdt hij een pleidooi voor meer maken op school. Bijzonder hoe gepassioneerd een leerling kan zijn over maken!
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Tinkeren
+  anchor: Tinkeren
+  title: Tinkeren
+  text: |
+    Tinkering is een methode, werkvorm én manier van denken waarbij ontwerpend onderzoeken centraal staat. Het is een proces van ontwerpen, maken, testen en verbeteren. Het woord werd al voor het eerst gebruikt rond het jaar 1300, in relatie tot het gereedschap van tingieters die huishoudelijke klussen deden. Maar tegenwoordig gaat het meer om experimenteren met gereedschappen en materialen. Tinkeren is denken met je handen en leren door te doen. En de kern van maker education. Lees meer over tinkeren in het boek The Art of Tinkering van het (link: http://tinkering.exploratorium.edu/art-tinkering text: Exploratorium).  
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Tinkering Studio
+  anchor: Tinkering Studio
+  title: Tinkering Studio
+  text: |
+    Klinkt tinkeren als iets waar je mee aan de slag wilt gaan? Doe dan inspiratie op bij De Tinkering Studio van het Exploratorium. Hier vind je allerlei experimenten op het kruisvlak van wetenschap, kunst en technologie. Op de (link: http://tinkering.exploratorium.edu/ text: website) vind je allemaal gave projecten en bijbehorende instructies om aan de slag te gaan.
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Tie wraps
+  anchor: Tie wraps
+  title: Tie wraps
+  text: |
+    Je haalt ze voor een prikkie in huis en ze zijn reuze handig. Een must-have voor elke maker!
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Teacher Maker Camp
+  anchor: Teacher Maker Camp
+  title: Teacher Maker Camp
+  text: |
+    ‘It is impossible to teach 21st century learners if you have not learned in this century’ - Sylvia Martinez.
+
+    Niet alleen leerlingen, maar ook leraren en docenten moeten de kans krijgen kennis te maken en zich te ontwikkelen in maakonderwijs. Teacher Maker Camp is een hands-on cursus voor iedereen die voor de klas staat en meer met maakonderwijs wilt doen.
+
+    Wil je zelf een Teacher Maker Camp organiseren? Waag Society organiseert regelmatig Teacher Maker Camps en maakte er een (link: https://vimeo.com/144122076 text: video) over én een online publicatie dat iedereen gewoon gratis kunt (link: http://waag.org/nl/nieuws/leren-door-te-maken-tien-recepten text: downloaden). Deze online publicatie legt je stap voor stap uit hoe je zelf zo’n Teacher Maker Camp kunt organiseren. Verschillende organisaties in Delft, Gent en zelfs Lissabon gingen je al voor!
+
+    Ook schreef Karien Vermeulen (hoofd creative learning lab, Waag Society) een artikel voor de Nederlandse vertaling van Invent to Learn. Lees ‘m (link: https://waag.org/nl/kennis-maken-samen-leren text: hier).
+
+    Enthousiast geworden? Schrijf je nu in voor de eerstvolgende (link: https://waag.org/nl/event/teacher-maker-camp-2017 text: Teacher Maker Camp)!
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Tutorials
+  anchor: Tutorials
+  title: Tutorials
+  text: |
+    Een tutorial is een uitleg die je stap voor stap laat zien hoe je iets moet doen of maken. Het maken van een tutorial is een vorm van (link: /home/d#documenteren-en-delen text: documentatie). Eindeloos veel tutorials vind je (link: http://www.instructables.com text: hier)
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
 
 ----
 
-Sectionmeta: 
+Sectionmeta:
 
 ----
 
-Author: 
+Author:
 
 ----
 
-Keywords: 
+Keywords:
 
 ----
 
@@ -46,12 +135,16 @@ Edited: 2017-02-20 12:50:00
 
 ----
 
-Sectionseo: 
+Sectionseo:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:
+
+----
+
+Video:

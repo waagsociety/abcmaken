@@ -1,4 +1,4 @@
-Sectiondefault: 
+Sectiondefault:
 
 ----
 
@@ -10,31 +10,51 @@ Description: hoi hoi hoi hoi hoi hoi
 
 ----
 
-Cover: rocket.jpg
+Cover: abc-letter-n.jpg
 
 ----
 
-Preview: 
+Preview:
 
 ----
 
-Sections: 
+Sections:
 
-- 
-  text: dsadsadas
-  _fieldset: bodytext
+
+-
+  indextitle: Nieuwsgierigheid
+  bgcolor: '#668cd1'
+  textcolor: '#ffffff'
+  anchor: Nieuwsgierigheid
+  title: Nieuwsgierigheid
+  text: >
+    “Curiosity about life in all of its aspects, I think, is still the secret of great creative people”
+  citation: Leo Burnett
+  _fieldset: quote
+-
+  indextitle: Naaimachine
+  anchor: Naaimachine
+  title: Naaimachine
+  text: |
+    Een naaimachine naait en een nietmachine niet. Er is vast wel een cursus bij jou in de buurt waar je kunt leren omgaan met een naaimachine. Misschien kan je oma wel een steekje helpen. Hier kun je alvast inspiratie (link:http://www.allesoverhandwerken.nl/naaipatronen-tassen-start.html text:opdoen).
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
 
 ----
 
-Sectionmeta: 
+Sectionmeta:
 
 ----
 
-Author: 
+Author:
 
 ----
 
-Keywords: 
+Keywords:
 
 ----
 
@@ -46,12 +66,16 @@ Edited: 2017-02-20 12:50:00
 
 ----
 
-Sectionseo: 
+Sectionseo:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:
+
+----
+
+Video:

@@ -1,4 +1,10 @@
 .intro-section {
   padding: $gutter * 2;
   min-height: 200vh;
+
+  a {
+
+      display: inline-block;
+      border-bottom: 2px solid;
+  }
 }

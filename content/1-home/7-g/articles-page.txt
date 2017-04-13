@@ -1,4 +1,4 @@
-Sectiondefault: 
+Sectiondefault:
 
 ----
 
@@ -14,27 +14,93 @@ Cover: rocket.jpg
 
 ----
 
-Preview: 
+Preview:
 
 ----
 
-Sections: 
+Sections:
 
-- 
-  text: dsadsadas
-  _fieldset: bodytext
+-
+  indextitle: Gereedschappen
+  anchor: Gereedschappen
+  title: Gereedschappen
+  text: >
+    Gereedschappen zijn onmisbaar bij het
+    maken. Een lijst ophangen zonder spijker
+    en hamer is knap lastig. Maar wat welke
+    tools zijn nu écht handig? Astrid Poot
+    maakte een poster met daarin de 50 tools
+    waar je voor je 12e mee over weg moet
+    kunnen. Handig om even te checken welke
+    gereedschappen je wel of niet overweg
+    kunt. Dan weet je vast waar je op moet
+    (link: https://www.bright.nl/bright-ideas/waarom-ouders-makers-moeten-worden text: oefenen)!
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Gevaarlijk
+  anchor: Gevaarlijk
+  title: Gevaarlijk
+  text: |
+    50 Dangerous Things (you should let your children do).
+    Van sommige ‘gevaarlijke dingen’ kun je heel veel leren. Gever Tulley schreef een boek over 50 ‘gevaarlijke’ ideeën die ouders en kinderen samen kunnen doen. Van bomen klimmen tot apparaten uit elkaar schroeven. Kleine disclaimer: voer dit soort activiteiten altijd uit onder gecontroleerde omstandigheden.
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Gifje
+  anchor: Gifje
+  title: Gifje
+  text: 'Je hebt ze vast wel eens gezien op internet. Een (animated) gifje is een bewegend plaatje, eigenlijk een heel kort filmpje – vaak met grappige inhoud. Het leuke is, je kunt heel simpel zelf een gifje maken door een aantal foto’s of plaatje achter elkaar te zetten. Maak een (link: http://giphy.com text: gifje) als onderdeel van je (link: /home/d#documenteren-en-delen text: documentatie) via #watmaakjij.'
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Geleidende poëzie
+  anchor: Geleidende poëzie
+  title: Geleidende poëzie
+  text: |
+    Houd je van taal én dingen maken? Goed nieuws: er bestaat zoiets als geleidende poëzie. Wat heb je nodig? Geleidend materiaal natuurlijk. Zoals koperdraad, tape, verf, grafiet of folie. Hoe het precies werkt lees je in deze Engelstalige (link: http://fabschool.nl/?p=546 text: Instructable)
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Geleidend deeg
+  anchor: Geleidend deeg
+  title: Geleidend deeg
+  text: |
+    Ook deeg kun je prima laten geleiden. Ga aan de slag met LED lampjes, elektrische circuits en bouw bijvoorbeeld je eigen interactieve lichtstad. Deze instructable legt het je (link: http://fabschool.nl/?p=39 text: haarfijn uit). Meer inspiratie nodig? Zoek eens op het woord Squishy Circuits op Instructables, Youtube en bijvoorbeeld de Tinkering Studio voor meer tutorials.
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
 
 ----
 
-Sectionmeta: 
+Sectionmeta:
 
 ----
 
-Author: 
+Author:
 
 ----
 
-Keywords: 
+Keywords:
 
 ----
 
@@ -46,12 +112,16 @@ Edited: 2017-02-20 12:50:00
 
 ----
 
-Sectionseo: 
+Sectionseo:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:
+
+----
+
+Video:

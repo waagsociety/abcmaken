@@ -1,4 +1,4 @@
-Sectiondefault: 
+Sectiondefault:
 
 ----
 
@@ -10,31 +10,40 @@ Description: hoi hoi hoi hoi hoi hoi
 
 ----
 
-Cover: rocket.jpg
+Cover: abc-letter-x.jpg
 
 ----
 
-Preview: 
+Preview:
 
 ----
 
-Sections: 
+Sections:
 
-- 
-  text: dsadsadas
-  _fieldset: bodytext
+-
+  indextitle: X
+  anchor: X
+  title: X
+  text: |
+    Oef. Een moeilijk letter. Maar wel een spannende. De letter X staat vaak voor het onbekende. Heeft jouw project de X-Factor? Daarmee bedoelen we dat iets extra bijzonder, zonder dat je precies kunt uitleggen waarom. De X zit niet voor niks in experimenteren en exploreren. En als het helemaal mis gaat: exploderen. Was het een project om snel te vergeten? Zet er dan een X door. Mocht je nog nieuwsgierig zijn naar waarom de letter X staat voor het onbekende, bekijk dan deze (link: https://www.want.nl/waarom-gebruiken-de-letter-x-om-iets-onbekends-aan-te-duiden/ text: video). Op naar de volgende letter! 
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
 
 ----
 
-Sectionmeta: 
+Sectionmeta:
 
 ----
 
-Author: 
+Author:
 
 ----
 
-Keywords: 
+Keywords:
 
 ----
 
@@ -46,12 +55,16 @@ Edited: 2017-02-20 12:50:00
 
 ----
 
-Sectionseo: 
+Sectionseo:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:
+
+----
+
+Video:

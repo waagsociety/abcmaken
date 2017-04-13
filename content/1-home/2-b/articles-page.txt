@@ -10,7 +10,7 @@ Description: hoi hoi hoi hoi hoi hoi
 
 ----
 
-Cover: bomb.jpg
+Cover: abc-letter-b.jpg
 
 ----
 
@@ -21,23 +21,161 @@ Preview:
 Sections: 
 
 - 
-  anchor: Begin!
-  title: Begin!
+  indextitle: Begin
+  anchor: Begin
+  title: Begin
+  text: 'Beginnen met een maakproject is vaak het lastigst. Ons advies: aarzel niet, maar start! Wil je even in de ‘maakmood’ komen? Doe eerst de (link: /home/m#marshmallow-challenge text: Marshmallow Challenge) (link: www.marshmallowchallenge.com/ text: bijvoorbeeld). Kijk in dit (link: https://www.ted.com/talks/tom_wujec_build_a_tower?language=nl text:filmpje) waarom. Of maak een Marsh Moonlander (instructie invoegen). Of start een (link:https://openthings.wiki/nl/project/view/47 text: Muizenvalrace) op jouw school! Er zijn tal van oefeningen die je kunt doen om je brein in de maakmodus te brengen.'
+  standardimage: begin.jpg
+  bgcolor: '#e5c80c'
+  textcolor: '#1822d4'
+  alignblock: right
+  minheight: 700px
+  _fieldset: content-block
+- 
+  indextitle: Boren
+  anchor: Boren
+  title: Boren
   text: >
-    Aarzel niet, maar begin! Eert moet je
-    lol krijgen in het maken. Doe eerst de
-    Marshmallow Challenge (link intern)
-    bijvoorbeeld
-    (www.marshmallowchallenge.com/). Kijk in
-    dit filmpje
-    (https://www.ted.com/talks/tom_wujec_build_a_tower?language=nl)
-    waarom. Of maak een Marsh Moonlander
-    (instructie invoegen). Of start een
-    Muizenvalrace op jouw school
-    (https://openthings.wiki/nl/project/view/47).
-  bgcolor: '#ffffff'
+    Boren is het maken van ronde gaatjes in
+    hout of ander materiaal. Het gat kan je
+    dan bijvoorbeeld gebruiken om door
+    middel van een schroef het ene stuk
+    materiaal vast te maken aan het andere.
+    Bijna iedereen gebruikt een elektrische
+    boormachine, maar misschien vind je het
+    veiliger om een handboor te gebruiken.
+    Je hebt ook weer verschillende boren
+    voor verschillende soorten materialen.
+    Van spiraalboor, tot speedboor en
+    houtboor.
+  standardimage: boren.jpg
+  bgcolor: '#9cadcb'
+  textcolor: '#ffffff'
+  alignblock: right
+  minheight: 650px
+  _fieldset: content-block
+- 
+  indextitle: Breien
+  anchor: Breien
+  title: Breien
+  text: >
+    Kies een bolletje wol uit, pak je
+    breinaalden erbij en go! Breien is een
+    techniek om van draad (bijvoorbeeld wol,
+    maar dat kan ook een andere stofsoort
+    zijn) een lap textiel te maken met –
+    natuurlijk – behulp van breipennen. In
+    de Middeleeuwen was breien in Europa
+    booming business en één van de
+    belangrijkste industrieën. Tegenwoordig
+    hoef je het niet meer met de hand te
+    doen, maar kun je een computergestuurde
+    machine, zoals deze
+    (http://openknit.org/build/), het werk
+    voor je laten doen.
+  standardimage: breien2.jpg
+  bgcolor: '#fe5b38'
+  textcolor: '#ffffff'
+  alignblock: left
+  _fieldset: content-block
+  minheight: 100vh
+- 
+  indextitle: Bruggen bouwen
+  anchor: Bruggen bouwen
+  title: Bruggen bouwen
+  text: |
+    We build too many walls and not enough bridges” - Isaac Newton.
+    
+    Een leuk en bekend project voor thuis of op school is een brug bouwen van ijsstokjes. Sommige mensen doen het zelfs zonder lijm te gebruiken. Zo leer je alles over constructies. In dit (link: https://www.nemosciencemuseum.nl/nl/ontdek/constructie/overlay/hoe-maak-je-een-brug-stevig/ text:filmpje) kan je alvast kijken hoe je een brug stevig maakt In figuurlijk zin kun je natuurlijk zeggen dat je door iets te maken, een brug bouwt tussen je hoofd, hart en handen.
+  standardimage: bruggen-bouwen.jpg
+  bgcolor: '#d5dbdb'
   textcolor: '#141414'
-  _fieldset: text-section
+  alignblock: right
+  minheight: 80vh
+  _fieldset: content-block
+- 
+  indextitle: Binair tellen
+  anchor: Binair tellen
+  title: Binair tellen
+  text: 'Wist je dat computers alleen nullen en enen gebruiken? Dat noemen we het binair stelsel. Alles dat je ziet of hoort op de computer - woorden, foto’s, getallen, films en zelfs geluiden - wordt opgeslagen met alleen deze twee getallen! Door binair te leren tellen leer je nadenken over computertaal zonder dat je een computer nodig hebt. Klinkt het nog steeds ingewikkeld? Kijk dan even op deze (link: http://www.codekinderen.nl/leerling/unplugged/binair-tellen/ of op http://www.csunplugged.nl/ text:website).'
+  standardimage: 1010.jpg
+  bgcolor: '#0b3bff'
+  textcolor: '#ffffff'
+  alignblock: left
+  minheight: 100vh
+  _fieldset: content-block
+- 
+  indextitle: Borduren
+  anchor: Borduren
+  title: Borduren
+  text: 'Borduren is het maken van versieringen met naald en garen op textiel, leer of andere ondergronden. Je kunt het helemaal met de hand doen of met hulp van een machine. Het is een oude techniek: vanaf het moment dat mensen stoffen gebruiken, wordt er al geborduurd. Het schijnt zelfs dat de eerste borduursels meer dan 5.000 jaar geleden zijn gemaakt in Oost-Azië.'
+  standardimage: borduren.jpg
+  bgcolor: '#a9b1b4'
+  textcolor: '#ffffff'
+  alignblock: right
+  minheight: 800px
+  _fieldset: content-block
+- 
+  indextitle: Beebot
+  anchor: Beebot
+  title: Beebot
+  text: 'De (link: http://b-bot.nl/producten/bee-bots/bee-bot-oplaadbare-robot/ text: Beebot) is een oplaadbare robot in de vorm van een bijtje, waarmee kinderen spelenderwijs de principes leren van programmeren.'
+  standardimage: beebot.jpg
+  bgcolor: '#96ec82'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: 850px
+  _fieldset: content-block
+- 
+  indextitle: Bomberbot
+  anchor: Bomberbot
+  title: Bomberbot
+  text: 'Bomberbot is een volledig uitgewerkte lesmethode om kinderen van 8 tot 12 (groep 5 t/m 8) te leren (link: http://landing.bomberbot.com/nl/ text: programmeren).'
+  standardimage: bomb.jpg
+  bgcolor: '#ecede7'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: 600px
+  _fieldset: content-block
+- 
+  indextitle: Bare Conductive
+  anchor: Bare Conductive
+  title: Bare Conductive
+  text: |
+    Bare Conductive is een kit waarmee je interactieve projecten maakt met behulp van geleidende verf. https://www.bareconductive.com/. Lekker kant en klaar, alles in één doos. Maar je kan ook eerst eens laagdrempelig en goedkoop starten. Kijk bijvoorbeeld maar eens hoe je gedichten interactief kan maken met behulp van geleidende verf onder (link: http://fabschool.nl/?p=546 text:  ‘geleidende poëzie’).
+    
+    (link: https://vimeo.com/129691781 text: Nog meer inspiratie! )
+  standardimage: bare.jpg
+  bgcolor: '#ecede7'
+  textcolor: '#141414'
+  alignblock: right
+  minheight: ""
+  _fieldset: content-block
+- 
+  indextitle: Boetseren
+  anchor: Boetseren
+  title: Boetseren
+  text: >
+    Boetseren of kleien (link intern) is het
+    vormen van een kneedbare massa tot een
+    object.
+  standardimage: boetseren.jpg
+  bgcolor: '#e69e30'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: 600px
+  _fieldset: content-block
+- 
+  indextitle: Bibliotheken
+  anchor: Bibliotheken
+  title: Bibliotheken
+  text: 'Bibliotheken hebben meer te bieden dan alleen boeken.  Wist je bijvoorbeeld dat veel bibliotheken zich ook steeds vaker richten op digitale geletterdheid en maakonderwijs? Frysklab (www.frysklab.nl) is pionier in Nederland en timmert al jaren aan de weg. En inmiddels zijn er onder meer maker spaces in de bibliotheek in Tilburg, Hilversum, Cubiss heeft de MakersBuzz en Amsterdam is gestart met een groot project waar in de komende jaren in 10 bibliotheken Maakplaatsen worden ontwikkeld. Zo krijgt elk kind de kans om aan de slag te gaan met  (link: http://www.maakplaats021.com text:  maakonderwijs!).'
+  standardimage: books.jpg
+  bgcolor: '#e5e5e5'
+  textcolor: '#141414'
+  alignblock: right
+  minheight: 600px
+  _fieldset: content-block
 
 ----
 

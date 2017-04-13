@@ -1,4 +1,4 @@
-Sectiondefault: 
+Sectiondefault:
 
 ----
 
@@ -14,27 +14,70 @@ Cover: rocket.jpg
 
 ----
 
-Preview: 
+Preview:
 
 ----
 
-Sections: 
+Sections:
 
-- 
-  text: dsadsadas
-  _fieldset: bodytext
+-
+  indextitle: Experimenteren
+  anchor: Experimenteren
+  title: Experimenteren
+  text: |
+    Experimenteren is nieuwe dingen uitproberen. En met nieuwe dingen uitproberen weet je natuurlijk nooit wat de uitkomst is! Precies dat maakt experimenteren leuk en spannend. Innovatie ontstaat dan ook door een idee stapje voor stapje voor stap je uit te werken. Uitproberen, verbeteren, uitproberen, verbeteren. Hier komen de beste producten uit!
+
+    In een (link: /home/f#fablab text: FabLab) hebben ze veel apparaten die het mogelijk maken om op deze manier te werken.
+
+    “It is only through failure and through experiment that we learn and grow.” — Isaac Stern
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Elektronica
+  anchor: Elektronica
+  title: Elektronica
+  text: |
+    Nog zo’n woord dat niet meer weg te denken is uit onze wereld. Elektronica is zowel een wetenschap als een ander woord voor (link: https://nl.wikipedia.org/wiki/Elektronische_component text: elektronische componenten). In het laatste geval is het kortgezegd een verzamelnaam voor alle onderdelen waar elektriciteit doorheen gaat zoals lampjes en motortjes. De onderdelen gaan van heel simpel, zoals bijvoorbeeld een gloeilampje, tot iets heel ingewikkelds zoals een microcontroller (link Arduino). Een ingewikkeld component is vaak opgebouwd uit een heleboel simpele onderdelen. Zo bestaat een processor van een computer onder andere uit een paar miljard redelijk simpele transistors die als schakelaar werken. Maar gelukkig hoef je het niet allemaal per se te begrijpen om er mee te kunnen werken.
+
+    Wil je je maakprojecten interactief maken? Dan moet je vrijwel altijd werken met elektronica. En dat kan heel gemakkelijk met een MakeyMakey of Hummingbird.
+  standardimage: electronica.jpg
+  bgcolor: '#7f64d9'
+  textcolor: '#ffffff'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Eigenaarschap
+  anchor: Eigenaarschap
+  title: Eigenaarschap
+  text: |
+    Eigenaarschap kun je op verschillende manieren uitleggen. Het kan heel letterlijk betekenen dat iets van jou is bijvoorbeeld omdat je het gekocht hebt, maar het kan ook slaan op iets dat je bedacht hebt, jouw idee. Eigenaarschap kan ook iets zeggen over de verbondenheid die je voelt met iets dat van jou is.
+
+    Het Maker Manifesto stelt dat je je meer verbonden gaat voelen met producten als je ze “de baas” bent omdat je er controle over hebt. Een bekende uitspraak is :  “If you can’t open it, you don’t own it.”, daarmee wordt bedoeld dat je niet echt de eigenaar van een product bent als de maker ervan niet wil dat jij weet hoe het gemaakt is. Kijk bijvoorbeeld eens naar je telefoon, heeft de fabrikant het makkelijk voor je gemaakt om deze uit elkaar te halen of juist extra moeilijk. Sommige fabrikanten doen juist wel hun best om hun producten “open” te houden.
+
+    De makers van FairPhone bijvoorbeeld vinden dat het belangrijk is dat je zelf je telefoon kunt repareren als jij dat wilt. Door maken en repareren ontstaat eigenaarschap en wat je zelf gemaakt hebt vind je mooier en je zorgt er beter voor. Dat wordt ook wel het IKEA effect genoemd.  En wanneer je beter voor iets zorgt gaat het langer mee en dat is dan weer erg (link: /home/d#duurzaamheid text: duurzaam).
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
 
 ----
 
-Sectionmeta: 
+Sectionmeta:
 
 ----
 
-Author: 
+Author:
 
 ----
 
-Keywords: 
+Keywords:
 
 ----
 
@@ -46,12 +89,16 @@ Edited: 2017-02-20 12:50:00
 
 ----
 
-Sectionseo: 
+Sectionseo:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:
+
+----
+
+Video:

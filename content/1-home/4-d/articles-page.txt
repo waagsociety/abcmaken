@@ -10,7 +10,7 @@ Description: hoi hoi hoi hoi hoi hoi
 
 ----
 
-Cover: rocket.jpg
+Cover: abc-letter-d.jpg
 
 ----
 
@@ -21,8 +21,212 @@ Preview:
 Sections: 
 
 - 
-  text: dsadsadas
-  _fieldset: bodytext
+  indextitle: Delen
+  anchor: Delen
+  title: Delen
+  text: 'Als we allemaal wat meer zouden delen, zou de wereld een stukje mooier zijn. Probeer daarom ook je kennis en vaardigheden zoveel mogelijk te delen met andere mensen. Dit kun je natuurlijk doen onder je (link: /home/l#licentie text: eigen voorwaarden). Tip: zorg voor (link: /home/d#documenteren-en-delen text: goede documentatie). Zie ook (link: /home/o#open-source text: Open Source).'
+  standardimage: delen.jpg
+  bgcolor: '#ff9c85'
+  textcolor: '#3b2f2f'
+  alignblock: left
+  _fieldset: content-block
+  minheight: 800px
+- 
+  indextitle: Dromen
+  bgcolor: '#e65050'
+  textcolor: '#ffffff'
+  anchor: dromen
+  title: Dromen
+  text: “If you can dream it, you can do it”
+  citation: Walt Disney
+  _fieldset: quote
+- 
+  indextitle: DIY
+  anchor: DIY
+  title: DIY
+  text: |
+    DIY staat voor Do It Yourself. Dus het zelf doen, zelf maken, zelf uitzoeken en leren. Grappig genoeg is maken juist vaak iets dat je samen doet. Do It Together dus eigenlijk.
+    
+    Op (link: https://diy.org/ text: DIY.org) vind je veel projecten voor en door kinderen. Niet te verwarren met doe-het-zelven wat in Nedeland zoiets betekent als klussen aan je huis, al gaat dat natuurlijk ook over creativiteit en maken.
+  standardimage: delen.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+- 
+  indextitle: Doen doen doen
+  bgcolor: '#62decf'
+  textcolor: '#ffffff'
+  anchor: doen doen doen
+  title: Doen Doen Doen
+  text: >
+    “Ik hoor en ik vergeet, ik zie en ik
+    onthoud, ik doe en ik begrijp.”
+  citation: Confusius
+  _fieldset: quote
+- 
+  indextitle: Digitale fabricage
+  anchor: Digitale fabricage
+  title: Digitale fabricage
+  text: >
+    Dingen maken door ze te ontwerpen op de
+    computer waarna de computer een ander
+    apparaat aanstuurt om het model om te
+    zetten in een fysiek object. Zo ontwerp
+    je bijvoorbeeld eerst een koffiekopje in
+    een 3D programma op de computer en
+    vervolgens laat je de 3D printer jouw
+    ontwerp uitprinten. Andere apparaten die
+    veel gebruikt worden voor digitale
+    fabricage zijn de CNC frees en de
+    lasersnijder.
+  standardimage: delen.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+- 
+  indextitle: Documenteren en delen
+  anchor: Documenteren en delen
+  title: Documenteren en delen
+  text: 'Documenteren is het vastleggen van je (maak)proces door dit je stappen op te schrijven, te fotograferen of te filmen. Wanneer je precies bijhoudt hoe je iets gemaakt hebt en welke fouten je daarbij gemaakt hebt, kunnen anderen daarvan leren en kan je het bovendien zelf nog een keer maken. Win-win situatie toch? Als je je jouw maakproces deelt met anderen kunnen zij aan de slag gaan met jouw ontwerp en het misschien zelfs verbeteren. Zo wordt het samenwerken. Wist je dat er op die manier door over de hele wereld zelfs een (link: http://reprap.org text: 3D printer is ontwikkeld)? Op het internet bestaan er verschillende platforms die handig maken om samen te werken door documentatie te delen: OpenThings, Instructables, Makezine, Youtube.'
+  standardimage: delen.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+- 
+  indextitle: 3d printen
+  anchor: 3d printen
+  title: 3d printen
+  text: |
+    3d printen, ook wel Additive Manufacturing, Rapid Prototyping of Rapid Manufacturing genoemd, is een productietechniek waarbij een digitaal bestand omgezet wordt naar een tastbaar object. Het object wordt laagje voor laagje opgebouwd door de 3D-printer.
+    Er zijn veel verschillende goede 3d printers. De Nederlandse (link: https://ultimaker.com/ text: Ultimaker) is een bekende en maakt het steeds gemakkelijker om zelf, thuis en op school, aan de slag te gaan. De ultimaker website heeft hele goede tutorials. En het is best magisch natuurlijk! En kan leuk en leerzaam zijn bovendien. Maar denk wel even na voordat je zomaar iets print. Het is plastic, gaat langzaam en kost energie. Of werk met gerecycled fillament: (link invoegen).
+  standardimage: delen.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+- 
+  indextitle: 2D ontwerpen
+  anchor: 2D ontwerpen
+  title: 2D ontwerpen
+  text: |
+    2D ontwerpen is het ontwerpen van platte objecten. Wanneer je iets op stuk karton hebt getekend en dat uitknipt is dat een 2D ontwerp. Ook de knopjes die je op je computerscherm tegenkomt zijn in 2D.  
+    
+    Het ontwerpen in 2D gaat goed met computerprogramma’s zoals Illustrator of (link: https://inkscape.org/en/ text: InkScape). Vanuit deze programma’s kun je eenvoudig een lasersnijder aansturen die jouw ontwerp uit een plaat van hout of plastic kan snijden. Je kunt ook een 3D (link intern) ontwerp maken door bijvoorbeeld platte onderdelen op elkaar te lijmen of in elkaar te schuiven kijk maar eens naar dit (link: http://wiki.fablab.is/wiki/BOX text: doosje)
+  standardimage: delen.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+- 
+  indextitle: 3D ontwerpen
+  anchor: 3D ontwerpen
+  title: 3D ontwerpen
+  text: |
+    3D ontwerpen is het ontwerpen van ruimtelijke objecten (bijvoorbeeld theekopjes of gebouwen) op een computer. De moeilijkheid is dat het een driedimensionale manier van kijken en denken vergt, terwijl je werkt op een plat (2D) scherm. Probeer maar eens een kubus te tekenen op een stuk papier! Dat kan best lastig zijn.
+    
+    Gelukkig zijn er steeds meer software programma’s die het makkelijk voor je maken, zoals (link: http://www.tinkercad.com text: Tinkercad) en Google Sketch-up. (link: http://doodle3d.com/ text: Doodle 3d Transform) is een nieuwe app waarmee je gemakkelijk 2d tekeningen om kan zetten in 3d ontwerpen.
+    
+    Er zijn ook apps waarmee je een tastbaar object kan omzetten in een 3D model door er een heleboel (link: http://www.123dapp.com/catch text: foto’s van te maken). Als juist het tegenovergestelde wilt doen kun je bijvoorbeeld een (link: /home/d#3d-printen text: 3D printer) gebruiken.
+  standardimage: delen.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+- 
+  indextitle: Design
+  anchor: Design
+  title: Design
+  text: |
+    Design: “Crowds may be wise, but they still need designers” - John Thackara
+    Ontwerp.
+  standardimage: delen.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+- 
+  indextitle: Design thinking
+  anchor: Design thinking
+  title: Design thinking
+  text: |
+    Design Thinking (DT) is een methode, een manier van denken en werken om op een praktische en creatieve manier problemen op te lossen of nieuwe producten en diensten te ontwikkelen. DT bestaat uit meerdere essentiële vaardigheden in een combinatie van empathie, creativiteit en rationaliteit om in behoeftes van gebruikers te voorzien en nieuwe waarde te creëren. DT is in essentie een creatief proces, dat, anders dan analytisch denken, vooral zorgt voor het genereren van goede ideeën. Niet oordelen is erg belangrijk. Dit voorkomt de angst voor het maken van fouten en zorgt ervoor dat iedereen meedoet in het creëren van ideeën en eerste prototypes.
+    
+    Design and Thinking is een documentaire over Design Thinking die (link: https://www.youtube.com/watch?v=Z_YwyMssN0Y text: hier) te bekijken is. En Design Thinking vindt ook steeds meer zijn weg naar het onderwijs: Het gerenommeerde Design Bureau IDEO ontwikkelde een uitgebreide Design Thinking toolkit for educators die gratis te (link: https://designthinkingforeducators.com/ text: downloaden) is.
+    
+    Op de Designathon (link: http://www.designathonschool.com/ text: website) maak je kennis met de Designathon methode en de didactiek van ontwerpend leren. Studio Tast ontwikkelde recentelijk ook een Design Thinking Toolkit voor het onderwijs; (link: http://www.studiotast.com/loep.html text: Loep).
+  standardimage: brain.jpg
+  bgcolor: '#e0e6e6'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+- 
+  indextitle: Drones
+  anchor: Drones
+  title: Drones
+  text: >
+    Drones zijn vet, maar het is misschien
+    te ingewikkeld om er eentje helemaal
+    vanaf nul te bouwen. Er komt best veel
+    bij kijken. Je moet bijvoorbeeld de
+    computer programmeren om de sensoren uit
+    te lezen en de motoren aan te sturen.
+    Sommige onderdelen zoals propellers kun
+    je in principe zelf ontwerpen en
+    printen, maar ook dat is niet makkelijk!
+    Misschien is het een idee om met een
+    bouwpakket te beginnen, bovendien kan
+    dat ook nog wel eens voordelig
+    uitpakken. Ook zou je kunnen kijken naar
+    een Open Source drone. Dat is een
+    ontwerp waarvan je alle bronbestanden
+    kunt downloaden. Dan hoef je de
+    besturingssoftware niet zelf te maken en
+    kun je sommige onderdelen uitprinten
+    omdat je het ontwerp daarvan kan
+    downloaden als 3D bestand. Als je echt
+    de smaak te pakken hebt, kun je de
+    bestaande ontwerpen aanpassen of
+    verbeteren. Lees meer over "digital
+    fabrication" en "open source".
+  standardimage: delen.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+- 
+  indextitle: Digitale geletterdheid
+  anchor: Digitale geletterdheid
+  title: Digitale geletterdheid
+  text: 'Digitale geletterdheid wordt steeds belangrijker. SLO ontwikkelde een leerlijn (link: http://curriculumvandetoekomst.slo.nl/projecten/leerlijnen-digitale-geletterdheid text: digitale geletterdheid) die bestaat uit computational thinking, mediawijsheid, informatievaardigheden en ICT basisvaardigheden.'
+  standardimage: delen.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+- 
+  indextitle: Duurzaamheid
+  anchor: Duurzaamheid
+  title: Duurzaamheid
+  text: 'Wil jij ook dat toekomstige generaties mensen en dieren nog plezier hebben van deze te gekke planeet? Ja? Cool! Wij ook. Dat noemen we dus duurzaamheid. En wie A zegt moet B doen. Als maker heb je namelijk ook te maken met duurzaamheid. Probeer bijvoorbeeld niet meer grondstoffen te gebruiken dan nodig. Het is helemaal mooi als je weet dat je grondstoffen op een op een milieuvriendelijke en eerlijke manier zijn gemaakt. Misschien lukt het je zelfs om iets te maken dat gemakkelijk gerepareerd kan worden. Repareren is bijna altijd beter voor het milieu dan iets nieuw aanschaffen. Tenslotte kun je er ook nog voor zorgen dat jouw ontwerp makkelijk uit elkaar gehaald kan worden, zodat jijzelf of iemand anders weer iets nieuws kan maken van dezelfde grondstoffen. Stel jezelf bij elk maakproces de vraag: kan ik of iemand anders dit materiaal hergebruiken of recyclen?'
+  standardimage: duurzaamheid.jpg
+  bgcolor: '#24cb95'
+  textcolor: '#ffffff'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
 
 ----
 
@@ -55,3 +259,7 @@ Seotitle:
 ----
 
 Seodescription: 
+
+----
+
+Video: 

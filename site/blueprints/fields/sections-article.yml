@@ -10,7 +10,7 @@ fieldsets:
         type: textarea
       anchor:
         label: Anchor
-        type: text   
+        type: text
   quote:
     label: Quote
     fields:
@@ -19,7 +19,7 @@ fieldsets:
       textcolor: text-color
       anchor:
         label: Anchor
-        type: text   
+        type: text
       title:
         label: Title
         type: text
@@ -35,26 +35,29 @@ fieldsets:
       indextitle: indextitle
       anchor:
         label: Anchor
-        type: text   
+        type: text
       title: title
       text: text
       standardimage: image-cover
       bgcolor: background-color
       textcolor: text-color
       alignblock: align-block
+      minheight:
+        label: Min height
+        type: text
   image-section:
     label: image-section
     fields:
       standardimage: image-cover
       anchor:
         label: Anchor
-        type: text   
+        type: text
   text-section:
     label: text-section
     fields:
       anchor:
         label: Anchor
-        type: text   
+        type: text
       title: title
       text: text
       bgcolor: background-color

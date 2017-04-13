@@ -1,4 +1,4 @@
-Sectiondefault: 
+Sectiondefault:
 
 ----
 
@@ -14,27 +14,159 @@ Cover: rocket.jpg
 
 ----
 
-Preview: 
+Preview:
 
 ----
 
-Sections: 
+Sections:
 
-- 
-  text: dsadsadas
-  _fieldset: bodytext
+-
+  indextitle: Invent to Learn
+  anchor: Invent to Learn
+  title: Invent to Learn
+  text: 'Hét boek voor als je aan de slag wilt met Maakonderwijs. De auteurs, Sylvia Martinez en Gary Stager, nemen je stap voor stap mee in de wondere wereld van het maken. Hier vind je meer info over het (link: http://www.inventtolearn.com text: boek).'
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Interactief
+  anchor: Interactief
+  title: Interactief
+  text: >
+    We noemen iets interactief als het in
+    staat is om te reageren. Twee
+    richtingsverkeer dus. Interactieve
+    lesgeven wordt dan ook steeds
+    populairder. Het is ook leuk om iets te
+    ontwerpen dat interactief is. Zo kun je
+    met een Makey Makey allerlei objecten
+    die normaal gesproken niks doen, zoals
+    bananen of water, interactief maken. Als
+    je ze aanraakt maakt het object dan
+    bijvoorbeeld geluid. Heel leuk om uit te
+    proberen!
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Internet
+  anchor: Internet
+  title: Internet
+  text: |
+    Het internet is een wereldwijd netwerk van computers. Als jij een wensite op je telefoon of computer bekijkt, zie je informatie die iemand anders beschikbaar heeft gemaakt op een andere computer. Door uitvinding van het internet is delen van informatie met mensen over de hele wereld veel makkelijker geworden.
+
+    “We are all connected by the Internet. Like neurons in a giant brain” - Stephen Kawking.
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Internet of Things
+  anchor: Internet of Things
+  title: Internet of Things
+  text: 'Internet of things is het idee dat je naast computers en telefoons ook allerlei andere apparaten, zoals wasmachines en koelkasten, aan het internet kunt koppelen door er kleine computertjes in te stoppen. Een slimme koelkast zou jou bijvoorbeeld een berichtje kunnen sturen als de melk op is. Het is ook leuk om jou eigen maaksels aan het internet te hangen. Maak bijvoorbeeld een kerstboom die je op afstand aan en uit kunt zetten met technologie van (link: https://www.thethingsnetwork.org text: TheThingsnetwork).'
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Instructables
+  anchor: Instructables
+  title: Instructables
+  text: '(link: http://www.instructables.com text: Instructables) heeft niet voor niets als tagline: ‘Let’s Make’. Het is een online bron van inspiratie voor alles dat je wilt maken; van de beste appeltaart tot een eye tracker voor je computer. En alles vastgelegd en gedocumenteerd in heldere stap-voor-stap foto-instructies. En kijk vooral ook op (link: http://instructables.com/classes text: Instructables Classes)! Je hele maak-curriculum online!'
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Instructables Restaurant
+  anchor: Instructables Restaurant
+  title: Instructables Restaurant
+  text: 'Kan de kantine op school een goede make-over gebruiken? Of ben je op zoek naar een mooi project voor met je hele school? Maak een Instructables restaurant! Het (link: http://waag.org/nl/project/instructables-restaurant text: Instructables Restaurant) van Arne Hendriks en Waag Society was het eerste restaurant ter wereld waar letterlijk alles wat je zag, gebruikte en at, afkomstig was van de website Instructables.com. Maak er bijvoorbeeld een projectweek van. (link: http://www.instructables.com/id/How-to-make-an-Instructables-Restaurant/ text: Hier) vindt je hoe je te werkt gaat.'
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Intrinsieke motivatie
+  bgcolor: '#668cd1'
+  textcolor: '#ffffff'
+  anchor: Intrinsieke motivatie
+  title: Intrinsieke motivatie
+  text: >
+    “The inner fire is the most important
+    thing mankind possesses.”
+  citation: Edith Södergran
+  _fieldset: quote
+-
+  indextitle: Inkscape
+  anchor: Inkscape
+  title: Inkscape
+  text: 'Inkscape is  Open Source (link intern) computerprogramma voor het maken van 2D ontwerpen (link intern) die je bijvoorbeeld door een lasersnijder kan laten uitprinten. https://inkscape.org/en/'
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Innovation
+  bgcolor: '#668cd1'
+  textcolor: '#ffffff'
+  anchor: Innovation
+  title: Innovation
+  text: >
+    “There is no innovation and creativity without failure. Period.”
+  citation: Brene Brown
+  _fieldset: quote
+-
+  indextitle: Illustrator
+  anchor: Illustrator
+  title: Illustrator
+  text: |
+    Illustrator is een computerprogramma voor het maken van (link: /home/d#2d-ontwerpen text: 2D ontwerpen). Een gratis is alternatief is (link: /home/i#inkscape text: Inkscape)
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Intuitie
+  bgcolor: '#668cd1'
+  textcolor: '#ffffff'
+  anchor: Intuitie
+  title: Intuitie
+  text: >
+    “It is through science that we prove, through intuition that we discover.”
+  citation: Jules Henri Poincare
+  _fieldset: quote
 
 ----
 
-Sectionmeta: 
+Sectionmeta:
 
 ----
 
-Author: 
+Author:
 
 ----
 
-Keywords: 
+Keywords:
 
 ----
 
@@ -46,12 +178,16 @@ Edited: 2017-02-20 12:50:00
 
 ----
 
-Sectionseo: 
+Sectionseo:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:
+
+----
+
+Video:

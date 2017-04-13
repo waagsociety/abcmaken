@@ -1,4 +1,4 @@
-Sectiondefault: 
+Sectiondefault:
 
 ----
 
@@ -10,31 +10,65 @@ Description: hoi hoi hoi hoi hoi hoi
 
 ----
 
-Cover: rocket.jpg
+Cover: abc-letter-u.jpg
 
 ----
 
-Preview: 
+Preview:
 
 ----
 
-Sections: 
+Sections:
 
-- 
-  text: dsadsadas
-  _fieldset: bodytext
+-
+  indextitle: Uitvinden
+  bgcolor: '#668cd1'
+  textcolor: '#ffffff'
+  anchor: Uitvinden
+  title: Uitvinden
+  text: >
+    “The best way to invent to future is to invent it”
+  citation: Alan Kay
+  _fieldset: quote
+-
+  indextitle: Unplugged
+  anchor: Unplugged
+  title: Unplugged
+  text: |
+    Deze term wordt vaak gebruikt voor leren over computers, programmeren en digitale technieken zonder daarbij gebruik te maken van computers. Ja, dat kan! Sterker nog: soms is het zelf makkelijker om alle computers even weg te leggen en bijvoorbeeld metaforen te gebruiken om een technisch onderwerp uit te leggen.
+
+    Zie Computer Science Unplugged. En (link: http://www.codekinderen.nl/leerling/unplugged/index.html text: zie) En in dit (link: http://www.codekinderen.nl/leerling/unplugged/sandwich-robot/index.html text: filmpje) zie je hoe kinderen hun leraar programmeren waarbij hij doet alsof hij een robot is.
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+-
+  indextitle: Urban mining
+  anchor: Urban mining
+  title: Urban mining
+  text: |
+    Je leefomgeving zit boordevol materiaal dat je kunt hergebruiken! Net als mijnwerkers zoeken naar grondstoffen kun je zelf ook speuren naar grondstoffen zonder in de grond te hoeven wroeten.
+    Bijvoorbeeld door een oude telefoon open te maken en alles wat er in zit netjes los te halen en te sorteren: Fairphone heeft een handleiding gemaakt voor het “minen” van een (link:
+    https://www.fairphone.com/wp-content/uploads/2016/09/Fairphone-Urban-Mining-Manual.-Miners-Guide.pdf text: oude telefoon).
+  standardimage: rocket.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+----
+
+Sectionmeta:
 
 ----
 
-Sectionmeta: 
+Author:
 
 ----
 
-Author: 
-
-----
-
-Keywords: 
+Keywords:
 
 ----
 
@@ -46,12 +80,16 @@ Edited: 2017-02-20 12:50:00
 
 ----
 
-Sectionseo: 
+Sectionseo:
 
 ----
 
-Seotitle: 
+Seotitle:
 
 ----
 
-Seodescription: 
+Seodescription:
+
+----
+
+Video:

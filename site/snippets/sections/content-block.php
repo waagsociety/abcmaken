@@ -1,10 +1,19 @@
 <style>
+  .section-<?php echo $index ?> {
+    min-height: <?= $data->minheight() ?>;
+  }
   .section-<?php echo $index ?> .bg {
     background-image: url(<?= $page->image($data->standardimage())->url() ?>);
+    background-color: <?= $data->bgcolor() ?> !important;
+
+    <?php if($page->contain() == '1'): ?>
+      background: contain;
+    <?php endif ?>
   }
 
   .section-<?php echo $index ?> .content-wrapper {
     background: <?= $data->bgcolor() ?> !important;
+
     <?php if($data->alignblock() == 'left'): ?>
     order: -1;
     <?php else: ?>
@@ -24,7 +33,7 @@
     <div class="content">
       <h2><?= $data->title() ?></h2>
       <?php if($data->text()->isNotEmpty()): ?>
-       <?php echo kirbytext($data->text()) ?>
+      <?php echo $data->text()->kt() ?>
       <?php endif ?>
     </div>
   </div>

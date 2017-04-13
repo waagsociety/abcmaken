@@ -66,7 +66,7 @@
   .stripe {
     background: red;
   }
-  
+
   .stripe:nth-of-type(1) {
     transform: rotate(45deg) translateY(14px);
   }
@@ -130,7 +130,7 @@
   }
 }
 
-/* Standard syntax */ 
+/* Standard syntax */
 @keyframes scrollDownUp {
   0% {top: 5px;}
   50% {top: 35px;}
@@ -139,18 +139,14 @@
 
 
 .menu-list {
-  display: flex;
-  flex-wrap: wrap;
+  column-count: 4;
+  column-gap: 40px;
   padding: 5em;
 
   .item {
-    width: 21.3vw;
     color: #fff;
-    margin-bottom: 4em;
-
-    @include breakpoint(s) {
-      width: 50%;
-    }
+    margin-bottom: 1em;
+    break-inside: avoid-column;
   }
 
   li {
@@ -166,10 +162,10 @@
   }
 
   .letter {
-    font-size: 2em;    
+    font-size: 2em;
   }
 
   a {
     color: #fff;
   }
-} 
+}

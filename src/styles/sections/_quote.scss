@@ -7,7 +7,7 @@
   widows: 100%;
 
   blockquote {
-    font-size: 2em;
+    font-size: 1.2em;
     font-weight: 700;
     letter-spacing: 0.15em;
     text-transform: uppercase;
@@ -18,5 +18,8 @@
     font-weight: 500;
     letter-spacing: 0.1em;
   }
+  .description {
+    font-size: 1.5em;
+    font-weight: 700;
+  }
 }
-
