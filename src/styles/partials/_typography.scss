@@ -6,6 +6,10 @@ html {
 
 body {
   font-family: "brandon-grotesque",sans-serif;
+
+  @include breakpoint(l) {
+    font-size: 87.5%;
+  }
 }
 
 h1,
@@ -62,7 +66,8 @@ h6,
 }
 
 p,
-blockquote {
+blockquote,
+li {
   hyphens: none;
   font-size: 1.4em;
 }
@@ -98,4 +103,11 @@ button,
 .btn,
 label {
   font-weight: 700;
+}
+.main ul {
+  padding-left: 2em;
+}
+
+.main li {
+  list-style: square;
 }

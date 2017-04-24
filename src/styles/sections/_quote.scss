@@ -6,6 +6,10 @@
   text-align: center;
   widows: 100%;
 
+  @include breakpoint(s) {
+    font-size: 87.5%;
+  }
+
   blockquote {
     font-size: 1.2em;
     font-weight: 700;

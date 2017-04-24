@@ -1,4 +1,4 @@
-Sectiondefault:
+Sectiondefault: 
 
 ----
 
@@ -14,142 +14,144 @@ Cover: abc-letter-l.jpg
 
 ----
 
-Preview:
+Preview: 
 
 ----
 
-Sections:
+Sections: 
 
--
+- 
   indextitle: Licentie
   anchor: Licentie
   title: Licentie
   text: |
     Wanneer je iets gemaakt hebt, kun je andere mensen toestemming geven om jouw ontwerpen te gebruiken, te kopiëren of aan te passen. In een licentie (een stuk tekst) kun je precies aangeven wat er van jou wel of niet mag. Je kunt dan bijvoorbeeld aangeven dat als iemand jouw ontwerp gebruikt (bijvoorbeeld om het te verbeteren) dat diegene zijn/haar ontwerp ook weer moet delen.
     Het delen van ontwerpen (zie link intern Open Source) en het gebruiken van licenties is erg belangrijk. Veel mensen die zelf dingen maken gebruiken een Creative Commons (link intern) licentie.
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: licentie.jpg
+  bgcolor: '#ffa54f'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
+  standardimage: lef.jpg
+  anchor: ""
+  _fieldset: image-section
+- 
   indextitle: Lef
-  bgcolor: '#668cd1'
+  bgcolor: '#ff8355'
   textcolor: '#ffffff'
   anchor: Lef
   title: Lef
   text: >
-    “Ik heb het nog nooit gedaan, dus ik denk dat ik het wel kan”
+    “Ik heb het nog nooit gedaan, dus ik
+    denk dat ik het wel kan”
   citation: Pippi Langkous
   _fieldset: quote
--
+- 
   indextitle: Leren door te maken
   anchor: Leren door te maken
   title: Leren door te maken
-  text: |
-    Door dingen te doen, ervaar je ze. En doordat je het ervaart, bergrijp je het beter. Dat is waar leren door te maken om draait. Bekijk ook de link naar Maakonderwijs.
+  text: >
+    Door dingen te doen, ervaar je ze. En
+    doordat je het ervaart, bergrijp je het
+    beter. Dat is waar leren door te maken
+    om draait. Bekijk ook de link naar
+    Maakonderwijs.
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Led knuffel
   anchor: Led knuffel
   title: Led knuffel
-  text: |
-    Je kunt eindeloos veel leuke dingen maken met LED-lampjes. Zo ook deze lichtgevende knuffel bijvoorbeeld, vooral een leuke (link: https://waag.org/sites/waag/files/public/media/publicaties/led-knuffel.pdf   text: maakproject) voor jonge kids.
+  text: 'Je kunt eindeloos veel leuke dingen maken met LED-lampjes. Zo ook deze lichtgevende knuffel bijvoorbeeld, vooral een leuke (link: https://waag.org/sites/waag/files/public/media/publicaties/led-knuffel.pdf   text: maakproject) voor jonge kids.'
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Lasersnijder / lasercutter
   anchor: Lasersnijder / lasercutter
   title: Lasersnijder / lasercutter
-  text: |
-    Een lasersnijder is een apparaat dat door met behulp van een laserstraal materialen brandt. Dit apparaat wordt met de computer aangestuurd om 2D ontwerpen (link intern) uit een plaat van hout, plastic, metaal of zelf glas te snijden. Je kunt het apparaat ook gebruiken om te graveren. Er ontstaat dan een tekening in het materiaal, omdat het niet helemaal doorgesneden is. Leuk weetje: de letters uit deze afbeelding zijn ook met de (link: http://fablab.waag.org/machines/laser-cutter text: lasercutter) gesneden.
-  standardimage: rocket.jpg
+  text: 'Een lasersnijder is een apparaat dat door met behulp van een laserstraal materialen brandt. Dit apparaat wordt met de computer aangestuurd om 2D ontwerpen (link intern) uit een plaat van hout, plastic, metaal of zelf glas te snijden. Je kunt het apparaat ook gebruiken om te graveren. Er ontstaat dan een tekening in het materiaal, omdat het niet helemaal doorgesneden is. Leuk weetje: de letters uit deze afbeelding zijn ook met de (link: http://fablab.waag.org/machines/laser-cutter text: lasercutter) gesneden.'
+  standardimage: lasercutter.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: LEGO
   anchor: LEGO
   title: LEGO
-  text: |
-    We hoeven natuurlijk niet uit te leggen wat LEGO is. Maar wist je dat je met LEGO serieuze machines en robots kan maken? De (link: http://www.legoleerlijn.nl/mindstorms/ text: Mindstorms) module kun je helemaal programmeren (link: /home/p#programmeren text: programmeren) zodat jouw LEGO bouwsel kan reageren op knopjes én motortjes kan aansturen. Dit Deense speelgoed hoort thuis in de spelletjeskast van elke maker!
+  text: 'We hoeven natuurlijk niet uit te leggen wat LEGO is. Maar wist je dat je met LEGO serieuze machines en robots kan maken? De (link: http://www.legoleerlijn.nl/mindstorms/ text: Mindstorms) module kun je helemaal programmeren (link: /home/p#programmeren text: programmeren) zodat jouw LEGO bouwsel kan reageren op knopjes én motortjes kan aansturen. Dit Deense speelgoed hoort thuis in de spelletjeskast van elke maker!'
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Linux
   anchor: Linux
   title: Linux
-  text: |
-    Een (link: /o#open-source text: Open Source) besturingssysteem voor computers dat vergelijkbaar is met bijvoorbeeld Windows. Linux is het idee van Linus Thorvalds en is door samenwerking van mensen over de hele wereld ontstaan en is onmisbaar voor het internet. Een mooi voorbeeld van je (link: https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux text: idee) delen met de rest van de wereld.
+  text: 'Een (link: /o#open-source text: Open Source) besturingssysteem voor computers dat vergelijkbaar is met bijvoorbeeld Windows. Linux is het idee van Linus Thorvalds en is door samenwerking van mensen over de hele wereld ontstaan en is onmisbaar voor het internet. Een mooi voorbeeld van je (link: https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux text: idee) delen met de rest van de wereld.'
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Lijmpistool
   anchor: Lijmpistool
   title: Lijmpistool
-  text: |
-    Een lijmpistool maakt gebruik van lijm die smelt als deze warm wordt. Zodra het pistool warm is kun je de lijm aanbrengen en als deze weer is afgekoeld zit de lijm vast. Naast dat je met zo’n ding heel goed plastic kan lijmen kun je het ook gebruiken om er kunst mee te (link: https://www.youtube.com/watch?v=1IPQO_iT-60 text: maken)
+  text: 'Een lijmpistool maakt gebruik van lijm die smelt als deze warm wordt. Zodra het pistool warm is kun je de lijm aanbrengen en als deze weer is afgekoeld zit de lijm vast. Naast dat je met zo’n ding heel goed plastic kan lijmen kun je het ook gebruiken om er kunst mee te (link: https://www.youtube.com/watch?v=1IPQO_iT-60 text: maken)'
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Luchtfotografie
   anchor: Luchtfotografie
   title: Luchtfotografie
-  text: |
-    Luchtfoto’s worden meestal gemaakt met vliegtuigen of drones. Maar wist je dat je met een vlieger of gasballon en een camera ook een heel eind kunt komen? En je kunt ‘m – uiteraard – gewoon zelf (link: http://fabschool.nl/?p=36 text: maken).
+  text: 'Luchtfoto’s worden meestal gemaakt met vliegtuigen of drones. Maar wist je dat je met een vlieger of gasballon en een camera ook een heel eind kunt komen? En je kunt ‘m – uiteraard – gewoon zelf (link: http://fabschool.nl/?p=36 text: maken).'
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Little Bits
   anchor: Little Bits
   title: Little Bits
-  text: |
-    (link: http://little bits.cc/ text: Little Bits) vormen samen een platform van eenvoudig te gebruiken elektronische bouwstenen waarmee je grote en kleine uitvindingen kunt doen.
+  text: '(link: http://little bits.cc/ text: Little Bits) vormen samen een platform van eenvoudig te gebruiken elektronische bouwstenen waarmee je grote en kleine uitvindingen kunt doen.'
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Leraren
   anchor: Leraren
   title: Leraren
   text: |
     “It is impossible to teach 21st century learners, if you have not learned in this century” - Sylvia Martinez.
-
+    
     Ook leraren moeten de kans krijgen hun technische en creatieve vaardigheden te ontwikkelen en kennis te maken met maakonderwijs.
-
+    
     En dat gebeurt: steeds meer lerarenopleidingen besteden aandacht aan maakonderwijs. Bijvoorbeeld in het (link: http://ixperium.nl text: iXperium) van de Hogeschool Arnhem Nijmegen, of tijdens de jaarlijkse MakeIt dag van Hogeschool (link: http://kempel.nl text: De Kempel) in Helmond. En de HvA gaat een minor maakonderwijs ontwikkelen in het kader van het (link: http://maakplaats021.com text: Maakplaats 021) programma.
-
+    
     ‘The role of the teacher is to create the conditions for invention rather than to provide ready-made knowledge’ - Seymour Papert
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
@@ -157,26 +159,11 @@ Sections:
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Lesmateriaal
   anchor: Lesmateriaal
   title: Lesmateriaal
-  text: |
-    Er verschijnt steeds meer lesmateriaal online. Kijk bijvoorbeeld eens op (link: http://makerschool.nl text: Makerschool), (link: http://codekinderen.nl text: Codekinderen), (link: https://makereducation.nl text: Platform Maker Education) en de Engelstalige (link: https://instructables.com/classes text: Instructables Classes).
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
-  alignblock: left
-  minheight: ""
-  _fieldset: content-block
--
-  indextitle: Licentie
-  anchor: Licentie
-  title: Licentie
-  text: |
-    Wanneer je iets gemaakt hebt, kun je andere mensen toestemming geven om jouw ontwerpen te gebruiken, te kopiëren of aan te passen. In een licentie (een stuk tekst) kun je precies aangeven wat er van jou wel of niet mag. Je kunt dan bijvoorbeeld aangeven dat als iemand jouw ontwerp gebruikt (bijvoorbeeld om het te verbeteren) dat diegene zijn/haar ontwerp ook weer moet delen.
-
-    Het (link: /o#open-source text: delen van ontwerpen) en het gebruiken van licenties is erg belangrijk. Veel mensen die zelf dingen maken gebruiken een (link: /home/c#creative-commons text: Creative Commons) licentie.
+  text: 'Er verschijnt steeds meer lesmateriaal online. Kijk bijvoorbeeld eens op (link: http://makerschool.nl text: Makerschool), (link: http://codekinderen.nl text: Codekinderen), (link: https://makereducation.nl text: Platform Maker Education) en de Engelstalige (link: https://instructables.com/classes text: Instructables Classes).'
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
@@ -186,15 +173,15 @@ Sections:
 
 ----
 
-Sectionmeta:
+Sectionmeta: 
 
 ----
 
-Author:
+Author: 
 
 ----
 
-Keywords:
+Keywords: 
 
 ----
 
@@ -206,16 +193,16 @@ Edited: 2017-02-20 12:50:00
 
 ----
 
-Sectionseo:
+Sectionseo: 
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
 
 ----
 
-Video:
+Video: 

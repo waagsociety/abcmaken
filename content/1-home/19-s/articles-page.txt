@@ -1,4 +1,4 @@
-Sectiondefault:
+Sectiondefault: 
 
 ----
 
@@ -14,75 +14,74 @@ Cover: rocket.jpg
 
 ----
 
-Preview:
+Preview: 
 
 ----
 
-Sections:
+Sections: 
 
--
+- 
   indextitle: Scholen
   anchor: Scholen
   title: Scholen
   text: |
     Op school leer je belangrijke vaardigheden die van pas komen bij het maken: van samenwerken tot toegepaste wiskunde en prototypes maken tijdens de techniek les. Scholen investeren steeds meer in het opzetten van hun eigen makerspace of mini (link: /home/f#fablab text: Fablab). Zo’n makerspace is de ideale plek waar je als leerling je vaardigheden in de praktijk kunt brengen. De Populier in Den Haag, De Neptunus in Amsterdam en Het Sint Lucas in Eindhoven hebben al hun eigen Fablab of makerspace.
-
+    
     “Like you need a gymnasium to teach and learn sports, you need a maker space to teach and learn 21st century skills” - Paolo Blikstein.
-  standardimage: rocket.jpg
+  standardimage: school.gif
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Scratch
   anchor: Scratch
   title: Scratch
   text: |
     (link: http://scratch.mit.edu text: Scratch) is een programmeeromgeving voor kinderen. (link: /home/p#programmeren text: Programmeren) is het schrijven van instructies die een computer moet uitvoeren. Met Scratch programmeer je deze instructies door ze als bouwstenen in elkaar te klikken. Je kunt bijvoorbeeld een poppetje laten bewegen door er een doe-tien-stapjes-naar-rechts bouwsteen op te klikken. Scratch leert kinderen niet alleen over programmeren, maar is ook een middel waarmee kinderen zich creatief te leren uiten door een verhaal te vertellen.
-
+    
     (link: https://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code?language=nl text: Hier) vertelt Mitch Resnick (de bedenker zelf) over Scrach. (link: http://scratchweb.nl text: Scratchweb.nl) vertaalde de Scratch kaarten waarmee je snel leert om animaties en interactieve programma’s te bouwen. Je kan ze (link: http://scratchweb.nl/vertalingen/scratch-kaarten text: hier) downloaden. Ook op (link: http://codeuur.nl text: codeuur) en (link: http://codekinderen.nl text: codekinderen) is Scratch lesmateriaal te downloaden.
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: scratch-1.jpg
+  bgcolor: '#ef5496'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
-  indextitle: Samen
+- 
+  standardimage: samen.jpg
+  anchor: ""
+  _fieldset: image-section
+- 
   anchor: Samen
   title: Samen
   text: |
     De beste dingen worden samen bedacht. Samenwerken kan natuurlijk betekenen dat je letterlijk samen knutselt aan hetzelfde project, maar je kunt ook samenwerken door kennis te delen. Binnen de (link: /home/o#open-source text: “open source”) beweging en binnen de wetenschap gebeurt dat vaak op die manier.
-
+    
     "None of us is as smart as all of us." --Ken Blanchard
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
+  bgcolor: '#c6dadb'
   textcolor: '#141414'
-  alignblock: left
-  minheight: ""
-  _fieldset: content-block
--
+  _fieldset: text-section
+- 
   indextitle: Solderen
   anchor: Solderen
   title: Solderen
-  text: |
-    Solderen is een techniek om metalen onderdelen met elkaar te verbinden doormiddel van een materiaal met een lager brandpunt (het soldeer). Wist je dat het woord solderen afkomstig is van het Latijnse woord Solidare, dat betekent (vastmaken) Mitch Altman maakte een goede handleiding, die vertaald en aangepast te (link: https://fabschoolino.waag.org text: downloaden) is.
+  text: 'Solderen is een techniek om metalen onderdelen met elkaar te verbinden doormiddel van een materiaal met een lager brandpunt (het soldeer). Wist je dat het woord solderen afkomstig is van het Latijnse woord Solidare, dat betekent (vastmaken) Mitch Altman maakte een goede handleiding, die vertaald en aangepast te (link: https://fabschoolino.waag.org text: downloaden) is.'
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Skills
   anchor: Skills
   title: Skills
   text: |
     De wereld verandert in razend tempo. Over de hele wereld wordt dan ook nagedacht welke vaardigheden er nodig zijn in onze gedigitaliseerde informatiesamenleving. Deze nieuwe vaardigheden worden ook wel 21st century skills genoemd. Samenwerken, kennisconstructie, creativiteit en ICT-vaardigeden spelen bijvoorbeeld een belangrijke rol. Wil je meer weten over 21st century skills? Lees dan (link: https://www.kennisnet.nl/artikel/nieuw-model-21e-eeuwse-vaardigheden/ text: hier) even verder.
-
+    
     Maakprojecten vormen vaak een mooie paraplu voor de ontwikkeling van deze verschillende vaardigheden in een wereld die steeds meer word beïnvloed door (link: https://www.kennisnet.nl/digitale-vaardigheden/21e-eeuwse-vaardigheden/ text: technologie).
-
+    
     Verder, als je skills hebt, betekent dat natuurlijk ook gewoon dat je ergens handig en goed in bent! Zo vraagt elke vorm van ambacht om een bepaalde set skills.
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
@@ -90,38 +89,36 @@ Sections:
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Sensoren
   anchor: Sensoren
   title: Sensoren
   text: |
     Als mens bezit je over een combinatie van zintuigen: van horen en zien tot ruiken en voelen. Het is een manier om informatie over je omgeving te verzamelen. Computers en robots gebruiken sensoren als hun zintuigen. Een voorbeeldje: als je een stofzuigrobot zelfstandig wilt laten rondrijden moet je er afstandssensoren plaatsen in je design, op die manier kan de robot zelf ‘voelen’ en botsingen met andere objecten voorkomen.   Een sensor is eigenlijk een meetinstrument dat een natuurkundige eigenschap kan meten, in het geval van de robotstofzuiger is die eigenschap “afstand”. Meestal komen uit een sensor getalletjes die een computer of microcontroller kan lezen. Maar er zijn ook sensoren die geluid, licht en zelfs fijnstof meten.
-
+    
     Zo’n sensor maakt altijd weer deel uit van een groter geheel, namelijk een computer. Als je zelf wilt experimenteren met sensoren kijk dan eens naar de (link: /home/m#mbot text: MBot) of de (link: /home/f#fabschoolino text: Fabschoolino).
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: sensoren.jpg
+  bgcolor: '#f26d68'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Strandbeest
   anchor: Strandbeest
   title: Strandbeest
-  text: |
-    De kunstenaar Theo Jansen maakt de meest fantastische kinetische (link: http://www.strandbeest.com/ text: strandbeesten). Het zijn een soort droommachines die voortbewegen op de wind. Laat je inspireren en maak zelf een strandbeest! Bijvoorbeeld met de (link: http://www.strandbeest.com/shop/beasts_3d.php text: 3D printer).
-  standardimage: rocket.jpg
+  text: 'De kunstenaar Theo Jansen maakt de meest fantastische kinetische (link: http://www.strandbeest.com/ text: strandbeesten). Het zijn een soort droommachines die voortbewegen op de wind. Laat je inspireren en maak zelf een strandbeest! Bijvoorbeeld met de (link: http://www.strandbeest.com/shop/beasts_3d.php text: 3D printer).'
+  standardimage: strandbeest.gif
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Sylvia’s Super Mini Makers Show
   anchor: Sylvia’s Super Mini Makers Show
   title: Sylvia’s Super Mini Makers Show
-  text: |
-    Een aanrader voor iedereen die van YouTube video’s houdt. (link: http://sylviashow.com/  text: Sylvia) is een jong meisje dat al haar DIY projecten – mét groot succes – deelt op haar eigen YouTube kanaal. Zo laat ze de kijker zien hoe je in een handomdraai je eigen krijt maakt. Of een lavalamp!
+  text: 'Een aanrader voor iedereen die van YouTube video’s houdt. (link: http://sylviashow.com/  text: Sylvia) is een jong meisje dat al haar DIY projecten – mét groot succes – deelt op haar eigen YouTube kanaal. Zo laat ze de kijker zien hoe je in een handomdraai je eigen krijt maakt. Of een lavalamp!'
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
@@ -131,15 +128,15 @@ Sections:
 
 ----
 
-Sectionmeta:
+Sectionmeta: 
 
 ----
 
-Author:
+Author: 
 
 ----
 
-Keywords:
+Keywords: 
 
 ----
 
@@ -151,16 +148,16 @@ Edited: 2017-02-20 12:50:00
 
 ----
 
-Sectionseo:
+Sectionseo: 
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
 
 ----
 
-Video:
+Video: 

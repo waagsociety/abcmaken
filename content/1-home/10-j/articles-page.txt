@@ -1,4 +1,4 @@
-Sectiondefault:
+Sectiondefault: 
 
 ----
 
@@ -14,59 +14,60 @@ Cover: abc-letter-j.jpg
 
 ----
 
-Preview:
+Preview: 
 
 ----
 
-Sections:
+Sections: 
 
--
+- 
   indextitle: Jij
   anchor: Jij
   title: Jij
-  text: Het begint allemaal met jou! Jij bent de maker. En je bepaalt zelf onder welke voorwaarden.
+  text: >
+    Het begint allemaal met jou! Jij bent de
+    maker. En je bepaalt zelf onder welke
+    voorwaarden.
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Jam
   anchor: Jam
   title: Jam
-  text: |
-    Koken is ook maken. Maak eens een keer zelf jam. Bovendien is het gezond en ontspannend om de natuur in te gaan en zelf vruchten te (link: https://www.datisjammie.nl/jam/basis/ text: plukken)
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  text: 'Koken is ook maken. Maak eens een keer zelf jam. Bovendien is het gezond en ontspannend om de natuur in te gaan en zelf vruchten te (link: https://www.datisjammie.nl/jam/basis/ text: plukken)'
+  standardimage: jam.jpg
+  bgcolor: '#f2602f'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Jill
   anchor: Jill
   title: Jill
-  text: |
-    Misschien ken je Jill van TV. Tekenen, knutselen, mode en kokkerellen staan centraal in haar programma. Haar programma is elke woensdag om 17.00 te zien op NPO (link: http://www.zapp.nl/jill text: Zapp).
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
-  alignblock: left
+  text: 'Misschien ken je Jill van TV. Tekenen, knutselen, mode en kokkerellen staan centraal in haar programma. Haar programma is elke woensdag om 17.00 te zien op NPO (link: http://www.zapp.nl/jill text: Zapp).'
+  standardimage: jill.jpg
+  bgcolor: '#e09da6'
+  textcolor: '#ffffff'
+  alignblock: right
   minheight: ""
   _fieldset: content-block
 
 ----
 
-Sectionmeta:
+Sectionmeta: 
 
 ----
 
-Author:
+Author: 
 
 ----
 
-Keywords:
+Keywords: 
 
 ----
 
@@ -78,16 +79,16 @@ Edited: 2017-02-20 12:50:00
 
 ----
 
-Sectionseo:
+Sectionseo: 
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
 
 ----
 
-Video:
+Video: 

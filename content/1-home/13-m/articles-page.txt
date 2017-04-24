@@ -1,4 +1,4 @@
-Sectiondefault:
+Sectiondefault: 
 
 ----
 
@@ -14,31 +14,30 @@ Cover: abc-letter-m.jpg
 
 ----
 
-Preview:
+Preview: 
 
 ----
 
-Sections:
+Sections: 
 
--
+- 
   indextitle: Maker Movement
   anchor: Maker Movement
   title: Maker Movement
-  text: |
-    De maker movement is een grote internationale beweging van mensen die op hun zolderkamer of in de garage zelf experimenteren, ontwerpen en bouwen met digitale middelen zoals microcomputers, 3D-printers en sensoren. Door deze middelen te verbinden aan internet ontstaan er nieuwe mogelijkheden om fysieke dingen te ontwerpen en maken. Kijktip: (link: http://makerthemovie.com text: Maker the Movie) is een te gekke documentaire over de maker movement.
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  text: 'De maker movement is een grote internationale beweging van mensen die op hun zolderkamer of in de garage zelf experimenteren, ontwerpen en bouwen met digitale middelen zoals microcomputers, 3D-printers en sensoren. Door deze middelen te verbinden aan internet ontstaan er nieuwe mogelijkheden om fysieke dingen te ontwerpen en maken. Kijktip: (link: http://makerthemovie.com text: Maker the Movie) is een te gekke documentaire over de maker movement.'
+  standardimage: makermovement-1.jpg
+  bgcolor: '#c4c4c6'
+  textcolor: '#000000'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Maker Education
   anchor: Maker Education
   title: Maker Education
   text: |
     Maker Education betekent leren (door te) maken. Het is een creatieve manier om kinderen in staat te stellen uitvinders te worden; en stimuleert hoofd, handen en hart. In de afgelopen jaren zijn allerlei moderne technologieën goedkoop en makkelijker beschikbaar geworden. Denk daarbij aan 3D-printers en elektronica, waarmee kinderen op een laagdrempelige manier kunnen ontwerpen én maken. Leerlingen kunnen deze gereedschappen gebruiken om hun creativiteit te ontplooien.
-
+    
     Kennisnet schreef een artikel en maakte een publicatie over de kansen van de maker movement voor (link: https://www.kennisnet.nl/artikel/maker-movement-biedt-onderwijs-schat-aan-mogelijkheden/ text: onderwijs).
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
@@ -46,73 +45,68 @@ Sections:
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Makered
   anchor: Makered
   title: Makered
-  text: |
-    Op de hoogte blijven van alle ontwikkelingen op het gebied van Maker Education? Volg de blog (link: http://makered.nl text: Makered) van Arjan van der Mei. En kijk ook eens op zijn internationale (link: http://makered.org text: evenknie).   
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  text: 'Op de hoogte blijven van alle ontwikkelingen op het gebied van Maker Education? Volg de blog (link: http://makered.nl text: Makered) van Arjan van der Mei. En kijk ook eens op zijn internationale (link: http://makered.org text: evenknie).   '
+  standardimage: makered-1.jpg
+  bgcolor: '#54bce1'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Maker Spaces / Maakplaatsten
   anchor: Maker Spaces / Maakplaatsten
   title: Maker Spaces / Maakplaatsten
-  text: |
-    Maakplaatsten zijn toegankelijke werkplaatsen met allerhande gereedschappen en machines die je kunt gebruiken voor je eigen maakprojecten. Meestal kun je een apparaat zoals bijvoorbeeld een 3D printer per uur huren en betaal je ook een vergoeding voor het materiaal dat je gebruikt. Sommige maakplaatsen werken met lidmaatschap of abonnement. Het (link: /home/f#fablab text: FabLab) van Waag Society in Amsterdam heeft elke zaterdag open dag. Neem eens een kijkje om te zien hoe het werkt en haal inspiratie uit wat anderen maken.
+  text: 'Maakplaatsten zijn toegankelijke werkplaatsen met allerhande gereedschappen en machines die je kunt gebruiken voor je eigen maakprojecten. Meestal kun je een apparaat zoals bijvoorbeeld een 3D printer per uur huren en betaal je ook een vergoeding voor het materiaal dat je gebruikt. Sommige maakplaatsen werken met lidmaatschap of abonnement. Het (link: /home/f#fablab text: FabLab) van Waag Society in Amsterdam heeft elke zaterdag open dag. Neem eens een kijkje om te zien hoe het werkt en haal inspiratie uit wat anderen maken.'
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Mini FabLab
   anchor: Mini FabLab
   title: Mini FabLab
-  text: |
-    Een (link: /home/f#fablab text: FabLab) is een plek met machines en gereedschappen die je kunt gebruiken om je eigen maakprojecten te verwezenlijken. Sommige van die apparaten kosten veel geld. Bart Bakker heeft zijn garage omgebouwd tot mini FabLab en is voortdurend op zoek naar Fab apparaten die betaalbaar zijn. Het idee is dat scholen en andere instellingen ook een mini Fablab kunnen inrichten naar zijn (link: http://www.minifablab.nl/ text: voorbeeld).
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  text: 'Een (link: /home/f#fablab text: FabLab) is een plek met machines en gereedschappen die je kunt gebruiken om je eigen maakprojecten te verwezenlijken. Sommige van die apparaten kosten veel geld. Bart Bakker heeft zijn garage omgebouwd tot mini FabLab en is voortdurend op zoek naar Fab apparaten die betaalbaar zijn. Het idee is dat scholen en andere instellingen ook een mini Fablab kunnen inrichten naar zijn (link: http://www.minifablab.nl/ text: voorbeeld).'
+  standardimage: mini-fablabs-1.jpg
+  bgcolor: '#6dd4ff'
+  textcolor: '#292424'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Modderbatterij
   anchor: Modderbatterij
   title: Modderbatterij
-  text: |
-    Wist je dat je van modder een soort kleine (link: http://fabschool.nl/?tag=modderbatterij text: bioreactor) kan maken waar je stroom mee kan opwekken? Leuk om te maken tijdens de biologieles, aardrijkskunde of duurzaamheid les.
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  text: 'Wist je dat je van modder een soort kleine (link: http://fabschool.nl/?tag=modderbatterij text: bioreactor) kan maken waar je stroom mee kan opwekken? Leuk om te maken tijdens de biologieles, aardrijkskunde of duurzaamheid les.'
+  standardimage: modderbatterij-1.jpg
+  bgcolor: '#fc85d7'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Makey Makey
   anchor: Makey Makey
   title: Makey Makey
-  text: |
-    Maak een bananenpiano, een menselijke stroomkring of laat je kleidieren geluiden maken. Niets te gek. Het kan allemaal met de (link: http://makeymakey.com text: Makey Makey). Deze uitvinderkist is bedacht door Eric Rosenbaum en is bedoelt voor elke leeftijd. Leef je uit met elektronicka en geleidende materialen. Het kan allemaal!   
-  standardimage: rocket.jpg
+  text: 'Maak een bananenpiano, een menselijke stroomkring of laat je kleidieren geluiden maken. Niets te gek. Het kan allemaal met de (link: http://makeymakey.com text: Makey Makey). Deze uitvinderkist is bedacht door Eric Rosenbaum en is bedoelt voor elke leeftijd. Leef je uit met elektronicka en geleidende materialen. Het kan allemaal!   '
+  standardimage: makey.gif
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Marshmallow challenge
   anchor: Marshmallow challenge
   title: Marshmallow challenge
   text: |
     (link: http://www.marshmallowchallenge.com/ text: De marshmallow challenge) is een leuke oefening in creativiteit, inventiviteit en samenwerking. Deelnemers moeten een zo hoog mogelijke toren bouwen van spaghetti, touw en plakband. De marhmallow moet bovenop.
-
+    
     Zie ook (link: /home/b#begin text: Begin)
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
@@ -120,7 +114,7 @@ Sections:
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: MBot
   anchor: MBot
   title: MBot
@@ -133,25 +127,24 @@ Sections:
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Make
   anchor: Make
   title: Make
-  text: |
-    (link: http://makezine.com/ text: Make) is een Amerikaans tijdschrift met een groot online platform gericht op maker. Je vindt in Make ideeën, tips en voorbeeldprojecten. Een perfecte inspiratiegids voor in de techniekklas!  
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  text: '(link: http://makezine.com/ text: Make) is een Amerikaans tijdschrift met een groot online platform gericht op maker. Je vindt in Make ideeën, tips en voorbeeldprojecten. Een perfecte inspiratiegids voor in de techniekklas!  '
+  standardimage: make.jpg
+  bgcolor: '#0e36a7'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Maker Faire
   anchor: Maker Faire
   title: Maker Faire
   text: |
     Een Maker Faire is een beurs waarbij makers en geïnteresseerden samenkomen om tips en ideeën uit te wisselen. Vaak kun je er ook spullen kopen voor die je voor je projecten kunt gebruiken. De naam Maker Faire kan verwijzen naar een evenement dat georganiseerd is door het tijdschrift (Make link intern). Er zijn ook Maker Faires die door belangstellenden zelf worden georganiseerd, deze evenementen worden vaak Mini Maker Faire genoemd. In Nederland onder meer de volgende:
-
+    
     (link: http://www.eindhovenmakerfaire.nl/programma/ text: eindhovenmakerfaire)
     (link: http://maakfestival.nl text: maakfestival)
     (link: http://makerfestivaltwente.nl/ text: makerfestivaltwente)
@@ -162,35 +155,35 @@ Sections:
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Mindset
   bgcolor: '#668cd1'
   textcolor: '#ffffff'
   anchor: Mindset
   title: Mindset
   text: >
-    “You don’t teach the maker mindset. The practice creates the mindset.”
+    “You don’t teach the maker mindset.
+    The practice creates the mindset.”
   citation: Dale Dougherty
   _fieldset: quote
--
+- 
   indextitle: Microbit
   anchor: Microbit
   title: Micro.bit
-  text: |
-    De (link: https://www.elektormagazine.nl/news/review-programmeren-van-de-bbc-micro-bit text: micro.bit) is een microcontrollerboard vergelijkbaar met een (link: /home/a#arduino text: Arduino). Op de microbit zitten alleen al een aantal ingebouwde sensoren en er is een 5x5 led matrix ingebouwd zodat je er bijvoorbeeld een smiley van lampjes op kunt laten zien.
+  text: 'De (link: https://www.elektormagazine.nl/news/review-programmeren-van-de-bbc-micro-bit text: micro.bit) is een microcontrollerboard vergelijkbaar met een (link: /home/a#arduino text: Arduino). Op de microbit zitten alleen al een aantal ingebouwde sensoren en er is een 5x5 led matrix ingebouwd zodat je er bijvoorbeeld een smiley van lampjes op kunt laten zien.'
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Media Maken
   anchor: Media Maken
   title: Media Maken
   text: |
     Je doet veel verschillende vaardigheden op wanneer je zelf media maakt. Van filmpjes, foto’s en verslagen maken. Hier vind je een uitgebreide (link: http://mijnkindonline.nl/publicaties/lesmateriaal/samen-media-maken text: introductie) met les ideeën. Ook het begrip mediawijsheid komt aan de orde en richt zich op hoe je verstandig om gaat met media op het internet.
-
+    
     Zie ook :
     (link: http://www.cinekidclub.nl/category/foto-en-film/ text: Cinekid)
     (link: https://www.mediawijzer.net text: Mediawijzer)
@@ -200,30 +193,29 @@ Sections:
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Meten is weten
   anchor: Meten is weten
   title: Meten is weten
-  text: |
-    Meten is weten. Wist je dat je ook je eigen meetinstrument kunt maken, bijvoorbeeld om te meten hoe gezond je leefomgeving is? (link: http://smartkidslab.nl text: Smart Kids Lab) heeft een aantal proefjes voor je uitgezocht waarmee je onder andere water, geluid, lucht, en aarde kunt onderzoeken met zelfgemaakte sensoren.
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  text: 'Meten is weten. Wist je dat je ook je eigen meetinstrument kunt maken, bijvoorbeeld om te meten hoe gezond je leefomgeving is? (link: http://smartkidslab.nl text: Smart Kids Lab) heeft een aantal proefjes voor je uitgezocht waarmee je onder andere water, geluid, lucht, en aarde kunt onderzoeken met zelfgemaakte sensoren.'
+  standardimage: meten.jpg
+  bgcolor: '#fc85d7'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
 
 ----
 
-Sectionmeta:
+Sectionmeta: 
 
 ----
 
-Author:
+Author: 
 
 ----
 
-Keywords:
+Keywords: 
 
 ----
 
@@ -235,16 +227,16 @@ Edited: 2017-02-20 12:50:00
 
 ----
 
-Sectionseo:
+Sectionseo: 
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
 
 ----
 
-Video:
+Video: 

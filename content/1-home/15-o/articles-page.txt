@@ -1,4 +1,4 @@
-Sectiondefault:
+Sectiondefault: 
 
 ----
 
@@ -14,66 +14,66 @@ Cover: abc-letter-o.jpg
 
 ----
 
-Preview:
+Preview: 
 
 ----
 
-Sections:
+Sections: 
 
--
+- 
   indextitle: Open Source
   anchor: Open Source
   title: Open Source
   text: |
     Open Source is een beweging van mensen die bij alles wat ze maken ook precies vertellen hoe ze het gemaakt hebben. Dat kan in het geval van computerprogramma's (apps) door de (link: /home/c#code text: code) beschikbaar te maken. Ook met industrieel ontwerp kan het door bijvoorbeeld de 3D bestanden te delen, het wordt dan "open design" genoemd. Als het ontwerp van elektronica bijvoorbeeld een (link: http://localhost:8888/home/p#printplaat text: printplaat) op deze manier gedeeld wordt, krijgt het vaak de naam "open hardware". En wanneer je deelt hoe je een taart precies gemaakt hebt, dan zou je het een open recept kunnen noemen.
-
+    
     Het delen van ontwerpen op deze manier gaat vaak binnen een community, dat is een groep van mensen die een gezamenlijke hobby of interesse hebben. Er zijn vaak ook bepaalde voorwaarden aan verbonden door middel van licenties, bijvoorbeeld om er voor te zorgen dat mensen die ontwerpen van een ander gebruiken ook weer zelf iets teruggeven. Wist je dat het besturingssyteem (link: /home/l#linux text: Linux) helemaal op open-source gemaakt is?
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
+  standardimage: open.jpg
+  bgcolor: '#eaede6'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Ontdekken
   anchor: Ontdekken
   title: Ontdekken
   text: |
     Alles begint met nieuwsgierigheid en verwondering! Samen met kinderen op ontdekkingsreis in je eigen omgeving? Laat je leiden door het boek (link: https://www.bol.com/nl/p/how-to-be-an-explorer-of-the-world/1001004011806642/ text: ‘How to be an explorer of the world’) van Keri Smith.
-
+    
     Ook leuk: op de Ontdek website van (link: https://www.nemosciencemuseum.nl/nl/ontdek/ text: NEMO) kan je op allemaal verschillende onderwerpen (zoals geluid, energie en elektriciteit) ontdekken hoe het werkt. Door filmpjes te kijken of zelf leuke proefjes te doen.  
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
+  standardimage: ontdekken.jpg
+  bgcolor: '#d6e9f0'
   textcolor: '#141414'
-  alignblock: left
+  alignblock: right
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Onderwijs
   anchor: Onderwijs
   title: Onderwijs
   text: |
     Onderwijs is een belangrijk goed. Het blijft zich constant vernieuwen. We geven nu bijvoorbeeld heel anders les dan 50 jaar geleden. Hoe vind jij dat het onderwijs van de 21e eeuw er uit moet zien? Wij denken dat er meer ruimte voor “maken” moet komen binnen het onderwijs.   (link: http://makered.nl/maker-education-onderzoek-paulo-blikstein/ text: Onderzoek) toont aan dat leren door te maken zie ook (link: /home/c#constructionisme text: Constructionisme) heel effectief is.
-
+    
     Ouders: Waarom ook ouders makers moeten worden lees je hier in een artikel van (link: https://www.bright.nl/bright-ideas/waarom-ouders-makers-moeten-worden text: Astrid Poot)
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: onderwijs-1.jpg
+  bgcolor: '#ff825c'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
 
 ----
 
-Sectionmeta:
+Sectionmeta: 
 
 ----
 
-Author:
+Author: 
 
 ----
 
-Keywords:
+Keywords: 
 
 ----
 
@@ -85,16 +85,16 @@ Edited: 2017-02-20 12:50:00
 
 ----
 
-Sectionseo:
+Sectionseo: 
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
 
 ----
 
-Video:
+Video: 

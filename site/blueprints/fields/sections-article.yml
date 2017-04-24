@@ -36,6 +36,10 @@ fieldsets:
       anchor:
         label: Anchor
         type: text
+      regularpadding:
+        label: Padding
+        type: checkbox
+        text: Center padding?
       title: title
       text: text
       standardimage: image-cover

@@ -1,4 +1,4 @@
-Sectiondefault:
+Sectiondefault: 
 
 ----
 
@@ -14,24 +14,24 @@ Cover: rocket.jpg
 
 ----
 
-Preview:
+Preview: 
 
 ----
 
-Sections:
+Sections: 
 
--
+- 
   indextitle: Invent to Learn
   anchor: Invent to Learn
   title: Invent to Learn
   text: 'Hét boek voor als je aan de slag wilt met Maakonderwijs. De auteurs, Sylvia Martinez en Gary Stager, nemen je stap voor stap mee in de wondere wereld van het maken. Hier vind je meer info over het (link: http://www.inventtolearn.com text: boek).'
-  standardimage: rocket.jpg
+  standardimage: internet-1.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Interactief
   anchor: Interactief
   title: Interactief
@@ -48,27 +48,27 @@ Sections:
     je ze aanraakt maakt het object dan
     bijvoorbeeld geluid. Heel leuk om uit te
     proberen!
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: interactief-2.jpg
+  bgcolor: '#02c6d2'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Internet
   anchor: Internet
   title: Internet
   text: |
     Het internet is een wereldwijd netwerk van computers. Als jij een wensite op je telefoon of computer bekijkt, zie je informatie die iemand anders beschikbaar heeft gemaakt op een andere computer. Door uitvinding van het internet is delen van informatie met mensen over de hele wereld veel makkelijker geworden.
-
+    
     “We are all connected by the Internet. Like neurons in a giant brain” - Stephen Kawking.
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: internet-2.jpg
+  bgcolor: '#003096'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Internet of Things
   anchor: Internet of Things
   title: Internet of Things
@@ -79,7 +79,7 @@ Sections:
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Instructables
   anchor: Instructables
   title: Instructables
@@ -90,7 +90,7 @@ Sections:
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Instructables Restaurant
   anchor: Instructables Restaurant
   title: Instructables Restaurant
@@ -101,7 +101,7 @@ Sections:
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Intrinsieke motivatie
   bgcolor: '#668cd1'
   textcolor: '#ffffff'
@@ -112,61 +112,62 @@ Sections:
     thing mankind possesses.”
   citation: Edith Södergran
   _fieldset: quote
--
+- 
   indextitle: Inkscape
   anchor: Inkscape
   title: Inkscape
   text: 'Inkscape is  Open Source (link intern) computerprogramma voor het maken van 2D ontwerpen (link intern) die je bijvoorbeeld door een lasersnijder kan laten uitprinten. https://inkscape.org/en/'
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: inkscape-2.jpg
+  bgcolor: '#e0ad78'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Innovation
   bgcolor: '#668cd1'
   textcolor: '#ffffff'
   anchor: Innovation
   title: Innovation
   text: >
-    “There is no innovation and creativity without failure. Period.”
+    “There is no innovation and creativity
+    without failure. Period.”
   citation: Brene Brown
   _fieldset: quote
--
+- 
   indextitle: Illustrator
   anchor: Illustrator
   title: Illustrator
-  text: |
-    Illustrator is een computerprogramma voor het maken van (link: /home/d#2d-ontwerpen text: 2D ontwerpen). Een gratis is alternatief is (link: /home/i#inkscape text: Inkscape)
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
+  text: 'Illustrator is een computerprogramma voor het maken van (link: /home/d#2d-ontwerpen text: 2D ontwerpen). Een gratis is alternatief is (link: /home/i#inkscape text: Inkscape)'
+  standardimage: illustrator.jpg
+  bgcolor: '#f3eed1'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Intuitie
   bgcolor: '#668cd1'
   textcolor: '#ffffff'
   anchor: Intuitie
   title: Intuitie
   text: >
-    “It is through science that we prove, through intuition that we discover.”
+    “It is through science that we prove,
+    through intuition that we discover.”
   citation: Jules Henri Poincare
   _fieldset: quote
 
 ----
 
-Sectionmeta:
+Sectionmeta: 
 
 ----
 
-Author:
+Author: 
 
 ----
 
-Keywords:
+Keywords: 
 
 ----
 
@@ -178,16 +179,16 @@ Edited: 2017-02-20 12:50:00
 
 ----
 
-Sectionseo:
+Sectionseo: 
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
 
 ----
 
-Video:
+Video: 

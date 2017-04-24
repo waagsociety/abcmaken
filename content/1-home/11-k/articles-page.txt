@@ -1,4 +1,4 @@
-Sectiondefault:
+Sectiondefault: 
 
 ----
 
@@ -14,109 +14,113 @@ Cover: abc-letter-k.jpg
 
 ----
 
-Preview:
+Preview: 
 
 ----
 
-Sections:
+Sections: 
 
--
+- 
   indextitle: Kattekwaad
   anchor: Kattekwaad
   title: Kattekwaad
-  text: |
-    Een bijzonder staaltje moderne kattekwaad: maak je eigen TV-B-Gone. Dit is een zelfgemaakte afstandsbediening, op basis van een micro-controller, waarmee je alle TV’s in de omgeving mee uit kunt zetten. Probeer maar eens uit in de Mediamarkt bijvoorbeeld.
+  text: 'Een bijzonder staaltje moderne kattekwaad: maak je eigen TV-B-Gone. Dit is een zelfgemaakte afstandsbediening, op basis van een micro-controller, waarmee je alle TV’s in de omgeving mee uit kunt zetten. Probeer maar eens uit in de Mediamarkt bijvoorbeeld.'
   standardimage: kattekwaad.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  bgcolor: '#ff7048'
+  textcolor: '#ffffff'
   alignblock: right
   _fieldset: content-block
--
+  minheight: ""
+- 
   indextitle: Kolomboor
   anchor: Kolomboor
   title: Kolomboor
-  text: |
-    Een must-have voor elke gereedschapskit. Een kolomboor is een boormachine in een houder die je kunt gebruiken om een gaatje precies recht en precies op te goede plek te boren.
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
+  text: >
+    Een must-have voor elke gereedschapskit.
+    Een kolomboor is een boormachine in een
+    houder die je kunt gebruiken om een
+    gaatje precies recht en precies op te
+    goede plek te boren.
+  standardimage: kolomboor.jpg
+  bgcolor: '#c7fb96'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Klooikoffers
   anchor: Klooikoffers
   title: Klooikoffers
-  text: |
-    Klooien! Super belangrijk. En daarom ontwikkelde Astrid Poot de Klooikoffers . De Klooikoffers zijn er voor kinderen, ouders en scholen die samen willen maken. Ze zijn voor thuis en op school. Wat er allemaal in zo’n koffer zit, zie je (link: https://lekkersamenklooien.nl/author/astrid/ text: hier).  
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
-  alignblock: left
+  text: 'Klooien! Super belangrijk. En daarom ontwikkelde Astrid Poot de Klooikoffers . De Klooikoffers zijn er voor kinderen, ouders en scholen die samen willen maken. Ze zijn voor thuis en op school. Wat er allemaal in zo’n koffer zit, zie je (link: https://lekkersamenklooien.nl/author/astrid/ text: hier).  '
+  standardimage: klooikoffers-1.jpg
+  bgcolor: '#5727f9'
+  textcolor: '#ffffff'
+  alignblock: right
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Kunst
   anchor: Kunst
   title: Kunst
-  text: |
-    Het is best moeilijk uit te leggen wat kunst nu precies is. Op Wikipedia staat: kunst is een ambacht bedoelt om de zintuigen te prikkelen. En dat vinden wij een mooie beschrijving.   ‘Creativity is allowing yourself to make mistakes, art is knowing which ones to keep’ - Scott Adams.
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  text: 'Het is best moeilijk uit te leggen wat kunst nu precies is. Op Wikipedia staat: kunst is een ambacht bedoelt om de zintuigen te prikkelen. En dat vinden wij een mooie beschrijving.   ‘Creativity is allowing yourself to make mistakes, art is knowing which ones to keep’ - Scott Adams.'
+  standardimage: kunst-1.jpg
+  bgcolor: '#e333b9'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Knoeien
   anchor: Knoeien
   title: Knoeien
-  text: |
-    knoeien hoort erbij. Net als kliederen en vies worden! Hup, trek een oud t-shirt, een schort of overall aan en gaan.
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
+  text: >
+    knoeien hoort erbij. Net als kliederen
+    en vies worden! Hup, trek een oud
+    t-shirt, een schort of overall aan en
+    gaan.
+  standardimage: knoeien-1.jpg
+  bgcolor: '#e3e3e3'
   textcolor: '#141414'
-  alignblock: left
+  alignblock: right
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Karton
   anchor: Karton
   title: Karton
-  text: |
-    Karton is het einde. Wie herinnert zich Caine’s (link: https://www.youtube.com/watch?v=BcMv3-qtlW0 text: Cardboard Arcade) niet? En met (link: /home/m#makedo text: Make.do) kun je gemakkelijk met kleine kinderen aan de slag. Wist je dat je ook kan ‘3d printen’ met karton? (link: http://fabschool.nl/?p=787 text: Kijk maar). Als je helemaal bedreven bent met karton kun je er zelfs machines van maken. Of maak een hydraulisch aangedreven (link: mb.ntd.tv/inspired/diy/make-hydraulic-powered-robotic-arm-cardboard.html  text: robotarm) van karton
-  standardimage: rocket.jpg
+  text: 'Karton is het einde. Wie herinnert zich Caine’s (link: https://www.youtube.com/watch?v=BcMv3-qtlW0 text: Cardboard Arcade) niet? En met (link: /home/m#makedo text: Make.do) kun je gemakkelijk met kleine kinderen aan de slag. Wist je dat je ook kan ‘3d printen’ met karton? (link: http://fabschool.nl/?p=787 text: Kijk maar). Als je helemaal bedreven bent met karton kun je er zelfs machines van maken. Of maak een hydraulisch aangedreven (link: mb.ntd.tv/inspired/diy/make-hydraulic-powered-robotic-arm-cardboard.html  text: robotarm) van karton'
+  standardimage: karton.gif
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Knikkerbaan
   anchor: Knikkerbaan
   title: Knikkerbaan
   text: |
     Je eigen knikkerbanen maken (zoals in de film) is ontzettend leuk en leerzaam. En je kan ze gemakkelijk interactief maken met bijvoorbeeld de (link: /home/m#makey-makey text: Makey Makey). Per-Ivar Kloen schreef een (link: https://makereducation.nl/nieuws/eerste-les-leer-bijeenkomst text: blog) waarin hij beschrijft wat je nodig hebt en hoe je aan de slag kan gaan.
-
+    
     En op de website van de Tinkering Studio van het Exploratorium in San Francisco kan je ook instructies (link: http://tinkering.exploratorium.edu/marble-machines text: downloaden).  
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
+  standardimage: knikkerbaan-1.jpg
+  bgcolor: '#ccc7dd'
   textcolor: '#141414'
-  alignblock: left
+  alignblock: right
   minheight: ""
   _fieldset: content-block
 
 ----
 
-Sectionmeta:
+Sectionmeta: 
 
 ----
 
-Author:
+Author: 
 
 ----
 
-Keywords:
+Keywords: 
 
 ----
 
@@ -128,16 +132,16 @@ Edited: 2017-02-20 12:50:00
 
 ----
 
-Sectionseo:
+Sectionseo: 
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
 
 ----
 
-Video:
+Video: 

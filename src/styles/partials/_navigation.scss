@@ -1,3 +1,21 @@
+.home-nav{
+  background: red;
+  align-items: center;
+  background: #fff;
+  cursor: pointer;
+  display: flex;
+  flex-wrap: wrap;
+  height: 80px;
+  justify-content: center;
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 80px;
+  z-index: 999999;
+  transition: 0.2s ease-in-out;
+  // color: $brand-color;
+}
+
 .navigation {
   align-items: center;
   background: #fff;
@@ -7,9 +25,9 @@
   height: 80px;
   justify-content: center;
   position: fixed;
-  right: 10%;
+  right: 80px;
   top: 0;
-  width: 100px;
+  width: 80px;
   z-index: 999999;
   transition: 0.2s ease-in-out;
 
@@ -103,17 +121,34 @@
 }
 
 
+.intro-arrow {
+  position: absolute;
+  bottom: 50px;
+  text-align: center;
+  transform-origin: bottom center;
+
+  p {
+    color: #fff;
+    margin-bottom: 1em;
+    font-weight: 600;
+  }
+}
+
+.mouse-btn {
+  display: block;
+  color: #fff;
+  line-height: 0;
+}
+
 
 .mouse-down {
   border: 3px solid #fff;
   border-radius: 20px;
   display: block;
   height: 54px;
-  position: absolute;
-  left: calc(50% - 18px);
-  bottom: $gutter;
   width: 36px;
   z-index: 999;
+  margin: auto;
 
   @include breakpoint(s) {
     display: none;
@@ -142,6 +177,12 @@
   column-count: 4;
   column-gap: 40px;
   padding: 5em;
+
+  @include breakpoint(s) {
+    padding: 6em 1em 2em;
+    column-count: 2;
+    column-gap: 40px;
+  }
 
   .item {
     color: #fff;

@@ -1,5 +1,4 @@
 .about .story-block {
-
   .content-wrapper {
     min-height: calc(100vh - 50px);
   }
@@ -18,6 +17,7 @@
   flex-wrap: wrap;
   margin: auto;
   overflow: hidden;
+  min-height: 750px;
 
   a{
 
@@ -56,7 +56,6 @@
     display: flex;
     justify-content: center;
     max-width: none;
-    min-height: 450px;
     padding: ($gutter * 3);
     width: 50%;
 
@@ -70,7 +69,7 @@
     }
 
     @include breakpoint(s) {
-      padding: $gutter / 2;
+      padding: ($gutter * 3) ($gutter / 2) ($gutter / 2) !important;
     }
   }
 

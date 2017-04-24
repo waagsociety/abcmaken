@@ -17,16 +17,15 @@ fields:
   video: video
   cover: image-cover
   sections: sections-article
-
   sectionMeta:
     label: Metadata
     id: meta
     type: tab
     icon: info-circle
-  author: author  
+  author: author
   keywords: keywords
   created: datetime-created
-  edited: datetime-edited  
+  edited: datetime-edited
   sectionSeo:
     label: SEO
     id: seo

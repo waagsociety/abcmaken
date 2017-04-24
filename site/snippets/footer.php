@@ -1,6 +1,8 @@
   </div>
   <div class="footer">
-    <h1>Hier komt wat footer spul</h1>
+    <p>
+      ABCMaken.nl is onderdeel van <a href="https://makereducation.nl/">Platform Maker Education</a> Made with ♥ by <a href="http://www.waag.org">Waag Society</a> - Check out the code on <a href="https://github.com/waagsociety/abcmaken">github</a>
+    </p>
   </div>
   <?php snippet('icons') ?>
   <?php echo js('assets/js/zenscroll-min.js') ?>

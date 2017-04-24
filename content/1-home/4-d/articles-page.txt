@@ -26,7 +26,7 @@ Sections:
   title: Delen
   text: 'Als we allemaal wat meer zouden delen, zou de wereld een stukje mooier zijn. Probeer daarom ook je kennis en vaardigheden zoveel mogelijk te delen met andere mensen. Dit kun je natuurlijk doen onder je (link: /home/l#licentie text: eigen voorwaarden). Tip: zorg voor (link: /home/d#documenteren-en-delen text: goede documentatie). Zie ook (link: /home/o#open-source text: Open Source).'
   standardimage: delen.jpg
-  bgcolor: '#ff9c85'
+  bgcolor: '#f0bea5'
   textcolor: '#3b2f2f'
   alignblock: left
   _fieldset: content-block
@@ -48,11 +48,11 @@ Sections:
     DIY staat voor Do It Yourself. Dus het zelf doen, zelf maken, zelf uitzoeken en leren. Grappig genoeg is maken juist vaak iets dat je samen doet. Do It Together dus eigenlijk.
     
     Op (link: https://diy.org/ text: DIY.org) vind je veel projecten voor en door kinderen. Niet te verwarren met doe-het-zelven wat in Nedeland zoiets betekent als klussen aan je huis, al gaat dat natuurlijk ook over creativiteit en maken.
-  standardimage: delen.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: DIY.jpg
+  bgcolor: '#d434ae'
+  textcolor: '#ffffff'
   alignblock: left
-  minheight: ""
+  minheight: 800px
   _fieldset: content-block
 - 
   indextitle: Doen doen doen
@@ -92,9 +92,9 @@ Sections:
   anchor: Documenteren en delen
   title: Documenteren en delen
   text: 'Documenteren is het vastleggen van je (maak)proces door dit je stappen op te schrijven, te fotograferen of te filmen. Wanneer je precies bijhoudt hoe je iets gemaakt hebt en welke fouten je daarbij gemaakt hebt, kunnen anderen daarvan leren en kan je het bovendien zelf nog een keer maken. Win-win situatie toch? Als je je jouw maakproces deelt met anderen kunnen zij aan de slag gaan met jouw ontwerp en het misschien zelfs verbeteren. Zo wordt het samenwerken. Wist je dat er op die manier door over de hele wereld zelfs een (link: http://reprap.org text: 3D printer is ontwikkeld)? Op het internet bestaan er verschillende platforms die handig maken om samen te werken door documentatie te delen: OpenThings, Instructables, Makezine, Youtube.'
-  standardimage: delen.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: share.jpg
+  bgcolor: '#815296'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
@@ -108,7 +108,7 @@ Sections:
   standardimage: delen.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
-  alignblock: left
+  alignblock: right
   minheight: ""
   _fieldset: content-block
 - 
@@ -119,9 +119,9 @@ Sections:
     2D ontwerpen is het ontwerpen van platte objecten. Wanneer je iets op stuk karton hebt getekend en dat uitknipt is dat een 2D ontwerp. Ook de knopjes die je op je computerscherm tegenkomt zijn in 2D.  
     
     Het ontwerpen in 2D gaat goed met computerprogramma’s zoals Illustrator of (link: https://inkscape.org/en/ text: InkScape). Vanuit deze programma’s kun je eenvoudig een lasersnijder aansturen die jouw ontwerp uit een plaat van hout of plastic kan snijden. Je kunt ook een 3D (link intern) ontwerp maken door bijvoorbeeld platte onderdelen op elkaar te lijmen of in elkaar te schuiven kijk maar eens naar dit (link: http://wiki.fablab.is/wiki/BOX text: doosje)
-  standardimage: delen.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: 2D-ontwerpen.jpg
+  bgcolor: '#f04d00'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
@@ -135,10 +135,10 @@ Sections:
     Gelukkig zijn er steeds meer software programma’s die het makkelijk voor je maken, zoals (link: http://www.tinkercad.com text: Tinkercad) en Google Sketch-up. (link: http://doodle3d.com/ text: Doodle 3d Transform) is een nieuwe app waarmee je gemakkelijk 2d tekeningen om kan zetten in 3d ontwerpen.
     
     Er zijn ook apps waarmee je een tastbaar object kan omzetten in een 3D model door er een heleboel (link: http://www.123dapp.com/catch text: foto’s van te maken). Als juist het tegenovergestelde wilt doen kun je bijvoorbeeld een (link: /home/d#3d-printen text: 3D printer) gebruiken.
-  standardimage: delen.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
-  alignblock: left
+  standardimage: 3D-ontwerpen.jpg
+  bgcolor: '#f04d00'
+  textcolor: '#ffffff'
+  alignblock: right
   minheight: ""
   _fieldset: content-block
 - 
@@ -148,9 +148,9 @@ Sections:
   text: |
     Design: “Crowds may be wise, but they still need designers” - John Thackara
     Ontwerp.
-  standardimage: delen.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: design.jpg
+  bgcolor: '#5ebfe0'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
@@ -199,7 +199,7 @@ Sections:
     bestaande ontwerpen aanpassen of
     verbeteren. Lees meer over "digital
     fabrication" en "open source".
-  standardimage: delen.jpg
+  standardimage: drones.gif
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
@@ -210,9 +210,9 @@ Sections:
   anchor: Digitale geletterdheid
   title: Digitale geletterdheid
   text: 'Digitale geletterdheid wordt steeds belangrijker. SLO ontwikkelde een leerlijn (link: http://curriculumvandetoekomst.slo.nl/projecten/leerlijnen-digitale-geletterdheid text: digitale geletterdheid) die bestaat uit computational thinking, mediawijsheid, informatievaardigheden en ICT basisvaardigheden.'
-  standardimage: delen.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: 1010.jpg
+  bgcolor: '#0710d9'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
@@ -222,10 +222,31 @@ Sections:
   title: Duurzaamheid
   text: 'Wil jij ook dat toekomstige generaties mensen en dieren nog plezier hebben van deze te gekke planeet? Ja? Cool! Wij ook. Dat noemen we dus duurzaamheid. En wie A zegt moet B doen. Als maker heb je namelijk ook te maken met duurzaamheid. Probeer bijvoorbeeld niet meer grondstoffen te gebruiken dan nodig. Het is helemaal mooi als je weet dat je grondstoffen op een op een milieuvriendelijke en eerlijke manier zijn gemaakt. Misschien lukt het je zelfs om iets te maken dat gemakkelijk gerepareerd kan worden. Repareren is bijna altijd beter voor het milieu dan iets nieuw aanschaffen. Tenslotte kun je er ook nog voor zorgen dat jouw ontwerp makkelijk uit elkaar gehaald kan worden, zodat jijzelf of iemand anders weer iets nieuws kan maken van dezelfde grondstoffen. Stel jezelf bij elk maakproces de vraag: kan ik of iemand anders dit materiaal hergebruiken of recyclen?'
   standardimage: duurzaamheid.jpg
-  bgcolor: '#24cb95'
+  bgcolor: '#7fcaa9'
   textcolor: '#ffffff'
   alignblock: left
   minheight: ""
+  _fieldset: content-block
+- 
+  indextitle: Doorzetten
+  anchor: Doorzetten
+  title: Doorzetten
+  text: >
+    Niemand heeft gezegd dat maken makkelijk
+    is. Bij elk maakproces komt er moment
+    dat je er even klaar mee bent. Soms lukt
+    het niet om een oplossing te vinden voor
+    een probleem. Of kom je erachter dat je
+    zelfs helemaal opnieuw moet beginnen. No
+    worries, dit hoort er allemaal bij. Kom
+    je er echt niet uit? Neem dan een break
+    en vraag iemand anders om advies –
+    samen weet je meer dan alleen.
+  standardimage: doorzetten-1.jpg
+  bgcolor: '#0050b1'
+  textcolor: '#ffffff'
+  alignblock: left
+  minheight: 800px
   _fieldset: content-block
 
 ----

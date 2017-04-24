@@ -1,3 +1,25 @@
+.intro-text {
+  height: auto;
+  width: 100%;
+  background: transparent;
+  padding: 0 0 ($gutter * 6) 0;
+
+  .inner {
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    color: #fff;
+    a::after {
+      content: ', ';
+    }
+
+    a:last-child::after {
+      content: '';
+    }
+
+  }
+}
+
 .article-header {
   align-items: center;
   display: flex;
@@ -20,7 +42,7 @@
   }
 
   .bg-video{
-    position: absolute;
+    position: fixed;
     top: 50%;
     left: 50%;
     min-width: 100%;
@@ -28,10 +50,10 @@
     width: auto;
     height: auto;
     z-index: 0;
-    transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%) scale(1.2);
     background: url('//demosthenes.info/assets/images/polina.jpg') no-repeat;
     background-size: cover;
-    transition: 1s opacity;
+    transition: filter 0.3s ease-in;
   }
 }
 
@@ -103,7 +125,7 @@
   transform: translateY(-50%);
   z-index: 9999;
   background: #fff;
-  width: 1em;
+  padding: 0.1em 0.2em;
   height: 1em;
   display: flex;
   align-items: center;
@@ -134,13 +156,18 @@
   right: 0;
 }
 
-.mouse-btn {
-  display: block;
-  position: absolute;
-  left: calc(50% - 17px);
-  bottom: 0;
-  color: #fff;
-  line-height: 0;
+.blur-layer {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  opacity: 0.2;
+}
+
+.article-header .bg {
+  position: fixed;
 }
 
 .main {

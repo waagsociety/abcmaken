@@ -1,4 +1,4 @@
-Sectiondefault:
+Sectiondefault: 
 
 ----
 
@@ -14,84 +14,80 @@ Cover: abc-letter-p.jpg
 
 ----
 
-Preview:
+Preview: 
 
 ----
 
-Sections:
+Sections: 
 
--
+- 
   indextitle: Papier
   anchor: Papier
   title: Papier
-  text: |
-    Papier is een fijn materiaal dat je eigenlijk altijd wel binnen handbereik hebt. En je kunt er ontzettend veel mee doen! Maar wist je dat er ook wereldkampioenschappen gehouden worden voor papieren (link: https://www.youtube.com/watch?v=SUyqakRMrxo text: vliegtuigjes)? Wil je papier weggooien? Check dan eerst of je er écht niets meer mee kan maken. Toch bij het afval? Gooi het dan in de papiercontainer.
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
-  alignblock: left
+  text: 'Papier is een fijn materiaal dat je eigenlijk altijd wel binnen handbereik hebt. En je kunt er ontzettend veel mee doen! Maar wist je dat er ook wereldkampioenschappen gehouden worden voor papieren (link: https://www.youtube.com/watch?v=SUyqakRMrxo text: vliegtuigjes)? Wil je papier weggooien? Check dan eerst of je er écht niets meer mee kan maken. Toch bij het afval? Gooi het dan in de papiercontainer.'
+  standardimage: papier-1.jpg
+  bgcolor: '#b4c8c9'
+  textcolor: '#ffffff'
+  alignblock: right
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Papiermache
   anchor: Papiermache
   title: Papiermache
-  text: |
-    Papiermache is een vloeibaar mengsel van krantenpapier en behanglijm waarmee je bijvoorbeeld een pinata voor op je verjaardagsfeest (link: https://www.youtube.com/watch?v=htgGzPVpgkM text: kunt maken). Maar wist je dat er ook al een 3D printer (link intern) bestaat die niet met plastic werkt maar met papiermache? Bekijk ‘m (link: https://www.youtube.com/watch?v=LLin-rTpaRM text: hier)
+  text: 'Papiermache is een vloeibaar mengsel van krantenpapier en behanglijm waarmee je bijvoorbeeld een pinata voor op je verjaardagsfeest (link: https://www.youtube.com/watch?v=htgGzPVpgkM text: kunt maken). Maar wist je dat er ook al een 3D printer (link intern) bestaat die niet met plastic werkt maar met papiermache? Bekijk ‘m (link: https://www.youtube.com/watch?v=LLin-rTpaRM text: hier)'
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Papert
   anchor: Papert
   title: Papert
   text: |
     (link: http://www.onderwijsfilosofie.nl/mindstorms/ text: Seymour Papert) is de grondlegger van het (link: /home/c#constructionisme text: constructionisme), de onderwijsfilosofie onderliggend aan maakonderwijs. In 1967 ontwikkelde hij de eerste educatieve programmeertaal (link: https://en.wikipedia.org/wiki/Logo_programming_language text: Logo), waarmee de bekende ‘turtle graphics’ gemaakt werden. Hij schreef het beroemde boek Mindstorms: Children, computers and powerful ideas.
-
+    
     Leuk weetje: wist je dat de (link: /home/l#lego text: Lego) Mindstorms programmeerbare constructieset naar dit boek vernoemd is?
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: Papert.jpg
+  bgcolor: '#0057e2'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Platform Maker Education
   anchor: Platform Maker Education
   title: Platform Maker Education
-  text: |
-    Platform Maker Education is een netwerk van scholen, maker spaces, bibliotheken en makers, die gezamenlijk de bottom-up maker education beweging in Nederland stimuleren, professionaliseren en vertegenwoordigen. Op de (link: http://makereducation.nl text: website) vind je alles wat je nodig hebt om van start te gaan met maakonderwijs. Van dichtstbijzijnde maakactiviteiten, tot leuke blogs en goede voorbeeldprojecten.  
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
-  alignblock: left
+  text: 'Platform Maker Education is een netwerk van scholen, maker spaces, bibliotheken en makers, die gezamenlijk de bottom-up maker education beweging in Nederland stimuleren, professionaliseren en vertegenwoordigen. Op de (link: http://makereducation.nl text: website) vind je alles wat je nodig hebt om van start te gaan met maakonderwijs. Van dichtstbijzijnde maakactiviteiten, tot leuke blogs en goede voorbeeldprojecten.  '
+  standardimage: pme.jpg
+  bgcolor: '#fbb263'
+  textcolor: '#ffffff'
+  alignblock: right
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Pinewood derby
   anchor: Pinewood derby
   title: Pinewood derby
-  text: |
-    Een (link: https://www.youtube.com/watch?v=tC5qRw7QhLA text: pinewood derby) is een wedstrijd tussen verschillende teams, waarbij elk team een autootje moet bouwen dat zo snel mogelijk over de finish moet rollen nadat het van een helling is afgereden. Ieder team moet met dezelfde materialen werken. Sommige mensen gaan helemaal los en maken waanzinnig racebanen met elektronische tijdwaarneming.
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  text: 'Een (link: https://www.youtube.com/watch?v=tC5qRw7QhLA text: pinewood derby) is een wedstrijd tussen verschillende teams, waarbij elk team een autootje moet bouwen dat zo snel mogelijk over de finish moet rollen nadat het van een helling is afgereden. Ieder team moet met dezelfde materialen werken. Sommige mensen gaan helemaal los en maken waanzinnig racebanen met elektronische tijdwaarneming.'
+  standardimage: pinewood.jpg
+  bgcolor: '#8ddeb5'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Programmeren
   anchor: Programmeren
   title: Programmeren
   text: |
     Wanneer je een computer wilt laten reageren zoals jij het bedacht hebt, moet je het eerst programmeren. Een simpel programma voor een robotstofzuiger kan er bijvoorbeeld ongeveer zou uitzien: “ga naar voren, draal naar links als je niet verder kan, en doe deze regel 100 keer”.
      Een computer snapt alleen (nog) geen mensentaal, voor de computer moet je deze instructies opschrijven in computertaal, ofwel (link: /home/c#code text: binaire taal).
-
+    
     Een leuke introductie voor jonge kinderen over computers, code en programmeren vind je (link: http://www.helloruby.com/nl text: hier)
-
+    
     (link: /home/m#microbit text: Micro:bit)
     (link: /home/b#beebot text: Beebot)
     (link: /home/b#bomberbot text: Bomberbot)
@@ -102,87 +98,82 @@ Sections:
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Paper circuits
   anchor: Paper circuits
   title: Paper circuits
-  text: |
-    Met kopertape (of geleidende inkt) en LEDjes kan je gemakkelijk en snel papieren circuits maken. Het is een hele mooie manier om op eenvoudige wijze gebruik te maken van elektriciteit en licht. Per-Ivar Kloen heeft de benodigdheden op een (link: https://makereducation.nl/nieuws/eerste-les-leer-bijeenkomst text: rij gezet). Kijk ook eens naar de tutorials en projecten op (link: http://highlowtech.org/ text: High-Low Tech). (link: http://highlowtech.org/?p=2286 text: Dandelion Painting) is een prachtig interactief schilderij (‘programmable painting’) van Pu Gong Ying Tu en de moeite van het kijken waard!  
+  text: 'Met kopertape (of geleidende inkt) en LEDjes kan je gemakkelijk en snel papieren circuits maken. Het is een hele mooie manier om op eenvoudige wijze gebruik te maken van elektriciteit en licht. Per-Ivar Kloen heeft de benodigdheden op een (link: https://makereducation.nl/nieuws/eerste-les-leer-bijeenkomst text: rij gezet). Kijk ook eens naar de tutorials en projecten op (link: http://highlowtech.org/ text: High-Low Tech). (link: http://highlowtech.org/?p=2286 text: Dandelion Painting) is een prachtig interactief schilderij (‘programmable painting’) van Pu Gong Ying Tu en de moeite van het kijken waard!  '
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Prototype
   anchor: Prototype
   title: Prototype
   text: |
     Een prototype is een moeilijk woord voor een probeersel. In het proces van het ontwikkelen van een product is het maken van probeersels erg handig. Met een prototype kun je testen of je idee werkt zonder dat je eindeloos veel tijd steek in het alles helemaal netjes maken.
-
+    
     Vaak kun je leren van het ene prototype om vervolgens weer een verbeterd prototype te maken. Soms kun je al uitproberen of iets werkt door op papier te doen alsof het werkt. Dat heet paper prototyping en kan bijvoorbeeld goed werken wanneer je een (link: https://vimeo.com/62160434 text: app maakt)
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
+  standardimage: part-ambacht-1.jpg
+  bgcolor: '#e0e0de'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Petfles raket
   anchor: Petfles raket
   title: Petfles raket
-  text: |
-    Waarom zou je een petfles raket maken? De vraag is eerder: waarom niet? Het is leerzaam, maar bovenal leuk. Hier vind je een (link: http://www.sterrenkids.nl/cms/de-waterraket/ text: instructie)
+  text: 'Waarom zou je een petfles raket maken? De vraag is eerder: waarom niet? Het is leerzaam, maar bovenal leuk. Hier vind je een (link: http://www.sterrenkids.nl/cms/de-waterraket/ text: instructie)'
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Plastic soep
   anchor: Plastic soep
   title: Plastic soep
-  text: |
-    De oceanen zitten vol met plastic afval. Ten eerste is dat slecht voor al het leven op de aardbol en ten tweede kan al dat plastic, als we het uit het water vissen, hergebruikt worden (zie recycling duurzaamheid). Boyan Slat probeert met zijn project plastic (miljoenen kilo’s) uit de (link: http://www.plasticsoupfoundation.org/en/ text: oceanen te scheppen). Een echte uitvinder!
+  text: 'De oceanen zitten vol met plastic afval. Ten eerste is dat slecht voor al het leven op de aardbol en ten tweede kan al dat plastic, als we het uit het water vissen, hergebruikt worden (zie recycling duurzaamheid). Boyan Slat probeert met zijn project plastic (miljoenen kilo’s) uit de (link: http://www.plasticsoupfoundation.org/en/ text: oceanen te scheppen). Een echte uitvinder!'
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Printplaat
   anchor: Printplaat
   title: Printplaat
-  text: |
-    Een printplaat is een platte plaat waar allerlei elektronische onderdelen op zitten, die via geleidende banen elektrisch contact met elkaar maken. Je kunt de onderdelen ook met draadjes aan elkaar vast solderen, maar op een plaat zit het steviger en netter. Je kunt printplaten zelf maken door etstechnieken te (link: http://www.usage.nl/?page_id=238 text: gebruiken) , maar het kan ook met een (link: /home/f#frezen text: CNC frees)
+  text: 'Een printplaat is een platte plaat waar allerlei elektronische onderdelen op zitten, die via geleidende banen elektrisch contact met elkaar maken. Je kunt de onderdelen ook met draadjes aan elkaar vast solderen, maar op een plaat zit het steviger en netter. Je kunt printplaten zelf maken door etstechnieken te (link: http://www.usage.nl/?page_id=238 text: gebruiken) , maar het kan ook met een (link: /home/f#frezen text: CNC frees)'
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Punniken
   anchor: Punniken
   title: Punniken
-  text: |
-    Punniken is een handwerktechniek die je kunt gebruiken om van een dunne draad een dikke draad te maken. Helemaal leuk is het wanner je gaat (link: https://www.youtube.com/watch?v=M6jVo8nESb0 text: XXL punniken)
+  text: 'Punniken is een handwerktechniek die je kunt gebruiken om van een dunne draad een dikke draad te maken. Helemaal leuk is het wanner je gaat (link: https://www.youtube.com/watch?v=M6jVo8nESb0 text: XXL punniken)'
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Play / Serious Play
   anchor: Play / Serious Play
   title: Play / Serious Play
   text: |
     Serious play is verwant aan (link: /home/c#constructionisme text: constructionisme). De theorie stelt onder andere dat kennis beter beklijft wanneer je er op een speelse en fysieke manier mee omgaat.
-
+    
     Abstracte begrippen worden via metaforen fysiek gemaakt, bijvoorbeeld met behulp van (link: https://www.youtube.com/watch?v=2TbTa31ACB4&index=5&list=PLbyUzGdhu2XUF0ZZ9n3PTJ6djWVpgiR9K text: Lego) Ook voor volwassenen zijn er talloze trainingen waarbij serious play wordt ingezet om processen binnen bedrijven in kaart te brengen en te verbeteren.
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
@@ -193,15 +184,15 @@ Sections:
 
 ----
 
-Sectionmeta:
+Sectionmeta: 
 
 ----
 
-Author:
+Author: 
 
 ----
 
-Keywords:
+Keywords: 
 
 ----
 
@@ -213,16 +204,16 @@ Edited: 2017-02-20 12:50:00
 
 ----
 
-Sectionseo:
+Sectionseo: 
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
 
 ----
 
-Video:
+Video: 

@@ -1,4 +1,4 @@
-Sectiondefault:
+Sectiondefault: 
 
 ----
 
@@ -14,67 +14,62 @@ Cover: rocket.jpg
 
 ----
 
-Preview:
+Preview: 
 
 ----
 
-Sections:
+Sections: 
 
--
+- 
   indextitle: Wizard of oz
   anchor: Wizard of oz
   title: Wizard of oz
-  text: |
-    Wizard of Oz? Jep. Hiermee bedoelen we natuurlijk niet letterlijk de wereldberoemde fantasy film uit 1939. Maar wel iets dat hier op geïnspireerd is, namelijk: een methode om prototype’s te maken. Bij deze vorm van prototypen doe je alsof je ontwerp al helemaal werkt om te kijken hoe de gebruiker reageert. Klinkt het nog steeds een beetje abstract? Kijk dan dit (link: https://www.youtube.com/watch?v=k_9Q-KDSb9o text: filmpje).
+  text: 'Wizard of Oz? Jep. Hiermee bedoelen we natuurlijk niet letterlijk de wereldberoemde fantasy film uit 1939. Maar wel iets dat hier op geïnspireerd is, namelijk: een methode om prototype’s te maken. Bij deze vorm van prototypen doe je alsof je ontwerp al helemaal werkt om te kijken hoe de gebruiker reageert. Klinkt het nog steeds een beetje abstract? Kijk dan dit (link: https://www.youtube.com/watch?v=k_9Q-KDSb9o text: filmpje).'
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Weerstand
   anchor: Weerstand
   title: Weerstand
-  text: |
-    Het woord weerstand heeft meerdere betekenissen, afhankelijk van de context. Als we spreken over elektrische weerstand hebben we het over een passief component dat de stroomkring beperkt. In dit geval werkt een weerstand dus stroom tegen. En hoe groter de weerstand, hoe minder stroom er zal vloeien. Grappig genoeg slaat deze uitleg ook op de menselijke vorm van weerstand. We kennen het allemaal: iedereen heeft heel veel zin om iets te gaan doen, maar er is één iemand die niet meewerkt en dus weerstand biedt. Grote kans dat het energielevel en het enthousiasme binnen de groep ook minder groot wordt. Dit soort weerstand kan ook voorkomen bij een maakproces.
+  text: 'Het woord weerstand heeft meerdere betekenissen, afhankelijk van de context. Als we spreken over elektrische weerstand hebben we het over een passief component dat de stroomkring beperkt. In dit geval werkt een weerstand dus stroom tegen. En hoe groter de weerstand, hoe minder stroom er zal vloeien. Grappig genoeg slaat deze uitleg ook op de menselijke vorm van weerstand. We kennen het allemaal: iedereen heeft heel veel zin om iets te gaan doen, maar er is één iemand die niet meewerkt en dus weerstand biedt. Grote kans dat het energielevel en het enthousiasme binnen de groep ook minder groot wordt. Dit soort weerstand kan ook voorkomen bij een maakproces.'
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Weven
   anchor: Weven
   title: Weven
-  text: |
-    Weven is het vervlechten van draden die elkaar kruisen zodat er een lap stof ontstaat. Het is één van de oudste textiel technieken. In Europa zijn zelfs geweven textielresten gevonden uit de IJstijd! Wil je meer weten over textiel? En de rijke geschiedenis die achter het vervaardigen van textiel ligt? Breng dan eens een bezoekje aan het Textiel Museum in Tilburg. Zij organiseren allerlei workshops, ook voor het onderwijs. Bekijk deze (link: http://www.instructables.com/id/Kite-weaving/ text: tutorial) als je alvast zélf aan de slag wilt met je eigen weefgetouw.
+  text: 'Weven is het vervlechten van draden die elkaar kruisen zodat er een lap stof ontstaat. Het is één van de oudste textiel technieken. In Europa zijn zelfs geweven textielresten gevonden uit de IJstijd! Wil je meer weten over textiel? En de rijke geschiedenis die achter het vervaardigen van textiel ligt? Breng dan eens een bezoekje aan het Textiel Museum in Tilburg. Zij organiseren allerlei workshops, ook voor het onderwijs. Bekijk deze (link: http://www.instructables.com/id/Kite-weaving/ text: tutorial) als je alvast zélf aan de slag wilt met je eigen weefgetouw.'
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: WaterColorBot
   anchor: WaterColorBot
   title: WaterColorBot
-  text: |
-    (link: http://watercolorbot.com/ text: WaterColorBot) is een verfrobot die werkt als een kleurenprinter met waterverf. Je kunt hem kopen als bouwpakket. Voor gevorderden makers of enthousiaste beginnelingen: maakt gewoon alle onderdelen zelf in een Fablab (link intern). Het project is namelijk Open-Source. De makers achter deze robot vinden het dus alleen maar tof als je je eigen draai aan het ontwerp geeft!
+  text: '(link: http://watercolorbot.com/ text: WaterColorBot) is een verfrobot die werkt als een kleurenprinter met waterverf. Je kunt hem kopen als bouwpakket. Voor gevorderden makers of enthousiaste beginnelingen: maakt gewoon alle onderdelen zelf in een Fablab (link intern). Het project is namelijk Open-Source. De makers achter deze robot vinden het dus alleen maar tof als je je eigen draai aan het ontwerp geeft!'
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+- 
   indextitle: Wired
   anchor: Wired
   title: Wired
-  text: |
-    Wired is een Amerikaans/Brits tijdschrift met technologie en cultuur als hoofdonderwerp. Ze maken mega interessante content en schrijven stukken over hoe technologie cultuur, economie, politiek en design beïnvloed. Ook zijn zij een belangrijke promotor van concepten als Open Source en Creative Commons. Wil je weten wat er wereldwijd speelt op het gebied van technologie? Ze publiceren vrijwel al hun content op hun (link: http://wired.com text: website).
-  standardimage: rocket.jpg
+  text: 'Wired is een Amerikaans/Brits tijdschrift met technologie en cultuur als hoofdonderwerp. Ze maken mega interessante content en schrijven stukken over hoe technologie cultuur, economie, politiek en design beïnvloed. Ook zijn zij een belangrijke promotor van concepten als Open Source en Creative Commons. Wil je weten wat er wereldwijd speelt op het gebied van technologie? Ze publiceren vrijwel al hun content op hun (link: http://wired.com text: website).'
+  standardimage: wired.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
@@ -83,15 +78,15 @@ Sections:
 
 ----
 
-Sectionmeta:
+Sectionmeta: 
 
 ----
 
-Author:
+Author: 
 
 ----
 
-Keywords:
+Keywords: 
 
 ----
 
@@ -103,12 +98,16 @@ Edited: 2017-02-20 12:50:00
 
 ----
 
-Sectionseo:
+Sectionseo: 
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
+
+----
+
+Video: 

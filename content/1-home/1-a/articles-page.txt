@@ -29,7 +29,7 @@ Sections:
     
     Kijk eens goed om je heen. Wat zie je? Misschien kijk je nu naar je computerscherm en de tikkende klok aan de muur. Of de bank waar je op zit en de schoenen die je vandaag draagt. Objecten die je elke dag gebruikt, van tandpasta tube en tram tot smartphone en sleutels, zijn ooit bedacht en ontworpen door mensen. Alles is gemaakt! Als je nog verder kijkt, zie je dat design meer is dan alleen alledaagse voorwerpen. Ook fysieke plekken en publieke ruimtes zoals parken, winkelcentra, dijken en zelfs hele steden worden bedacht en ontworpen door mensen. Kijk deze (link: http://www.documentairenet.nl/review/archidutch-how-the-dutch-design-the-cities-we-live-in/ text: documentaire) maar eens. Sinds de internetrevolutie gaat design nog een stap verder: onzichtbare systemen en infrastructuren zoals clouds, besturingssoftware en algoritmes worden in rap tempo ontwikkeld. Design kleurt onze werkelijkheid en geeft vorm aan onze maatschappij, dat kunnen we wel stellen. En daarom heeft de wereld slimme makers en ontwerpers nodig! Misschien nu wel meer dan ooit.
   standardimage: allesgemaakt.jpg
-  bgcolor: '#85c8be'
+  bgcolor: '#86ccc2'
   textcolor: '#ffffff'
   alignblock: left
   minheight: ""
@@ -72,7 +72,7 @@ Sections:
   anchor: ""
   title: Avontuur
   text: 'Maken is op avontuur gaan. Waarom? Het is altijd een onderneming, ervaring of belevenis waarvan de uitkomst niet helemaal vaststaat. Laat de bestemming vrij, richt je op het proces en zie waar je uitkomt! Blijf nieuwsgierig en laat je verwonderen. Dan ontstaan de mooiste dingen. Wil je samen op avontuur? Laat je dan eens leiden door het boek (link: https://www.bol.com/nl/p/how-to-be-an-explorer-of-the-world/1001004011806642/ text: ‘How to be an explorer of the world’) van Keri Smith'
-  bgcolor: '#a0c5ce'
+  bgcolor: '#b6d4dc'
   textcolor: '#423b3b'
   _fieldset: text-section
 - 
@@ -87,12 +87,13 @@ Sections:
     Iets mee low-tech dan de bovengenoemde Arduino, maar dat maakt de Automata niet minder uitdagend. De Automata laat je op speelse wijze kennismaken met mechanische bewegingen. Maar wat is het? Automata is een machine gemaakt met behulp van simpele middelen, zoals bijvoorbeeld karton, houten stokjes en elastiekjes. Met deze spulletjes kun je heuse mechanische principes zoals bijvoorbeeld “hoe tandwielen werken” in de praktijk brengen.
     
     Het maken van (link: https://openthings.wiki/nl/project/view/46 text: Automata) is technisch knutselen en is leuk voor iedereen die met een schaar en een lijmpistool overweg kan. Het kan al heel leuk zijn om een machine te maken die niks nuttigs doet, maar probeer ook eens een machine te maken die een (link: https://www.youtube.com/watch?v=76brOY2t6zI text: verhaal vertelt).
-  standardimage: automata.jpg
-  bgcolor: '#9e9ea6'
+  standardimage: automata.gif
+  bgcolor: '#9999db'
   textcolor: '#ffffff'
   alignblock: right
   _fieldset: content-block
   minheight: ""
+  regularpadding: "1"
 
 ----
 

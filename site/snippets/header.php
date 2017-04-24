@@ -12,7 +12,14 @@
   <link rel="alternate" hreflang="en" href="en" />
   <?php echo css('assets/css/main.css') ?>
   <?php snippet('seo') ?>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/animation.gsap.min.js"></script>
 </head>
 <body class="<?= $page->uid() ?>">
 <?php snippet('menu') ?>
+<script>
+	// init controller
+  var controller = new ScrollMagic.Controller();
+</script>
 <div class="animation-container">

@@ -34,11 +34,11 @@ Sections:
     
     Op (link: http://www.codekinderen.nl text: Codekinderen) en (link: http://www.codeuur.nl text: CodeUur) is lesmateriaal beschikbaar om met programmeren aan de slag te gaan. En op (link: http://www.codestarter.nl text: Codestarter) vind je programmeerclubs bij jou in de buurt. Het boek CodeKlas is een inspiratieboek over programmeren met kinderen, voor leraren en ouders van kinderen in het (link: http://www.boektweepuntnul.nl/codeklas/?v=796834e7a283 text: basis- en voortgezet onderwijs).
   standardimage: code.jpg
-  bgcolor: '#60b1e8'
+  bgcolor: '#ffb679'
   textcolor: '#ffffff'
   alignblock: left
   _fieldset: content-block
-  minheight: 100vh
+  minheight: 800px
 - 
   indextitle: Creativiteit
   anchor: Creativiteit
@@ -48,7 +48,7 @@ Sections:
     
     Er zijn tal van verschillende definities te vinden over creativiteit. Maar in het algemeen wijst het naar nieuwe dingen bedenken en/of creëren. Geldt dat ook voor ons onderwijs? In de beroemde TED talk ‘Changing Paradigms’ van Sir Ken Robinson betoogt hij dat het noodzakelijk is ons onderwijs te veranderen om kinderen te helpen hun creatieve potentieel te (link: https://www.youtube.com/watch?v=Z1yl0MFYzXc text: ontwikkelen)
   standardimage: creativiteit.jpg
-  bgcolor: '#4da9be'
+  bgcolor: '#36bcd7'
   textcolor: '#ffffff'
   alignblock: right
   minheight: 900px
@@ -61,7 +61,7 @@ Sections:
     Computers zijn overal. We leren ze van jongs af aan te gebruiken en velen van ons gebruiken ze dagelijks. Maar hoe werken ze eigenlijk? Hoe denken ze? Computer science en computational thinking worden steeds belangrijker.
     
     (link: http://csunplugged.org/ text: Computer Science Unplugged) is een boek met een verzameling leeractiviteiten waardoor je over Computer Science leert door middel van boeiende spellen en puzzels die kaarten, touw, kleurpotloden. Marijn van der Meer en Joek van Montfort maakten een  Nederlandse vertaling met opdrachten voor de in de klas, die (link: http://www.csunplugged.nl/ text: hier) gratis beschikbaar is.
-  standardimage: computer-science.jpg
+  standardimage: computer-science.gif
   bgcolor: '#131112'
   textcolor: '#ffffff'
   alignblock: left
@@ -76,10 +76,10 @@ Sections:
     
     In een  (link: /home/l#licentie text: licentie) geef jij aan wat precies wel en niet mag met jouw ontwerp, want jij hebt het gemaakt! Onthoud dat het belangrijk is om ideeën en ontwerpen te delen, want zo leer je van elkaar!
   standardimage: creative-commons.jpg
-  bgcolor: '#ffa35a'
+  bgcolor: '#ffa54f'
   textcolor: '#ffffff'
   alignblock: left
-  minheight: ""
+  minheight: 800px
   _fieldset: content-block
 - 
   indextitle: Computer
@@ -100,11 +100,11 @@ Sections:
   anchor: Constructionisme
   title: Constructionisme
   text: 'Constructionisme is een leertheorie van (link: /home/p#papert  text: Seymour Papert) die stelt dat leren beter gaat als je de kennis die je wilt opnemen, modelleert in een fysiek object. Maak bijvoorbeeld een auto van karton als je moet leren hoe een auto is opgebouwd! Of leer rekenen met behulp van (link: https://www.youtube.com/watch?v=IIIsnD2Sqw4 text: legoblokjes). Deze leermethode is een perfect voorbeeld van leren door te maken.'
-  standardimage: code.jpg
-  bgcolor: '#ffffff'
+  standardimage: constr.jpg
+  bgcolor: '#c8dcdd'
   textcolor: '#141414'
   alignblock: left
-  minheight: ""
+  minheight: 900px
   _fieldset: content-block
 - 
   indextitle: Cryptografie
@@ -118,11 +118,11 @@ Sections:
     zorgen dat niemand anders dan jijzelf de
     voor jou bedoelde WhatsApp berichten kan
     lezen.
-  standardimage: code.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: cryptografie.jpg
+  bgcolor: '#fd76b9'
+  textcolor: '#ffffff'
   alignblock: left
-  minheight: ""
+  minheight: 800px
   _fieldset: content-block
 - 
   indextitle: Cradle to Cradle
