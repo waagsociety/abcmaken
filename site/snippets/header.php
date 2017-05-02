@@ -7,7 +7,7 @@
   <meta name="description" content="<?php echo $site->description()->html() ?>">
   <meta name="keywords" content="<?php echo $site->keywords()->html() ?>">
   <script src="https://use.typekit.net/wkf2lia.js"></script>
-  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+  <script>try{Typekit.load({ async: false });}catch(e){}</script>
   <link rel="canonical" href="<?= $page->url() ?>">
   <link rel="alternate" hreflang="en" href="en" />
   <?php echo css('assets/css/main.css') ?>

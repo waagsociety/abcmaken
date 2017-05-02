@@ -65,8 +65,9 @@ Sections:
   bgcolor: '#131112'
   textcolor: '#ffffff'
   alignblock: left
-  minheight: 800px
+  minheight: 500px
   _fieldset: content-block
+  regularpadding: "1"
 - 
   indextitle: Creative Commons
   anchor: Creative Commons

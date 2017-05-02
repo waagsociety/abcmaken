@@ -32,17 +32,6 @@ Sections:
   citation: Sylvia Martinez
   _fieldset: quote
 - 
-  indextitle: Helden
-  anchor: Helden
-  title: Helden
-  text: 'Helden van Nederlandse bodem: Daan Roosegaarde, Rolf Hut, Theo Janssen, Rolf Hut, Leo van der Veen, Annouk Wipprecht, Bas van Abel.'
-  standardimage: held-1.jpg
-  bgcolor: '#013ee7'
-  textcolor: '#ffffff'
-  alignblock: left
-  minheight: ""
-  _fieldset: content-block
-- 
   indextitle: Hacken
   anchor: Hacken
   title: Hacken
@@ -51,6 +40,17 @@ Sections:
   bgcolor: '#2c5bff'
   textcolor: '#ffffff'
   alignblock: right
+  minheight: ""
+  _fieldset: content-block
+- 
+  indextitle: Helden
+  anchor: Helden
+  title: Helden
+  text: 'Helden van Nederlandse bodem: Daan Roosegaarde, Rolf Hut, Theo Janssen, Rolf Hut, Leo van der Veen, Annouk Wipprecht, Bas van Abel.'
+  standardimage: held-1.jpg
+  bgcolor: '#013ee7'
+  textcolor: '#ffffff'
+  alignblock: left
   minheight: ""
   _fieldset: content-block
 - 

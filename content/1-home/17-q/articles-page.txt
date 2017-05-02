@@ -1,4 +1,4 @@
-Sectiondefault:
+Sectiondefault: 
 
 ----
 
@@ -14,48 +14,56 @@ Cover: abc-letter-q.jpg
 
 ----
 
-Preview:
+Preview: 
 
 ----
 
-Sections:
+Sections: 
 
--
+- 
   indextitle: Q
   anchor: Q
   title: Q
-  text: |
-    IQ en EQ zijn bekende begrippen, maar er zijn ook nog andere intelligenties. Bij het maken heb je zeker voordeel van creatieve intelligentie. Maar wat dacht je van fysieke intelligentie? Deze vorm van intelligentie gaat over controle hebben over je lichaam. Wel zo handig bij het knutselen!
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
-  alignblock: left
+  text: >
+    IQ en EQ zijn bekende begrippen, maar er
+    zijn ook nog andere intelligenties. Bij
+    het maken heb je zeker voordeel van
+    creatieve intelligentie. Maar wat dacht
+    je van fysieke intelligentie? Deze vorm
+    van intelligentie gaat over controle
+    hebben over je lichaam. Wel zo handig
+    bij het knutselen!
+  standardimage: eq.jpg
+  bgcolor: '#adceed'
+  textcolor: '#ffffff'
+  alignblock: right
   minheight: ""
   _fieldset: content-block
--
+  regularpadding: "0"
+- 
   indextitle: Quirkbot
   anchor: Quirkbot
   title: Quirkbot
-  text: |
-    Quirkbot is een kit met onderdelen waarmee je interactieve dingen (zoals bijvooorbeeld robots) van rietjes kunt bouwen. In de set zitten een programmeerbare microcontroller, (link: /home/s#sensoren text: sensoren), motortjes en lampjes. 
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  text: 'Quirkbot is een kit met onderdelen waarmee je interactieve dingen (zoals bijvooorbeeld robots) van rietjes kunt bouwen. In de set zitten een programmeerbare microcontroller, (link: /home/s#sensoren text: sensoren), motortjes en lampjes.'
+  standardimage: quirkbot.jpg
+  bgcolor: '#ff679a'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 
 ----
 
-Sectionmeta:
+Sectionmeta: 
 
 ----
 
-Author:
+Author: 
 
 ----
 
-Keywords:
+Keywords: 
 
 ----
 
@@ -67,16 +75,16 @@ Edited: 2017-02-20 12:50:00
 
 ----
 
-Sectionseo:
+Sectionseo: 
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
 
 ----
 
-Video:
+Video: 

@@ -47,9 +47,10 @@ Sections:
   standardimage: experimenteren.jpg
   bgcolor: '#dbe1e1'
   textcolor: '#141414'
-  alignblock: left
+  alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Eigenaarschap
   anchor: Eigenaarschap

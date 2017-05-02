@@ -81,12 +81,13 @@ Sections:
     veel gebruikt worden voor digitale
     fabricage zijn de CNC frees en de
     lasersnijder.
-  standardimage: delen.jpg
-  bgcolor: '#ffffff'
+  standardimage: digitale-fabricage.jpg
+  bgcolor: '#c4cfd1'
   textcolor: '#141414'
-  alignblock: left
-  minheight: ""
+  alignblock: right
+  minheight: 650px
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Documenteren en delen
   anchor: Documenteren en delen
@@ -105,12 +106,13 @@ Sections:
   text: |
     3d printen, ook wel Additive Manufacturing, Rapid Prototyping of Rapid Manufacturing genoemd, is een productietechniek waarbij een digitaal bestand omgezet wordt naar een tastbaar object. Het object wordt laagje voor laagje opgebouwd door de 3D-printer.
     Er zijn veel verschillende goede 3d printers. De Nederlandse (link: https://ultimaker.com/ text: Ultimaker) is een bekende en maakt het steeds gemakkelijker om zelf, thuis en op school, aan de slag te gaan. De ultimaker website heeft hele goede tutorials. En het is best magisch natuurlijk! En kan leuk en leerzaam zijn bovendien. Maar denk wel even na voordat je zomaar iets print. Het is plastic, gaat langzaam en kost energie. Of werk met gerecycled fillament: (link invoegen).
-  standardimage: delen.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: 3d-printers.jpg
+  bgcolor: '#a18872'
+  textcolor: '#ffffff'
   alignblock: right
-  minheight: ""
+  minheight: 600px
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: 2D ontwerpen
   anchor: 2D ontwerpen
@@ -145,15 +147,14 @@ Sections:
   indextitle: Design
   anchor: Design
   title: Design
-  text: |
-    Design: “Crowds may be wise, but they still need designers” - John Thackara
-    Ontwerp.
+  text: '“Crowds may be wise, but they still need designers” - John Thackara'
   standardimage: design.jpg
   bgcolor: '#5ebfe0'
   textcolor: '#ffffff'
-  alignblock: left
-  minheight: ""
+  alignblock: right
+  minheight: 600px
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Design thinking
   anchor: Design thinking
@@ -202,9 +203,10 @@ Sections:
   standardimage: drones.gif
   bgcolor: '#ffffff'
   textcolor: '#141414'
-  alignblock: left
+  alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "1"
 - 
   indextitle: Digitale geletterdheid
   anchor: Digitale geletterdheid
@@ -224,9 +226,10 @@ Sections:
   standardimage: duurzaamheid.jpg
   bgcolor: '#7fcaa9'
   textcolor: '#ffffff'
-  alignblock: left
+  alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Doorzetten
   anchor: Doorzetten

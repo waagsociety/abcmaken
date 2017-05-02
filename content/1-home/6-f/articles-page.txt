@@ -47,6 +47,7 @@ Sections:
   alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "1"
 - 
   indextitle: Fablab
   anchor: Fablab
@@ -61,6 +62,7 @@ Sections:
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "1"
 - 
   indextitle: FabLearn
   anchor: FabLearn
@@ -117,6 +119,7 @@ Sections:
   alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "1"
 - 
   indextitle: Frezen
   anchor: Frezen
@@ -128,6 +131,7 @@ Sections:
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "1"
 - 
   indextitle: FabKlas
   anchor: FabKlas

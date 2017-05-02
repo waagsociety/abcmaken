@@ -1,15 +1,39 @@
 title: Page
-icon: file-text-o 
-pages: true
+icon: file-text-o
+pages: false
 files:
   fields:
     copyright: copyright
     description: description
     caption: caption
 fields:
+  sectionDefault:
+    label: Content
+    id: default
+    type: tab
+    icon: file-text-o
   title: title
   description: description
-  text: text
-  line: line-a
+  tags:
+    label: Tags
+    type: tags
+  video: video
+  cover: image-cover
+  sections: sections-article
+  sectionMeta:
+    label: Metadata
+    id: meta
+    type: tab
+    icon: info-circle
+  author: author
+  keywords: keywords
+  created: datetime-created
+  edited: datetime-edited
+  sectionSeo:
+    label: SEO
+    id: seo
+    type: tab
+    icon: search
+
   seotitle: seo-title
   seodescription: seo-description

@@ -1,12 +1,17 @@
 <?php snippet('header') ?>
 
+<?php
+
+  $index = 0;
+
+?>
   <main class="main" role="main">
-
-    <div class="text">
-      <h1><?php echo $page->title()->html() ?></h1>
-      <?php echo $page->text()->kirbytext() ?>
-    </div>
-
+    <?php foreach($page->sections()->toStructure() as $section): $index ++ ?>
+      <?php snippet('sections/' . $section->_fieldset(), array(
+        'data' => $section,
+        'index' => $index
+      )) ?>
+    <?php endforeach ?>
   </main>
 
 <?php snippet('footer') ?>

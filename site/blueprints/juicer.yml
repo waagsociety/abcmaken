@@ -1,0 +1,19 @@
+title: Juicer
+icon: file-text-o
+pages: false
+files:
+  fields:
+    copyright: copyright
+    description: description
+    caption: caption
+fields:
+  title: title
+  description: description
+  tags:
+    label: Tags
+    type: tags
+  cover: image-cover
+  text: text
+  line: line-a
+  seotitle: seo-title
+  seodescription: seo-description

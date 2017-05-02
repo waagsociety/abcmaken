@@ -1,17 +1,25 @@
 <nav class="navigation">
-  <div class="wrap">
-    <div class="hamburger">
-      <span class="stripe"></span>
-      <span class="stripe"></span>
-      <span class="stripe"></span>
+  <div class="burger">
+    <div class="wrap">
+      <div class="hamburger">
+        <span class="stripe"></span>
+        <span class="stripe"></span>
+        <span class="stripe"></span>
+      </div>
     </div>
   </div>
+
+  <a href="/" class="home-nav">
+    <div>
+      <span class="navtext">ABC</span>
+    </div>
+  </a>
+  <a href="/over-abc" class="home-nav">
+    <div>
+      <span class="navtext">OVER</span>
+    </div>
+  </a>
 </nav>
-<a href="/" class="home-nav">
-  <div>
-    <span class="navtext">ABC</span>
-  </div>
-</a>
 
 <nav class="menu-panel">
   <ul class="menu-list">
@@ -33,7 +41,7 @@
 </nav>
 
 <script type="text/javascript">
-  document.querySelector('.navigation').addEventListener('click', function() {
+  document.querySelector('.burger').addEventListener('click', function() {
     this.classList.toggle('active');
     document.body.classList.toggle('menu-open')
   })
