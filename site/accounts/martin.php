@@ -7,8 +7,8 @@ email: martin@waag.org
 language: en
 role: admin
 history:
+  - home/z
   - agenda
   - home/w
   - home/r
   - home/p
-  - home/y
