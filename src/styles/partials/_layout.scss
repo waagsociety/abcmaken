@@ -113,7 +113,7 @@ body.modal-open {
 
 .footer {
   width: 100%;
-  height: 80px;
+  min-height: 80px;
   display: flex;
   padding: 0 2em;
   align-items: center;
@@ -121,6 +121,16 @@ body.modal-open {
   color: #333;
   float: left;
   font-size: 0.7125em;
+
+  p {
+    max-width: calc(100% - 280px);
+  }
+
+  span {
+    @include breakpoint(s){
+      display: none;
+    }
+  }
 }
 
 // body.menu-open {

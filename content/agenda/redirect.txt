@@ -1,0 +1,57 @@
+Sectiondefault: 
+
+----
+
+Title: Agenda
+
+----
+
+Description: Wat is er te doen?
+
+----
+
+Video: 
+
+----
+
+Cover: agenda-1.jpg
+
+----
+
+Sectionmeta: 
+
+----
+
+Author: 
+
+----
+
+Keywords: 
+
+----
+
+Created: 2017-05-08 10:46:00
+
+----
+
+Edited: 2017-05-08 10:46:00
+
+----
+
+Sectionseo: 
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Tags: about
+
+----
+
+Link: https://makereducation.nl/agenda

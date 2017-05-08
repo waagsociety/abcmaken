@@ -1,0 +1,41 @@
+title: Redirect
+icon: file-text-o
+pages: false
+files:
+  fields:
+    copyright: copyright
+    description: description
+    caption: caption
+fields:
+  sectionDefault:
+    label: Content
+    id: default
+    type: tab
+    icon: file-text-o
+  title: title
+  description: description
+  tags:
+    label: Tags
+    type: tags
+  video: video
+  cover: image-cover
+  link:
+    label: redirect link
+    type: text
+  sectionMeta:
+    label: Metadata
+    id: meta
+    type: tab
+    icon: info-circle
+  author: author
+  keywords: keywords
+  created: datetime-created
+  edited: datetime-edited
+  sectionSeo:
+    label: SEO
+    id: seo
+    type: tab
+    icon: search
+
+  seotitle: seo-title
+  seodescription: seo-description
