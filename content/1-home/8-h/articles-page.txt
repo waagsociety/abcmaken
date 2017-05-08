@@ -43,17 +43,6 @@ Sections:
   minheight: ""
   _fieldset: content-block
 - 
-  indextitle: Helden
-  anchor: Helden
-  title: Helden
-  text: 'Helden van Nederlandse bodem: Daan Roosegaarde, Rolf Hut, Theo Janssen, Rolf Hut, Leo van der Veen, Annouk Wipprecht, Bas van Abel.'
-  standardimage: held-1.jpg
-  bgcolor: '#013ee7'
-  textcolor: '#ffffff'
-  alignblock: left
-  minheight: ""
-  _fieldset: content-block
-- 
   indextitle: High Tech High
   anchor: High Tech High
   title: High Tech High
@@ -61,20 +50,34 @@ Sections:
   standardimage: high-tech-high.jpg
   bgcolor: '#13acce'
   textcolor: '#ffffff'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+  regularpadding: "0"
+- 
+  indextitle: Helden
+  anchor: Helden
+  title: Helden
+  text: 'Helden van Nederlandse bodem: Daan Roosegaarde, Rolf Hut, Theo Janssen, Rolf Hut, Leo van der Veen, Annouk Wipprecht, Bas van Abel.'
+  standardimage: held-1.jpg
+  bgcolor: '#013ee7'
+  textcolor: '#ffffff'
   alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Hummingbird kit
   anchor: Hummingbird kit
   title: Hummingbird kit
   text: 'Hummingbird kit is een verzameling aan componenten die je kunt gebruiken om je eigen robotjes te maken door een combinatie van knutselen en programmeren. Altijd handig om in de kast te (link: http://www.hummingbirdkit.com/ text: hebben liggen).'
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: hummingbird-kit.jpg
+  bgcolor: '#bbbfdc'
+  textcolor: '#333333'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 
 ----
 

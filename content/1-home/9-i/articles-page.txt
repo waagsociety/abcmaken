@@ -25,12 +25,13 @@ Sections:
   anchor: Invent to Learn
   title: Invent to Learn
   text: 'Hét boek voor als je aan de slag wilt met Maakonderwijs. De auteurs, Sylvia Martinez en Gary Stager, nemen je stap voor stap mee in de wondere wereld van het maken. Hier vind je meer info over het (link: http://www.inventtolearn.com text: boek).'
-  standardimage: internet-1.jpg
+  standardimage: invent-to-learn.jpg
   bgcolor: '#ffffff'
-  textcolor: '#141414'
+  textcolor: '#35363d'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Interactief
   anchor: Interactief
@@ -51,9 +52,10 @@ Sections:
   standardimage: interactief-2.jpg
   bgcolor: '#02c6d2'
   textcolor: '#ffffff'
-  alignblock: left
+  alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Internet
   anchor: Internet
@@ -73,34 +75,37 @@ Sections:
   anchor: Internet of Things
   title: Internet of Things
   text: 'Internet of things is het idee dat je naast computers en telefoons ook allerlei andere apparaten, zoals wasmachines en koelkasten, aan het internet kunt koppelen door er kleine computertjes in te stoppen. Een slimme koelkast zou jou bijvoorbeeld een berichtje kunnen sturen als de melk op is. Het is ook leuk om jou eigen maaksels aan het internet te hangen. Maak bijvoorbeeld een kerstboom die je op afstand aan en uit kunt zetten met technologie van (link: https://www.thethingsnetwork.org text: TheThingsnetwork).'
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
+  standardimage: internet-of-things.gif
+  bgcolor: '#e8e8e8'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "1"
 - 
   indextitle: Instructables
   anchor: Instructables
   title: Instructables
   text: '(link: http://www.instructables.com text: Instructables) heeft niet voor niets als tagline: ‘Let’s Make’. Het is een online bron van inspiratie voor alles dat je wilt maken; van de beste appeltaart tot een eye tracker voor je computer. En alles vastgelegd en gedocumenteerd in heldere stap-voor-stap foto-instructies. En kijk vooral ook op (link: http://instructables.com/classes text: Instructables Classes)! Je hele maak-curriculum online!'
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
+  standardimage: instructables.jpg
+  bgcolor: '#ffdeb1'
   textcolor: '#141414'
-  alignblock: left
+  alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Instructables Restaurant
   anchor: Instructables Restaurant
   title: Instructables Restaurant
   text: 'Kan de kantine op school een goede make-over gebruiken? Of ben je op zoek naar een mooi project voor met je hele school? Maak een Instructables restaurant! Het (link: http://waag.org/nl/project/instructables-restaurant text: Instructables Restaurant) van Arne Hendriks en Waag Society was het eerste restaurant ter wereld waar letterlijk alles wat je zag, gebruikte en at, afkomstig was van de website Instructables.com. Maak er bijvoorbeeld een projectweek van. (link: http://www.instructables.com/id/How-to-make-an-Instructables-Restaurant/ text: Hier) vindt je hoe je te werkt gaat.'
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: instructables-restaurant-2.gif
+  bgcolor: '#ff7777'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "1"
 - 
   indextitle: Intrinsieke motivatie
   bgcolor: '#668cd1'
@@ -125,7 +130,7 @@ Sections:
   _fieldset: content-block
 - 
   indextitle: Innovation
-  bgcolor: '#668cd1'
+  bgcolor: '#90e8bf'
   textcolor: '#ffffff'
   anchor: Innovation
   title: Innovation
@@ -140,11 +145,12 @@ Sections:
   title: Illustrator
   text: 'Illustrator is een computerprogramma voor het maken van (link: /home/d#2d-ontwerpen text: 2D ontwerpen). Een gratis is alternatief is (link: /home/i#inkscape text: Inkscape)'
   standardimage: illustrator.jpg
-  bgcolor: '#f3eed1'
-  textcolor: '#141414'
+  bgcolor: '#69d9e7'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Intuitie
   bgcolor: '#668cd1'

@@ -10,7 +10,7 @@ Description: hoi hoi hoi hoi hoi hoi
 
 ----
 
-Cover: rocket.jpg
+Cover: letter-t.jpg
 
 ----
 
@@ -47,23 +47,25 @@ Sections:
   anchor: Tinkeren
   title: Tinkeren
   text: 'Tinkering is een methode, werkvorm én manier van denken waarbij ontwerpend onderzoeken centraal staat. Het is een proces van ontwerpen, maken, testen en verbeteren. Het woord werd al voor het eerst gebruikt rond het jaar 1300, in relatie tot het gereedschap van tingieters die huishoudelijke klussen deden. Maar tegenwoordig gaat het meer om experimenteren met gereedschappen en materialen. Tinkeren is denken met je handen en leren door te doen. En de kern van maker education. Lees meer over tinkeren in het boek The Art of Tinkering van het (link: http://tinkering.exploratorium.edu/art-tinkering text: Exploratorium).  '
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
-  alignblock: left
+  standardimage: tinker.jpg
+  bgcolor: '#67dee2'
+  textcolor: '#292121'
+  alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Tinkering Studio
   anchor: Tinkering Studio
   title: Tinkering Studio
   text: 'Klinkt tinkeren als iets waar je mee aan de slag wilt gaan? Doe dan inspiratie op bij De Tinkering Studio van het Exploratorium. Hier vind je allerlei experimenten op het kruisvlak van wetenschap, kunst en technologie. Op de (link: http://tinkering.exploratorium.edu/ text: website) vind je allemaal gave projecten en bijbehorende instructies om aan de slag te gaan.'
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: tinkering-studio.jpg
+  bgcolor: '#39c4bd'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Tie wraps
   anchor: Tie wraps
@@ -72,12 +74,13 @@ Sections:
     Je haalt ze voor een prikkie in huis en
     ze zijn reuze handig. Een must-have voor
     elke maker!
-  standardimage: rocket.jpg
+  standardimage: tie-wraps.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Teacher Maker Camp
   anchor: Teacher Maker Camp
@@ -95,20 +98,22 @@ Sections:
   standardimage: rocket.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
-  alignblock: left
+  alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Tutorials
   anchor: Tutorials
   title: Tutorials
   text: 'Een tutorial is een uitleg die je stap voor stap laat zien hoe je iets moet doen of maken. Het maken van een tutorial is een vorm van (link: /home/d#documenteren-en-delen text: documentatie). Eindeloos veel tutorials vind je (link: http://www.instructables.com text: hier)'
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: tutorial.gif
+  bgcolor: '#3e54d1'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "1"
 
 ----
 

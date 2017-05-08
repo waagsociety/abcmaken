@@ -33,9 +33,9 @@ Sections:
     van intelligentie gaat over controle
     hebben over je lichaam. Wel zo handig
     bij het knutselen!
-  standardimage: eq.jpg
-  bgcolor: '#adceed'
-  textcolor: '#ffffff'
+  standardimage: brain.jpg
+  bgcolor: '#e0e6e6'
+  textcolor: '#222222'
   alignblock: right
   minheight: ""
   _fieldset: content-block

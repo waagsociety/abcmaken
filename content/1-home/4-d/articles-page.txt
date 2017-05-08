@@ -213,11 +213,12 @@ Sections:
   title: Digitale geletterdheid
   text: 'Digitale geletterdheid wordt steeds belangrijker. SLO ontwikkelde een leerlijn (link: http://curriculumvandetoekomst.slo.nl/projecten/leerlijnen-digitale-geletterdheid text: digitale geletterdheid) die bestaat uit computational thinking, mediawijsheid, informatievaardigheden en ICT basisvaardigheden.'
   standardimage: 1010.jpg
-  bgcolor: '#0710d9'
+  bgcolor: '#0608d9'
   textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Duurzaamheid
   anchor: Duurzaamheid

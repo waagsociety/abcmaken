@@ -42,7 +42,7 @@ Sections:
     
     “Imagination is the beginning of creation. You imagine what you desire, you will what you imagine and at last you create what you will.” ― George Bernard Shaw
   standardimage: fantasie.gif
-  bgcolor: '#ffffff'
+  bgcolor: '#57e5a3'
   textcolor: '#141414'
   alignblock: right
   minheight: ""
@@ -56,13 +56,13 @@ Sections:
     Een FabLab (fabrication laboratory) is een kleinschalige werkplaats waar persoonlijke digitale fabricage mogelijk is. In een Fablab kunnen mensen met behulp van digitale apparatuur hun ideeën realiseren in een prototype of product. Zo kun je een idee uit je hoofd tastbaar maken!
     
     Het Fablab-concept is ontwikkeld door Neil Gershenfeld bij het MIT (USA) en staat voor Fabrication Laboratory. Inmiddels is het Fablab-concept over de hele wereld verspreid. FabLabs zijn wereldwijd met elkaar verbonden, waardoor er een enorm kennisnetwerk voor digitale sociale innovatie ontstaat. In een FabLab vind je machines zoals de 3D printer, de laser cutter en een CNC milling machine. Op de website van de (link: http://fabfoundation.org text: FabFoundation) vind je alles over het FabLab en het wereldwijde netwerk. Wil je een Fablab bezoeken? Je kunt altijd even binnen kijken. Op de website van Stichting (link: http://www.fablab.nl text: FabLab Benelux) kan je zien waar een FabLab bij jou in de buurt is.
-  standardimage: fabschoolino.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: fablab.jpg
+  bgcolor: '#033490'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
-  regularpadding: "1"
+  regularpadding: "0"
 - 
   indextitle: FabLearn
   anchor: FabLearn
@@ -113,21 +113,21 @@ Sections:
   anchor: Focus
   title: Focus
   text: 'Maken brengt focus. Is het je wel eens opgevallen dat iemand z’n tong uitsteekt tijdens een secuur werkje? Dat betekent dat je je concentreert. Waarom dat zo is, lees je hier. Maar even terug naar de focus. Juist nu, in de drukke informatie samenleving van de 21se eeuw, is het van belang dat we ons concentratievermogen blijven trainen. Remco Pijpers schreef een mooie blog over de relatie tussen maken en (link: https://www.kennisnet.nl/artikel/maker-education-heeft-de-toekomst/ text: focus)'
-  standardimage: fabschoolino.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: focus.jpg
+  bgcolor: '#b6f9c6'
+  textcolor: '#333333'
   alignblock: right
   minheight: ""
   _fieldset: content-block
-  regularpadding: "1"
+  regularpadding: "0"
 - 
   indextitle: Frezen
   anchor: Frezen
   title: Frezen
   text: 'Frezen is het weghalen van materiaal (bijvoorbeeld hout of metaal) met een snel ronddraaiend gereedschap, de freesboor. Met een computergestuurde frees kun je bijvoorbeeld heel precies een object halen uit een blok hout op eenzelfde manier zoals een beeldhouwer een beeld maakt uit een blok steen. Het enige dat je dan natuurlijk wel zelf moet is het object in een 3D programma op de computer maken. Je kunt een CNC frees ook gebruiken om (link: /home/p#printplaten text: printplaten) te (link: http://www.instructables.com/id/Make-your-own-PCBs-on-an-inexpensive-desktop-CNC-m/ text: maken).'
   standardimage: cnc.gif
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  bgcolor: '#de4d4d'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block

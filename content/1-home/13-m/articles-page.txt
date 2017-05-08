@@ -39,12 +39,13 @@ Sections:
     Maker Education betekent leren (door te) maken. Het is een creatieve manier om kinderen in staat te stellen uitvinders te worden; en stimuleert hoofd, handen en hart. In de afgelopen jaren zijn allerlei moderne technologieën goedkoop en makkelijker beschikbaar geworden. Denk daarbij aan 3D-printers en elektronica, waarmee kinderen op een laagdrempelige manier kunnen ontwerpen én maken. Leerlingen kunnen deze gereedschappen gebruiken om hun creativiteit te ontplooien.
     
     Kennisnet schreef een artikel en maakte een publicatie over de kansen van de maker movement voor (link: https://www.kennisnet.nl/artikel/maker-movement-biedt-onderwijs-schat-aan-mogelijkheden/ text: onderwijs).
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
-  alignblock: left
+  standardimage: maker-education.jpg
+  bgcolor: '#feaf60'
+  textcolor: '#ffffff'
+  alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Makered
   anchor: Makered
@@ -61,12 +62,13 @@ Sections:
   anchor: Maker Spaces / Maakplaatsten
   title: Maker Spaces / Maakplaatsten
   text: 'Maakplaatsten zijn toegankelijke werkplaatsen met allerhande gereedschappen en machines die je kunt gebruiken voor je eigen maakprojecten. Meestal kun je een apparaat zoals bijvoorbeeld een 3D printer per uur huren en betaal je ook een vergoeding voor het materiaal dat je gebruikt. Sommige maakplaatsen werken met lidmaatschap of abonnement. Het (link: /home/f#fablab text: FabLab) van Waag Society in Amsterdam heeft elke zaterdag open dag. Neem eens een kijkje om te zien hoe het werkt en haal inspiratie uit wat anderen maken.'
-  standardimage: rocket.jpg
+  standardimage: maakplaatsen.gif
   bgcolor: '#ffffff'
   textcolor: '#141414'
-  alignblock: left
+  alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "1"
 - 
   indextitle: Mini FabLab
   anchor: Mini FabLab
@@ -74,10 +76,11 @@ Sections:
   text: 'Een (link: /home/f#fablab text: FabLab) is een plek met machines en gereedschappen die je kunt gebruiken om je eigen maakprojecten te verwezenlijken. Sommige van die apparaten kosten veel geld. Bart Bakker heeft zijn garage omgebouwd tot mini FabLab en is voortdurend op zoek naar Fab apparaten die betaalbaar zijn. Het idee is dat scholen en andere instellingen ook een mini Fablab kunnen inrichten naar zijn (link: http://www.minifablab.nl/ text: voorbeeld).'
   standardimage: mini-fablabs-1.jpg
   bgcolor: '#6dd4ff'
-  textcolor: '#292424'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Modderbatterij
   anchor: Modderbatterij
@@ -86,20 +89,22 @@ Sections:
   standardimage: modderbatterij-1.jpg
   bgcolor: '#fc85d7'
   textcolor: '#ffffff'
-  alignblock: left
+  alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Makey Makey
   anchor: Makey Makey
   title: Makey Makey
   text: 'Maak een bananenpiano, een menselijke stroomkring of laat je kleidieren geluiden maken. Niets te gek. Het kan allemaal met de (link: http://makeymakey.com text: Makey Makey). Deze uitvinderkist is bedacht door Eric Rosenbaum en is bedoelt voor elke leeftijd. Leef je uit met elektronicka en geleidende materialen. Het kan allemaal!   '
   standardimage: makey.gif
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  bgcolor: '#3ed379'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "1"
 - 
   indextitle: Marshmallow challenge
   anchor: Marshmallow challenge
@@ -108,12 +113,13 @@ Sections:
     (link: http://www.marshmallowchallenge.com/ text: De marshmallow challenge) is een leuke oefening in creativiteit, inventiviteit en samenwerking. Deelnemers moeten een zo hoog mogelijke toren bouwen van spaghetti, touw en plakband. De marhmallow moet bovenop.
     
     Zie ook (link: /home/b#begin text: Begin)
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
-  alignblock: left
+  standardimage: marshmellow.jpg
+  bgcolor: '#3cd1e5'
+  textcolor: '#ffffff'
+  alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: MBot
   anchor: MBot
@@ -121,12 +127,13 @@ Sections:
   text: |
     Mbot is een bouwdoos met componenten die je kunt gebruiken om je eigen robot in elkaar te klikken. Er zitten bijvoorbeeld sensoren (de ogen van je robot), motortjes en wieltjes in.
     Natuurlijk kun je deze (link: http://www.makeblock.com/product/mbot-robot-kit text: robot) ook nog (link: /home/p#programmeren text: programmeren)
-  standardimage: rocket.jpg
+  standardimage: mbot.jpg
   bgcolor: '#ffffff'
-  textcolor: '#141414'
+  textcolor: '#222222'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Make
   anchor: Make
@@ -135,9 +142,10 @@ Sections:
   standardimage: make.jpg
   bgcolor: '#0e36a7'
   textcolor: '#ffffff'
-  alignblock: left
+  alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Maker Faire
   anchor: Maker Faire
@@ -149,12 +157,13 @@ Sections:
     (link: http://maakfestival.nl text: maakfestival)
     (link: http://makerfestivaltwente.nl/ text: makerfestivaltwente)
     (link: http://amsterdammakerfestival.nl/nl/ text: amsterdammakerfestival)
-  standardimage: rocket.jpg
+  standardimage: maker-faire.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Mindset
   bgcolor: '#668cd1'
@@ -171,12 +180,13 @@ Sections:
   anchor: Microbit
   title: Micro.bit
   text: 'De (link: https://www.elektormagazine.nl/news/review-programmeren-van-de-bbc-micro-bit text: micro.bit) is een microcontrollerboard vergelijkbaar met een (link: /home/a#arduino text: Arduino). Op de microbit zitten alleen al een aantal ingebouwde sensoren en er is een 5x5 led matrix ingebouwd zodat je er bijvoorbeeld een smiley van lampjes op kunt laten zien.'
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: micro.bit.jpg
+  bgcolor: '#69c8f6'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Media Maken
   anchor: Media Maken
@@ -187,12 +197,13 @@ Sections:
     Zie ook :
     (link: http://www.cinekidclub.nl/category/foto-en-film/ text: Cinekid)
     (link: https://www.mediawijzer.net text: Mediawijzer)
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
-  alignblock: left
+  standardimage: media-maken.jpg
+  bgcolor: '#e3c950'
+  textcolor: '#ffffff'
+  alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Meten is weten
   anchor: Meten is weten

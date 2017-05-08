@@ -21,6 +21,18 @@ Preview:
 Sections: 
 
 - 
+  indextitle: Rolfs Maakbare Wereld
+  anchor: Rolfs Maakbare Wereld
+  title: Rolfs Maakbare Wereld
+  text: 'De allerbeste techniek en mechaniek kan je gewoon zelf maken van de spullen die je thuis hebt. Dat is het aanstekelijke statement van Rolf Hut. In (link: http://rolfhut.nl/rolfsmaakbarewereld  text: Rolfs maakbare wereld) laat hij zien hoe je het leven thuis makkelijker en vooral leuker kan maken.'
+  standardimage: rolfs-maakbare-wereld.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  alignblock: left
+  minheight: ""
+  _fieldset: content-block
+  regularpadding: "0"
+- 
   indextitle: Raspberry Pi
   anchor: Raspberry Pi
   title: Raspberry Pi
@@ -31,9 +43,10 @@ Sections:
   standardimage: rasberry-pie-1.jpg
   bgcolor: '#b8f4f5'
   textcolor: '#222222'
-  alignblock: left
+  alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Robotica
   anchor: Robotica
@@ -41,12 +54,13 @@ Sections:
   text: |
     De robot-technologie ontwikkeld zich in razend tempo. Je eerste eigen (link: https://nl.wikipedia.org/wiki/Jean_Tinguely text: tekenrobot) is super leuk en snel gemaakt. Kijk (link: http://fabschool.nl/?p=552 text: hier) hoe je het doet. Daarna kan je bijvoorbeeld aan de slag (link: /home/l#little-bits text: Little Bits) een (link: /home/a#arduino text: Arduino), (link: /home/h#hummingbird-kit text: Hummingbird Kit) of de (link: /home/f#fabschoolino text: FabSchoolino).
     Kijk ook eens de filmpjes en hilarische mislukkingen van ‘de Queen of shitty robots’, (link: https://www.youtube.com/watch?v=3o2IeUK0dH8 text: Simone Giertz). Of maak een hydraulisch aangedreven robotarm van (link: mb.ntd.tv.inspired/diy/make-hydraulic-powered-robotic-arm-cardboard.html text: karton)
-  standardimage: robotica.gif
-  bgcolor: '#ffffff'
+  standardimage: robototica.gif
+  bgcolor: '#eaff00'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "1"
 - 
   indextitle: Recyclen
   anchor: Recyclen
@@ -59,31 +73,22 @@ Sections:
   standardimage: recycle-1.jpg
   bgcolor: '#fe8f58'
   textcolor: '#ffffff'
-  alignblock: left
+  alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Rube Goldberg machine
   anchor: Rube Goldberg machine
   title: Rube Goldberg machine
   text: 'Het is niet makkelijk en het kost veel tijd, maar als het lukt is het oh-zo-gaaf! Maak je eigen (link: http://rubegoldberg.com text: Rube Goldberg machine). De ultieme inspiratie haal je uit de videoclip van OK Go – (link: https://www.youtube.com/watch?v=qybUFnY7Y8w text: This Too Shall Pass). En 75 ideeën voor kettingreacties vind je (link: https://www.youtube.com/watch?v=cv5WLLYo-fk text: hier)   '
   standardimage: ruby-machine.gif
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  bgcolor: '#66aede'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
-- 
-  indextitle: Rolfs Maakbare Wereld
-  anchor: Rolfs Maakbare Wereld
-  title: Rolfs Maakbare Wereld
-  text: 'De allerbeste techniek en mechaniek kan je gewoon zelf maken van de spullen die je thuis hebt. Dat is het aanstekelijke statement van Rolf Hut. In (link: http://rolfhut.nl/rolfsmaakbarewereld  text: Rolfs maakbare wereld) laat hij zien hoe je het leven thuis makkelijker en vooral leuker kan maken.'
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
-  alignblock: left
-  minheight: ""
-  _fieldset: content-block
+  regularpadding: "1"
 
 ----
 

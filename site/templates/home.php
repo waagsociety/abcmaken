@@ -13,7 +13,13 @@
     <div class="inner">
       <h1>Welkom op ABCMaken.nl</h1>
       <p>Kinderen willen maken in het onderwijs. En dat wil ABC van het Maken op een positieve manier stimuleren.</p>
-      <a href="#" class="btn">Bekijk de film</a>
+      <button class="btn" onclick="toggleModal()">Bekijk de film</button>
+    </div>
+  </div>
+  <div class="modal">
+    <div class="container">
+      <span class="close" onclick="toggleModal()">❌</span>
+      <iframe width="700" height="394" src="https://www.youtube.com/embed/_MDOB5-ocQc?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
     </div>
   </div>
   <main class="main" role="main">
@@ -51,5 +57,11 @@
       <?php endforeach ?>
     </section>
   </main>
+
+  <script>
+    function toggleModal(e){
+      document.body.classList.toggle('modal-open');
+    }
+  </script>
 
 <?php snippet('footer') ?>

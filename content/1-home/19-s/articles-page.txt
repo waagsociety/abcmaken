@@ -10,7 +10,7 @@ Description: hoi hoi hoi hoi hoi hoi
 
 ----
 
-Cover: rocket.jpg
+Cover: letter-s.jpg
 
 ----
 
@@ -29,11 +29,12 @@ Sections:
     
     “Like you need a gymnasium to teach and learn sports, you need a maker space to teach and learn 21st century skills” - Paolo Blikstein.
   standardimage: school.gif
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
-  alignblock: left
+  bgcolor: '#632ded'
+  textcolor: '#ffffff'
+  alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "1"
 - 
   indextitle: Scratch
   anchor: Scratch
@@ -67,12 +68,13 @@ Sections:
   anchor: Solderen
   title: Solderen
   text: 'Solderen is een techniek om metalen onderdelen met elkaar te verbinden doormiddel van een materiaal met een lager brandpunt (het soldeer). Wist je dat het woord solderen afkomstig is van het Latijnse woord Solidare, dat betekent (vastmaken) Mitch Altman maakte een goede handleiding, die vertaald en aangepast te (link: https://fabschoolino.waag.org text: downloaden) is.'
-  standardimage: rocket.jpg
+  standardimage: solderen.jpg
   bgcolor: '#ffffff'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Skills
   anchor: Skills
@@ -83,12 +85,13 @@ Sections:
     Maakprojecten vormen vaak een mooie paraplu voor de ontwikkeling van deze verschillende vaardigheden in een wereld die steeds meer word beïnvloed door (link: https://www.kennisnet.nl/digitale-vaardigheden/21e-eeuwse-vaardigheden/ text: technologie).
     
     Verder, als je skills hebt, betekent dat natuurlijk ook gewoon dat je ergens handig en goed in bent! Zo vraagt elke vorm van ambacht om een bepaalde set skills.
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
-  alignblock: left
+  standardimage: skills.gif
+  bgcolor: '#71d9c1'
+  textcolor: '#ffffff'
+  alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "1"
 - 
   indextitle: Sensoren
   anchor: Sensoren
@@ -109,22 +112,24 @@ Sections:
   title: Strandbeest
   text: 'De kunstenaar Theo Jansen maakt de meest fantastische kinetische (link: http://www.strandbeest.com/ text: strandbeesten). Het zijn een soort droommachines die voortbewegen op de wind. Laat je inspireren en maak zelf een strandbeest! Bijvoorbeeld met de (link: http://www.strandbeest.com/shop/beasts_3d.php text: 3D printer).'
   standardimage: strandbeest.gif
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  bgcolor: '#34dbba'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "1"
 - 
   indextitle: Sylvia’s Super Mini Makers Show
   anchor: Sylvia’s Super Mini Makers Show
   title: Sylvia’s Super Mini Makers Show
   text: 'Een aanrader voor iedereen die van YouTube video’s houdt. (link: http://sylviashow.com/  text: Sylvia) is een jong meisje dat al haar DIY projecten – mét groot succes – deelt op haar eigen YouTube kanaal. Zo laat ze de kijker zien hoe je in een handomdraai je eigen krijt maakt. Of een lavalamp!'
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: krijten.jpg
+  bgcolor: '#7b44bb'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 
 ----
 

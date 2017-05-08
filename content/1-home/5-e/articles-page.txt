@@ -10,7 +10,7 @@ Description: hoi hoi hoi hoi hoi hoi
 
 ----
 
-Cover: rocket.jpg
+Cover: letter-e.jpg
 
 ----
 
@@ -45,8 +45,8 @@ Sections:
     
     “It is only through failure and through experiment that we learn and grow.” — Isaac Stern
   standardimage: experimenteren.jpg
-  bgcolor: '#dbe1e1'
-  textcolor: '#141414'
+  bgcolor: '#38a8b4'
+  textcolor: '#ffffff'
   alignblock: right
   minheight: ""
   _fieldset: content-block

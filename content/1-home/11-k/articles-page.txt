@@ -90,11 +90,12 @@ Sections:
   title: Karton
   text: 'Karton is het einde. Wie herinnert zich Caine’s (link: https://www.youtube.com/watch?v=BcMv3-qtlW0 text: Cardboard Arcade) niet? En met (link: /home/m#makedo text: Make.do) kun je gemakkelijk met kleine kinderen aan de slag. Wist je dat je ook kan ‘3d printen’ met karton? (link: http://fabschool.nl/?p=787 text: Kijk maar). Als je helemaal bedreven bent met karton kun je er zelfs machines van maken. Of maak een hydraulisch aangedreven (link: mb.ntd.tv/inspired/diy/make-hydraulic-powered-robotic-arm-cardboard.html  text: robotarm) van karton'
   standardimage: karton.gif
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  bgcolor: '#ed4c4c'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "1"
 - 
   indextitle: Knikkerbaan
   anchor: Knikkerbaan

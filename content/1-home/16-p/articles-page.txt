@@ -36,12 +36,13 @@ Sections:
   anchor: Papiermache
   title: Papiermache
   text: 'Papiermache is een vloeibaar mengsel van krantenpapier en behanglijm waarmee je bijvoorbeeld een pinata voor op je verjaardagsfeest (link: https://www.youtube.com/watch?v=htgGzPVpgkM text: kunt maken). Maar wist je dat er ook al een 3D printer (link intern) bestaat die niet met plastic werkt maar met papiermache? Bekijk ‘m (link: https://www.youtube.com/watch?v=LLin-rTpaRM text: hier)'
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
-  alignblock: left
+  standardimage: papier-mache2.gif
+  bgcolor: '#be70d6'
+  textcolor: '#fafafa'
+  alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "1"
 - 
   indextitle: Papert
   anchor: Papert
@@ -92,23 +93,25 @@ Sections:
     (link: /home/b#beebot text: Beebot)
     (link: /home/b#bomberbot text: Bomberbot)
     (link: /home/m#mbot text: MBot.)
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
-  alignblock: left
+  standardimage: computer-science.gif
+  bgcolor: '#f28888'
+  textcolor: '#ffffff'
+  alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "1"
 - 
   indextitle: Paper circuits
   anchor: Paper circuits
   title: Paper circuits
   text: 'Met kopertape (of geleidende inkt) en LEDjes kan je gemakkelijk en snel papieren circuits maken. Het is een hele mooie manier om op eenvoudige wijze gebruik te maken van elektriciteit en licht. Per-Ivar Kloen heeft de benodigdheden op een (link: https://makereducation.nl/nieuws/eerste-les-leer-bijeenkomst text: rij gezet). Kijk ook eens naar de tutorials en projecten op (link: http://highlowtech.org/ text: High-Low Tech). (link: http://highlowtech.org/?p=2286 text: Dandelion Painting) is een prachtig interactief schilderij (‘programmable painting’) van Pu Gong Ying Tu en de moeite van het kijken waard!  '
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
+  standardimage: paper-circuits.gif
+  bgcolor: '#bef51b'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "1"
 - 
   indextitle: Prototype
   anchor: Prototype
@@ -123,50 +126,55 @@ Sections:
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Petfles raket
   anchor: Petfles raket
   title: Petfles raket
   text: 'Waarom zou je een petfles raket maken? De vraag is eerder: waarom niet? Het is leerzaam, maar bovenal leuk. Hier vind je een (link: http://www.sterrenkids.nl/cms/de-waterraket/ text: instructie)'
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: rocket.gif
+  bgcolor: '#e65577'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "1"
 - 
   indextitle: Plastic soep
   anchor: Plastic soep
   title: Plastic soep
   text: 'De oceanen zitten vol met plastic afval. Ten eerste is dat slecht voor al het leven op de aardbol en ten tweede kan al dat plastic, als we het uit het water vissen, hergebruikt worden (zie recycling duurzaamheid). Boyan Slat probeert met zijn project plastic (miljoenen kilo’s) uit de (link: http://www.plasticsoupfoundation.org/en/ text: oceanen te scheppen). Een echte uitvinder!'
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
-  alignblock: left
+  standardimage: plastic-soep-2.jpg
+  bgcolor: '#f9d3ae'
+  textcolor: '#222222'
+  alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Printplaat
   anchor: Printplaat
   title: Printplaat
   text: 'Een printplaat is een platte plaat waar allerlei elektronische onderdelen op zitten, die via geleidende banen elektrisch contact met elkaar maken. Je kunt de onderdelen ook met draadjes aan elkaar vast solderen, maar op een plaat zit het steviger en netter. Je kunt printplaten zelf maken door etstechnieken te (link: http://www.usage.nl/?page_id=238 text: gebruiken) , maar het kan ook met een (link: /home/f#frezen text: CNC frees)'
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
+  standardimage: printplaat.jpg
+  bgcolor: '#eaede6'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Punniken
   anchor: Punniken
   title: Punniken
   text: 'Punniken is een handwerktechniek die je kunt gebruiken om van een dunne draad een dikke draad te maken. Helemaal leuk is het wanner je gaat (link: https://www.youtube.com/watch?v=M6jVo8nESb0 text: XXL punniken)'
-  standardimage: rocket.jpg
+  standardimage: punniken.jpg
   bgcolor: '#ffffff'
-  textcolor: '#141414'
-  alignblock: left
+  textcolor: '#222222'
+  alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Play / Serious Play
   anchor: Play / Serious Play
@@ -175,12 +183,13 @@ Sections:
     Serious play is verwant aan (link: /home/c#constructionisme text: constructionisme). De theorie stelt onder andere dat kennis beter beklijft wanneer je er op een speelse en fysieke manier mee omgaat.
     
     Abstracte begrippen worden via metaforen fysiek gemaakt, bijvoorbeeld met behulp van (link: https://www.youtube.com/watch?v=2TbTa31ACB4&index=5&list=PLbyUzGdhu2XUF0ZZ9n3PTJ6djWVpgiR9K text: Lego) Ook voor volwassenen zijn er talloze trainingen waarbij serious play wordt ingezet om processen binnen bedrijven in kaart te brengen en te verbeteren.
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: play.jpg
+  bgcolor: '#58c2ec'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 
 ----
 

@@ -1,4 +1,4 @@
-Sectiondefault:
+Sectiondefault: 
 
 ----
 
@@ -14,48 +14,55 @@ Cover: abc-letter-y.jpg
 
 ----
 
-Preview:
+Preview: 
 
 ----
 
-Sections:
+Sections: 
 
--
+- 
   indextitle: Yes!
   anchor: Yes!
   title: Yes!
-  text: |
-    Yes, het werkt! Je hebt bloed, zweet en misschien zelfs wel tranen gestopt in je project. Het was niet makkelijk en ging niet vanzelf. En toch is het je gelukt om te maken wat je wilde maken. Chapeau! Dat gevoel is het mooiste dat er bestaat.
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  text: >
+    Yes, het werkt! Je hebt bloed, zweet en
+    misschien zelfs wel tranen gestopt in je
+    project. Het was niet makkelijk en ging
+    niet vanzelf. En toch is het je gelukt
+    om te maken wat je wilde maken. Chapeau!
+    Dat gevoel is het mooiste dat er
+    bestaat.
+  standardimage: yes.gif
+  bgcolor: '#ff6912'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
--
+  regularpadding: "1"
+- 
   indextitle: Youtube
   anchor: Youtube
   title: Youtube
-  text: |
-    YouTube.com werd in 2005 opgericht en is sindsdien niet meer weg te denken in het medialandschap. Het mooie is dat iedereen gemakkelijk (gratis!) filmpjes kan uploaden, bekijken en delen. Het videoplatform is er niet alleen voor vermaak. Je kunt er ongelofelijk veel nieuwe dingen leren: van leren plannen en nieuwe software onder de knie krijgen tot de juiste snowboardtechnieken voor op de piste.
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
+  text: 'YouTube.com werd in 2005 opgericht en is sindsdien niet meer weg te denken in het medialandschap. Het mooie is dat iedereen gemakkelijk (gratis!) filmpjes kan uploaden, bekijken en delen. Het videoplatform is er niet alleen voor vermaak. Je kunt er ongelofelijk veel nieuwe dingen leren: van leren plannen en nieuwe software onder de knie krijgen tot de juiste snowboardtechnieken voor op de piste.'
+  standardimage: youtube-2.gif
+  bgcolor: '#b5ff21'
   textcolor: '#141414'
-  alignblock: left
+  alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 
 ----
 
-Sectionmeta:
+Sectionmeta: 
 
 ----
 
-Author:
+Author: 
 
 ----
 
-Keywords:
+Keywords: 
 
 ----
 
@@ -67,16 +74,16 @@ Edited: 2017-02-20 12:50:00
 
 ----
 
-Sectionseo:
+Sectionseo: 
 
 ----
 
-Seotitle:
+Seotitle: 
 
 ----
 
-Seodescription:
+Seodescription: 
 
 ----
 
-Video:
+Video: 

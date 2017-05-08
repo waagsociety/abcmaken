@@ -25,12 +25,13 @@ Sections:
   anchor: Vaardigheden
   title: Vaardigheden
   text: 'Maken vereist (link: /home/s#skills text: skills). En omdat de wereld steeds verandert leert elke generatie weer andere vaardigheden.'
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: vaardig.gif
+  bgcolor: '#fa7f7f'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "1"
 - 
   indextitle: Vragen
   anchor: Vragen
@@ -39,31 +40,34 @@ Sections:
   standardimage: vragen.jpg
   bgcolor: '#fab951'
   textcolor: '#ffffff'
-  alignblock: left
+  alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: VR bril maken
   anchor: VR bril maken
   title: VR bril maken
-  text: 'Een VR bril hoeft helemaal niet ingewikkeld te zijn. Maar wist je ook dat je deze van karton kunt maken als ombouw voor een telefoon? In deze tutorial (https://www.youtube.com/watch?v=_JrdzMe1xus) leer je hoe je een VR bril kunt maken met papieren bekers en plastic flessen. Zelfs de lenzen (deze zijn nodig om het licht van je telefoonscherm zo om te buigen dat je het van dichtbij kunt bekijken) maak je he-le-maal zelf. Knutsel je liever een ouderwetste 3D bril? Dan is deze (link: http://www.cinekidclub.nl/dried/je-eigen-3d-bril-maken/ text: link) handig.'
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  text: 'Een VR bril hoeft helemaal niet ingewikkeld te zijn. Maar wist je ook dat je deze van karton kunt maken als ombouw voor een telefoon? In deze (link: https://www.youtube.com/watch?v=_JrdzMe1xus text: tutorial) leer je hoe je een VR bril kunt maken met papieren bekers en plastic flessen. Zelfs de lenzen (deze zijn nodig om het licht van je telefoonscherm zo om te buigen dat je het van dichtbij kunt bekijken) maak je he-le-maal zelf. Knutsel je liever een ouderwetste 3D bril? Dan is deze (link: http://www.cinekidclub.nl/dried/je-eigen-3d-bril-maken/ text: link) handig.'
+  standardimage: vr-bril.gif
+  bgcolor: '#7fbbe3'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "1"
 - 
   indextitle: Vinylsnijder
   anchor: Vinylsnijder
   title: Vinylsnijder
   text: 'De (link: http://makezine.com/2015/12/15/34-things-didnt-realize-can-vinyl-cutter/ text: vinylsnijder) is een apparaat dat met heel veel precisie (link: /home/d#2d-ontwerpen text: 2D) vormen uit zachte materialen kan snijden. Zoals papier en stickervellen bijvoorbeeld. Het werken met de vinylsnijder valt ook onder (link: /home/d#digitale-fabricage text: Digitale fabricage). Als je uit harde materialen (zoals hout) wilt snijden, kijk dan eens naar de lasercutter.'
-  standardimage: rocket.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
-  alignblock: left
+  standardimage: vinyl-snijder.jpg
+  bgcolor: '#c3c5c4'
+  textcolor: '#ffffff'
+  alignblock: right
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 
 ----
 

@@ -10,7 +10,7 @@ Description: hoi hoi hoi hoi hoi hoi
 
 ----
 
-Cover: creativiteit.jpg
+Cover: letter-c.jpg
 
 ----
 
@@ -62,7 +62,7 @@ Sections:
     
     (link: http://csunplugged.org/ text: Computer Science Unplugged) is een boek met een verzameling leeractiviteiten waardoor je over Computer Science leert door middel van boeiende spellen en puzzels die kaarten, touw, kleurpotloden. Marijn van der Meer en Joek van Montfort maakten een  Nederlandse vertaling met opdrachten voor de in de klas, die (link: http://www.csunplugged.nl/ text: hier) gratis beschikbaar is.
   standardimage: computer-science.gif
-  bgcolor: '#131112'
+  bgcolor: '#fa78b9'
   textcolor: '#ffffff'
   alignblock: left
   minheight: 500px
@@ -122,20 +122,22 @@ Sections:
   standardimage: cryptografie.jpg
   bgcolor: '#fd76b9'
   textcolor: '#ffffff'
-  alignblock: left
+  alignblock: right
   minheight: 800px
   _fieldset: content-block
+  regularpadding: "0"
 - 
   indextitle: Cradle to Cradle
   anchor: Cradle to Cradle
   title: Cradle to Cradle
   text: 'Cradle to Cradle is een beroemd (link: https://nl.wikipedia.org/wiki/Cradle_to_Cradle text: boek) over (link: /home/d#duurzaamheid text: duurzaam) ontwerpen.'
-  standardimage: code.jpg
-  bgcolor: '#ffffff'
-  textcolor: '#141414'
+  standardimage: cradle-to-cradle.jpg
+  bgcolor: '#f25f29'
+  textcolor: '#ffffff'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
 
 ----
 

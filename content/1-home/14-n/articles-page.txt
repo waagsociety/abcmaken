@@ -21,18 +21,6 @@ Preview:
 Sections: 
 
 - 
-  indextitle: Nieuwsgierigheid
-  bgcolor: '#1cc6f9'
-  textcolor: '#ffffff'
-  anchor: Nieuwsgierigheid
-  title: Nieuwsgierigheid
-  text: >
-    “Curiosity about life in all of its
-    aspects, I think, is still the secret of
-    great creative people”
-  citation: Leo Burnett
-  _fieldset: quote
-- 
   indextitle: Naaimachine
   anchor: Naaimachine
   title: Naaimachine
@@ -45,12 +33,25 @@ Sections:
     alvast inspiratie
     (link:http://www.allesoverhandwerken.nl/naaipatronen-tassen-start.html
     text:opdoen).
-  standardimage: nieuwsgierigheid-1.jpg
-  bgcolor: '#1cc6f9'
-  textcolor: '#ffffff'
+  standardimage: naaimachine.jpg
+  bgcolor: '#ffffff'
+  textcolor: '#222222'
   alignblock: left
   minheight: ""
   _fieldset: content-block
+  regularpadding: "0"
+- 
+  indextitle: Nieuwsgierigheid
+  bgcolor: '#1cc6f9'
+  textcolor: '#ffffff'
+  anchor: Nieuwsgierigheid
+  title: Nieuwsgierigheid
+  text: >
+    “Curiosity about life in all of its
+    aspects, I think, is still the secret of
+    great creative people”
+  citation: Leo Burnett
+  _fieldset: quote
 
 ----
 

@@ -22,110 +22,106 @@ Video:
 
 ----
 
-Cover: fairphone-2_internals.jpg
+Cover: abc-behind-the-scenes-2.gif
 
 ----
 
 Sections: 
 
 - 
-  anchor: Visie / Waarom ABC van het Maken?
-  title: Visie / Waarom ABC van het Maken?
+  anchor: >
+    De wereld heeft een nieuwe generatie
+    kritische makers en uitvinders nodig.
+  title: >
+    De wereld heeft een nieuwe generatie
+    kritische makers en uitvinders nodig.
   text: |
-    **Kinderen willen maken in het onderwijs.
-    En dat wil ABC van het Maken op een positieve manier stimuleren.**
+    En maakonderwijs kan daar bij helpen. ABC van het Maken is een initiatief van Platform Maker Education (Fabklas, Frysklab en Waag Society) in samenwerking met Mediawijzer.net en ambassadeurs uit heel Nederland. Samen zetten we ons in voor meer maakonderwijs in Nederland. Want dat is hard nodig. Waarom leggen we je hier graag uit.
     
-    **De wereld mooier maken**
-    In een wereld die bol staat van de technologie en die steeds sneller digitaliseert, is het belangrijk dat kinderen niet alleen leren programmeren en goed zoeken op het internet, maar ook dat ze vaardigheden ontwikkelen om hun leven zelf vorm te geven en beter en mooier te maken. Door zelf oplossingen te ontwerpen en te maken, gebruikmakend van oude en nieuwe ambachten en door de fysieke en digitale wereld te verbinden. Door iets te maken kan je problemen oplossen, de wereld beter begrijpen en deze beïnvloeden.
+    **Hoezo, meer maakonderwijs?**
+    We leven in een maatschappij die bol staat van technologie en steeds sneller digitaliseert. Het is daarom van belang dat kinderen naast programmeren, ook andere vaardigheden meekrijgen die horen bij de 21ste eeuw: van oplossingsgericht denken tot ondernemen en samenwerken. Het gaat om creatieve en technische vaardigheden. Maakonderwijs kan daarbij helpen. Door iets te maken leer je problemen oplossen, de wereld beter begrijpen én deze te beïnvloeden. Belangrijke skills dus! Wil je meer weten over maakonderwijs? Lees dan hier verder of bekijk de film.
     
-    **Wat is maakonderwijs?**
-    Uitvinden en maken is van alle tijden. In het maakonderwijs zijn de drempels echter lager dan ooit om met digitale technologie aan de slag te gaan, zelf iets te maken en dit te delen met anderen. In FabLabs en makerspaces, op school of daarbuiten, gaan kinderen aan het werk met bijvoorbeeld 3D-printers en lasercutters, maar ook met ‘oude’ materialen, zoals hout, textiel, karton en stof.
-     
-    In het maakonderwijs komen creativiteit en het ambachtelijke maken van fysieke producten samen met de mogelijkheden van digitale technologie en digitale fabricage. Kinderen maken dingen op hun eigen manier, waardoor ze niet alleen van alles leren, maar ook kunnen laten zien wat hun ideeën zijn, wat ze interesseert en wie ze zijn. Lasersnijders en 3D-printers zijn steeds beter betaalbaar en bovendien makkelijk te bedienen. En een computer of robot maak en programmeer je tegenwoordig zelf. Daardoor wordt de afstand tussen wat je bedenkt en wat je maakt veel kleiner. Fabricage is weer persoonlijk geworden!
-     
-    **Waarom maakonderwijs in de 21e eeuw? **
-    
-    **Wij geloven:**
-    - dat het begrijpen van digitale ontwikkelingen steeds belangrijker wordt om de wereld waarin we leven te begrijpen. Kinderen moeten technologie niet alleen kunnen ‘lezen’, maar er ook mee kunnen ‘schrijven’;
-    - dat vraagt om nieuwe vaardigheden, op het gebied van digitale fabricage, robotica, mediawijsheid  en programmeren;
-    - dat een sterke creatieve (maak)industrie van groot belang is voor de toekomst van Nederland.
-    
-    **en anderzijds:**
-    - dat als je iets leert omdat je het graag wilt kunnen maken, je het nooit meer vergeet;
-    - dat maakonderwijs leerlingen voorbereidt op hún wereld, in plaats van op de onze;
-    - dat, door de verbinding te leggen tussen creativiteit, verbeelding en technologie, maakonderwijs verschillende talenten aanspreekt;
-    - dat maakonderwijs nu geen duidelijke plek heeft in het huidige onderwijs, terwijl dat wel nodig is.
-  bgcolor: '#21214a'
-  textcolor: '#ffffff'
+    Met ABC van het Maken willen we alle leerlingen, juffen en meesters , schooldirecteuren, onderwijsprofessionals en ouders in Nederland wegwijs maken in de wondere wereld van het maken. We willen jullie inspireren om zelf aan de slag te gaan!
+  bgcolor: '#e7f0f0'
+  textcolor: '#000000'
   _fieldset: text-section
 - 
-  standardimage: fairphone-2_internals.jpg
+  standardimage: abc-behind-the-scenes-2.gif
   anchor: ""
   _fieldset: image-section
 - 
-  anchor: De campagne ABC van het Maken
-  title: De campagne ABC van het Maken
+  anchor: Zo doe je mee met ABC van het Maken
+  title: Zo doe je mee met ABC van het Maken
   text: |
-    **ABC van het Maken bestaat uit een film, een maakweek en deze website.**
+    **DEEL ABCMAKEN.NL**
+    Je hebt deze website al gevonden. Top! ABCMAKEN.nl is een visueel woordenboek en handige startpagina voor iedereen die met maakonderwijs aan de slag wilt. Naast een bonte verzameling aan toffe maakprojecten, handige boeken, online filmpjes en tools, vind je hier ook informatie over belangrijke maakprincipes, maakvisionairs en maakplaatsen. De website is gebouwd op het principe Zo kun je als docent bijvoorbeeld op een gemakkelijke manier inspiratie opdoen voor een experimentele les of als leerling een Instructables vinden voor het maken van je eigen robot.
     
-    **De film**
-    Heb je de film nog niet gezien (of kan je er geen genoeg van krijgen ☺)? Kijk dan hier.
-    Wil je de film delen op je website of via social media? Instructie invoegen.
+    **DOE MEE MET DE MAAKWEEK 22-28 mei**
+    In de Maakweek worden er in heel Nederland allerlei activiteiten georganiseerd door scholen, maakplaatsen, bibliotheken, musea en culturele- en educatieve instellingen. Wil je weten wat er bij jouw in de buurt gebeurd? Neem dan een kijkje in de agenda van de maakweek. Aanmeldingen voor activiteiten lopen via de desbetreffende organisaties. De Maakweek wordt afgetrapt tijdens het MNX event op 23 mei van Mediawijzer.net in Beeld en Geluid.
     
-    De kinderen die keihard hebben gewerkt om de letters te maken en schitteren in de film zijn van het SintLucas uit Eindhoven, De Populier in Den Haag en De Regenboog, De Witte Olifant en FabSchool uit Amsterdam.
-    De film is gemaakt door WeFilm (www.wefilm.nl) en regisseur Wouter Keijzer.
+    **DEEL DE FILM**
+    Met een team van filmmakers en tientallen jongeren maakten we de film ABC van het Maken. Leuk weetje: de leerlingen uit de film zijn zélf aan de slag gegaan met allerlei bijzondere maaktechnieken en hebben alle letters van het alfabet echt zelf gemaakt. Zo is de D gemaakt met de 3D-printer. En de J met een print van tekenrobotjes. Heb je de film nog niet gezien? Of kun je er geen genoeg van krijgen? Bekijk ‘m dan hier. Hoe meer mensen de film zien, hoe beter!
     
-    **ABC Maakweek**
-    Er zijn al ontzettend veel scholen, makerspaces en bibliotheken bezig met maken. Alle activiteiten die in de week van 23 mei door het hele land georganiseerd worden, vind je hier.
+    De film wordt tijdens de Maakweek o.a. vertoond op 23 mei het MNX event van Mediawijzer.net in Beeld en Geluid in Hilversum.
     
-    **abcmaken.nl**
-    abcmaken.nl is een soort startpagina voor maakonderwijs. Op deze website (die niet het doel of de pretentie heeft volledig te zijn) kan je al klikkend ronddwalen en verschillende aspecten van maakonderwijs ontdekken. Laat het je inspireren om zelf aan de slag te gaan!
+    **#WATMAAKJIJ**
+    Heel Holland maakt! Deel jouw meest fantastische legocreatie, zelfgemaakte robot, mislukte soep, geniale muziekstuk, geprogrammeerde app, zelfgefabriceerde meubels en alles daar tussen in, onder de hashtag #watmaakjij.
     
-    Iets meer houvast nodig? Gebruik dan de leeswijzer.
+    Ken jij andere makers? Nodig hen uit hetzelfde te doen. Zo laten we samen zien dat iedereen een talent voor maken heeft. Wees creatief met gifjes, foto's en filmpjes! Alle maakprojecten met de hashtag #watmaakjij worden automatisch verzameld op deze website. Nog wat inspiratie nodig? Dan hebben we hier een heleboel goede tips waar je direct mee aan de slag kunt. Veel plezier!
+    
+    Download hier het perspakket met afbeeldingen en persbericht.
   bgcolor: '#e7f0f0'
   textcolor: '#141414'
   _fieldset: text-section
 - 
-  standardimage: fairphone-2_internals.jpg
+  standardimage: abc-objects-edited-part-two-98.jpg
   anchor: ""
   _fieldset: image-section
 - 
   anchor: Leeswijzer
   title: Leeswijzer
   text: |
-    Let op: deze ‘begrippen’ moeten allemaal intern op de website doorlinken.
+    **LEESWIJZER**
     
-    Wil je meer weten over de maker movement?
+    **Kun je wat meer vertellen over maakonderwijs?**
+    Uitvinden en maken is van alle tijden. Het verschil met vroeger is dat technologie steeds goedkoper en makkelijker beschikbaar is. Daardoor zijn de drempels echter lager dan ooit om met digitale technologie aan de slag te gaan en dit te delen met anderen.Kinderen maken dingen op hun eigen manier, waardoor ze niet alleen van alles leren, maar ook kunnen laten zien wat hun ideeën zijn, wat ze interesseert en wie ze zijn.
     
-    Wil je meer lezen over maakonderwijs?
-    Start dan bijvoorbeeld met het boek Invent to Learn, volg de blog Makered.nl, kijk naar het gratis e-book van FabLearn, Meaningful Making boek of op Kennisnet (https://www.kennisnet.nl/digitale-vaardigheden/programmeren-maken/).
+    In het maakonderwijs komen creativiteit en het ambachtelijke maken van fysieke producten samen met de mogelijkheden van digitale technologie en digitale fabricage. Lasersnijders en 3D-printers zijn steeds beter betaalbaar en bovendien makkelijk te bedienen. En een computer of robot maak en programmeer je tegenwoordig zelf, met behulp van tutorials op Youtube of een stappenplan via Instructables. Daardoor wordt de afstand tussen wat je bedenkt en wat je maakt veel kleiner. Fabricage is weer persoonlijk geworden.
     
-    Wil je weten waar je een FabLab, makerspace of codeclub bij jou in de buurt kunt vinden?
-    Kijk dan op  de website van Stichting FabLab Benelux, Platform Maker Education of Codestarter.
+    **Waar kan ik meer lezen over maakonderwijs?**
+    Start bijvoorbeeld met het boek Invent to Learn, volg de blog Makered.nl, kijk naar het gratis e-book van FabLearn  Meaningful Making boek of op Kennisnet (https://www.kennisnet.nl/digitale-vaardigheden/programmeren-maken/).
     
-    Wil je weten hoe andere scholen het doen?
-    Kijk bijvoorbeeld eens op de website van FabKlas, X11 Maakschool of De Neptunus.
+    **Waar vind ik een Fablab, maakplaats of codeclub bij mij in de buurt?**
+    Op de website van Stichting FabLab Benelux, Platform Maker Education of Codestarter vind je een overzicht van allerlei maakplaatsen en activiteiten.
     
-    Wil je een maakruimte gaan inrichten op school?
-    Kijk dan eens op Mini FabLab, Fablab Factory, een gratis Engelstalig e-book van MakerEd over makerspaces op school of neem contact op met Platform Maker Education.
+    **Hoe doen andere scholen aan maakonderwijs?**
+    Neem eens een kijkje op de website van FabKlas, X11 Maakschool of De Neptunus.
     
-    Wil je direct aan de slag met een maakproject en of weten waar je lesmateriaal kunt vinden?
-    Onder Lesmateriaal hebben we een aantal interessante platforms voor je verzameld.
+    **Ik wil een maakruimte beginnen op school, wat nu?**
+    Het Mini FabLab is een goed voorbeeld van hoe je klein kunt beginnen. Of kijk op FabLab Facory. Of lees het Engelstalige e-book van MakerEd over maakplaatsen op school, deze kost helemaal niets. Je kunt natuurlijk ook contact opnemen met Platform Maker Education.
     
-    Wil je meer weten over mediawijsheid, media maken of een maakruimte gaan inrichten in de bibliotheek?
+    **Ik wil aan de slag met een maakproject, waar vind ik passend lesmateriaal?**
+    Onder Lesmateriaal hebben we veel interessante platforms voor je verzameld. Of kijk op de website van Instructables Classes, Codekinderen, Maakkunde.nl van NEMO, het Exploratorium, FabSchool, Smart Kids Lab of Platform Maker Education.
+    
+    **Waar vind ik meer informatie over mediawijsheid, media maken en maakplaatsen in bibliotheken?**
     Klik op Bibliotheken om te kijken wat daar allemaal al gebeurd of laat je inspireren via Mediawijsheid.nl of Media Maken.
     
-    Wil je meer weten over machines, tools, gereedschappen en materialen?
-    Alles over digitale fabricage en machines vind je bijvoorbeeld via: Stichting FabLab Benelux, Mini FabLab, Ultimaker en Fablab Factory.
-    
+    **Waar vind ik meer informatie over machines, tools, gereedschappen en materialen?**
+    Alles over digitale fabricage en machines vind je bijvoorbeeld via: Stichting FabLab Benelux, Mini FabLab, Ultimaker en FabLab Factory.
     Programmeer en ICT tools zijn er in overvloed. Kijk bijvoorbeeld eens op ICT Leskisten,  onder Programmeren en de Techniekbieb. En leuke tools zoals de Makey Makey, FabSchoolino, Micro.bit en de Arduino, vind je gewoon op alfabet.
     Gereedschappen: laat je inspireren door deze Poster met 50 gereedschappen.
     Materialen: ga eerst eens aan de gang met restmaterialen die je overal kan vinden, zoals karton of een oude op afstand bestuurbare auto. Verder kan je natuurlijk terecht bij hobby en doe-het-zelf winkels en voor de meer geavanceerde elektronica bij Conrad.
     
-    Wil je in contact komen met een ervaringsdeskundige?
+    **Hoe kom ik in contact met een ervaringsdeskundige?**
     Wij verwijzen je graag door naar een van onze partners, een ervaringsdeskundige bij jou in de buurt, of proberen je zelf verder op weg te helpen.: contact@makereducatoin.nl.
-  bgcolor: '#21214a'
-  textcolor: '#ffffff'
+    
+    **Wie zitten er achter ABC van het maken?**
+    ABC van het Maken is een initiatief van Platform Maker Education (FabKlas / Frysklab / Waag Society) in samenwerking met Mediawijzer.net en…
+    
+    •	Europese Commissie, onderdeel van het Better Internet for Kids project
+    •	Hier lijst ondertekenaars op alfabetische volgorde invoegen
+  bgcolor: '#e7f0f0'
+  textcolor: '#000000'
   _fieldset: text-section
 - 
   anchor: Over ABC van het Maken
