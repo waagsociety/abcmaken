@@ -64,5 +64,17 @@
       <?php echo $data->text()->kt() ?>
       <?php endif ?>
     </div>
+
+    <div class="pyro">
+      <div class="before"></div>
+      <div class="after"></div>
+    </div>
+    <script>
+      document.addEventListener("DOMContentLoaded", function(event) {
+        var easter_egg = new Konami(function() {
+          document.body.classList.add('konami');
+        });
+      });
+    </script>
   </div>
 </section>
