@@ -1,14 +1,23 @@
 <?php snippet('header') ?>
 
+
+
 <?php
   $items = $page->children();
   $index = 0;
-?>
-
-<?php
   $aboutitems = $pages->filterBy('tags', 'about', ',');
-  $index = 0;
-?>
+  $index = 0;           
+  $first_visit = false;
+  
+  if(cookie::get('first_time_visit', true) == true)
+  {
+	cookie::set('first_time_visit', false);
+	$first_visit = true;
+  }
+
+?>      
+
+  <?php if($first_visit): ?>
   <div class="intro-bar">
     <div class="inner">
       <h1>Welkom op ABCMaken.nl</h1>
@@ -16,6 +25,8 @@
       <button class="btn" onclick="toggleModal()">Bekijk de film</button>
     </div>
   </div>
+  <?php endif ?>
+
   <div class="modal">
     <div class="container">
       <span class="close" onclick="toggleModal()">❌</span>
