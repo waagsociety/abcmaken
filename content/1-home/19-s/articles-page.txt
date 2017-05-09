@@ -10,7 +10,7 @@ Description: hoi hoi hoi hoi hoi hoi
 
 ----
 
-Cover: letter-s.jpg
+Cover: abc-letter-s.jpg
 
 ----
 

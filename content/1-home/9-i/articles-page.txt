@@ -10,7 +10,7 @@ Description: hoi hoi hoi hoi hoi hoi
 
 ----
 
-Cover: rocket.jpg
+Cover: abc-letter-i.jpg
 
 ----
 

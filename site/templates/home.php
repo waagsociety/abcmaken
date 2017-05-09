@@ -6,16 +6,16 @@
   $items = $page->children();
   $index = 0;
   $aboutitems = $pages->filterBy('tags', 'about', ',');
-  $index = 0;           
+  $index = 0;
   $first_visit = false;
-  
+
   if(cookie::get('first_time_visit', true) == true)
   {
 	cookie::set('first_time_visit', false);
 	$first_visit = true;
   }
 
-?>      
+?>
 
   <?php if($first_visit): ?>
   <div class="intro-bar">
@@ -27,12 +27,6 @@
   </div>
   <?php endif ?>
 
-  <div class="modal">
-    <div class="container">
-      <span class="close" onclick="toggleModal()">❌</span>
-      <iframe width="700" height="394" src="https://www.youtube.com/embed/_MDOB5-ocQc?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-    </div>
-  </div>
   <main class="main" role="main">
     <section class="pages-list">
       <?php foreach($items as $item): $index++;   ?>
@@ -68,11 +62,5 @@
       <?php endforeach ?>
     </section>
   </main>
-
-  <script>
-    function toggleModal(e){
-      document.body.classList.toggle('modal-open');
-    }
-  </script>
 
 <?php snippet('footer') ?>

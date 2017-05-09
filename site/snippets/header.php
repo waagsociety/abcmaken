@@ -23,3 +23,4 @@
   var controller = new ScrollMagic.Controller();
 </script>
 <div class="animation-container">
+  <?php snippet('video-modal') ?>

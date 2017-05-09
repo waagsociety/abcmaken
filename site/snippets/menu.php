@@ -19,6 +19,11 @@
       <span class="navtext">OVER</span>
     </div>
   </a>
+  <button class="home-nav" onclick="toggleModal()">
+    <div>
+      <span class="navtext">🎬</span>
+    </div>
+  </button>
 </nav>
 
 <nav class="menu-panel">
