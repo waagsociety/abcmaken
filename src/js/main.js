@@ -18,6 +18,7 @@ function getMousePos(e) {
   }
 }
 
+
 function initArticleNav(prevClass, nextClass) {
   document.onkeydown = (e) => {
     e = e || window.event
@@ -53,25 +54,33 @@ window.onpagehide = function(event) {
 	 	document.querySelector('.animation-container').classList.remove('loaded')
 };
 
-
+//
+var gInited = false;
 function init() {
+
+  //onpageshow, DOMContentLoaded both may call
+	if(gInited)
+	{
+		return;
+	}
+	gInited = true;
 
 	//goto to top
 	zenscroll.toY(0)
 
 	//add handler to links within sections
-	var links1 = document.querySelectorAll("section.quote-section a");
+	var links1 = document.querySelectorAll("section a");
 	for (var i=0;i<links1.length;i++) {
 		links1[i].addEventListener("click", onSectionLinkClicked, false);
 	}
 
-	//add handler to links in index
+	//add handler to links in site map overlay
 	var links2 = document.querySelectorAll(".menu-panel a");
 	for (var i=0;i<links2.length;i++) {
 		links2[i].addEventListener("click", onIndexLinkClicked, false);
 	}
 
-	//add handler to links in index
+	//add handler to links in header "tag cloud" items
 	var linksHeader = document.querySelectorAll(".intro-text a");
 	for (var i=0;i<linksHeader.length;i++) {
 		linksHeader[i].addEventListener("click", onIndexLinkClicked, false);
@@ -94,7 +103,9 @@ function init() {
 
 }
 
+//link in the site index was clicked
 function onIndexLinkClicked(e) {
+
 	document.querySelector('.navigation').classList.remove('active');
 	document.body.classList.remove('menu-open');
 	var targetLocation = document.createElement('a');
@@ -104,7 +115,6 @@ function onIndexLinkClicked(e) {
 	}
 
 }
-
 
 //a link in a section was clicked, find out which section it belongs to, put a link to the section in the browser history to make backbutton work nicely
 function onSectionLinkClicked(e) {
@@ -119,11 +129,22 @@ function onSectionLinkClicked(e) {
 		var targetLocation = document.createElement('a');
 		targetLocation.href = e.target.href;
 
-		if(targetLocation.host === window.location.host && targetLocation.pathname === window.location.pathname) {
-			gotoToSectionWithAnchor(targetLocation.hash)
+		//check if this is a link within our domain
+		if(targetLocation.host === window.location.host) {
+			//check if this is a link within this page
+			if(targetLocation.pathname === window.location.pathname)
+			{
+				gotoToSectionWithAnchor(targetLocation.hash)
+			}
+		}
+		else
+		{
+			window.open(e.target.href, '_blank');
+			e.preventDefault();
 		}
 
 	}
+
 
 }
 
