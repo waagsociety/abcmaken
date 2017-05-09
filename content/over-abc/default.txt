@@ -49,7 +49,7 @@ Sections:
     
     Met ABC van het Maken willen we alle leerlingen, juffen en meesters , schooldirecteuren, onderwijsprofessionals en ouders in Nederland wegwijs maken in de wondere wereld van het maken. We willen jullie inspireren om zelf aan de slag te gaan!
   standardimage: abc-objects-edited-part-two-98.jpg
-  bgcolor: ""
+  bgcolor: '#e7f0f0'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
@@ -92,7 +92,7 @@ Sections:
     
     De film wordt tijdens de Maakweek o.a. vertoond op 23 mei het MNX event van Mediawijzer.net in Beeld en Geluid in Hilversum.
   standardimage: abc-behind-the-scenes-1.gif
-  bgcolor: '#ffffff'
+  bgcolor: '#e7f0f0'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
@@ -108,10 +108,10 @@ Sections:
     
     
     Download hier het perspakket met afbeeldingen en persbericht.
-  standardimage: abc-behind-the-scenes-1.gif
-  bgcolor: '#ffffff'
+  standardimage: abc-behind-the-scenes-4.gif
+  bgcolor: '#e7f0f0'
   textcolor: '#141414'
-  alignblock: left
+  alignblock: right
   minheight: ""
   _fieldset: content-block
 - 
@@ -125,40 +125,12 @@ Sections:
     Ken jij andere makers? Nodig hen uit hetzelfde te doen. Zo laten we samen zien dat iedereen een talent voor maken heeft. Wees creatief met gifjes, foto's en filmpjes! Alle maakprojecten met de hashtag #watmaakjij worden automatisch verzameld op deze website. Nog wat inspiratie nodig? Dan hebben we hier een heleboel goede tips waar je direct mee aan de slag kunt. Veel plezier!
     
     Download hier het perspakket met afbeeldingen en persbericht.
-  standardimage: abc-objects-edited-part-two-88.jpg
+  standardimage: fabschool-robot.gif
   bgcolor: '#e7f0f0'
   textcolor: '#141414'
   alignblock: left
   minheight: ""
   _fieldset: content-block
-- 
-  standardimage: abc-behind-the-scenes-2.gif
-  anchor: ""
-  _fieldset: image-section
-- 
-  anchor: Zo doe je mee met ABC van het Maken
-  title: Zo doe je mee met ABC van het Maken
-  text: |
-    **DEEL ABCMAKEN.NL**
-    Je hebt deze website al gevonden. Top! ABCMAKEN.nl is een visueel woordenboek en handige startpagina voor iedereen die met maakonderwijs aan de slag wilt. Naast een bonte verzameling aan toffe maakprojecten, handige boeken, online filmpjes en tools, vind je hier ook informatie over belangrijke maakprincipes, maakvisionairs en maakplaatsen. De website is gebouwd op het principe Zo kun je als docent bijvoorbeeld op een gemakkelijke manier inspiratie opdoen voor een experimentele les of als leerling een Instructables vinden voor het maken van je eigen robot.
-    
-    **DOE MEE MET DE MAAKWEEK 22-28 mei**
-    In de Maakweek worden er in heel Nederland allerlei activiteiten georganiseerd door scholen, maakplaatsen, bibliotheken, musea en culturele- en educatieve instellingen. Wil je weten wat er bij jouw in de buurt gebeurd? Neem dan een kijkje in de agenda van de maakweek. Aanmeldingen voor activiteiten lopen via de desbetreffende organisaties. De Maakweek wordt afgetrapt tijdens het MNX event op 23 mei van Mediawijzer.net in Beeld en Geluid.
-    
-    **DEEL DE FILM**
-    Met een team van filmmakers en tientallen jongeren maakten we de film ABC van het Maken. Leuk weetje: de leerlingen uit de film zijn zélf aan de slag gegaan met allerlei bijzondere maaktechnieken en hebben alle letters van het alfabet echt zelf gemaakt. Zo is de D gemaakt met de 3D-printer. En de J met een print van tekenrobotjes. Heb je de film nog niet gezien? Of kun je er geen genoeg van krijgen? Bekijk ‘m dan hier. Hoe meer mensen de film zien, hoe beter!
-    
-    De film wordt tijdens de Maakweek o.a. vertoond op 23 mei het MNX event van Mediawijzer.net in Beeld en Geluid in Hilversum.
-    
-    **#WATMAAKJIJ**
-    Heel Holland maakt! Deel jouw meest fantastische legocreatie, zelfgemaakte robot, mislukte soep, geniale muziekstuk, geprogrammeerde app, zelfgefabriceerde meubels en alles daar tussen in, onder de hashtag #watmaakjij.
-    
-    Ken jij andere makers? Nodig hen uit hetzelfde te doen. Zo laten we samen zien dat iedereen een talent voor maken heeft. Wees creatief met gifjes, foto's en filmpjes! Alle maakprojecten met de hashtag #watmaakjij worden automatisch verzameld op deze website. Nog wat inspiratie nodig? Dan hebben we hier een heleboel goede tips waar je direct mee aan de slag kunt. Veel plezier!
-    
-    Download hier het perspakket met afbeeldingen en persbericht.
-  bgcolor: '#e7f0f0'
-  textcolor: '#141414'
-  _fieldset: text-section
 - 
   anchor: Leeswijzer
   title: Leeswijzer

@@ -4,8 +4,8 @@
   <?php snippet('article-nav-item', ['item' => $pages->find('home')->children()->last(), 'direction' => 'prev']) ?>
 <?php endif ?>
 
-<?php if($page->hasNextVisible()): ?>
-  <?php snippet('article-nav-item', ['item' => $page->nextVisible(), 'direction' => 'next']) ?>
+<?php if($page->hasNext()): ?>
+  <?php snippet('article-nav-item', ['item' => $page->next(), 'direction' => 'next']) ?>
 <? else: ?>
   <?php snippet('article-nav-item', ['item' => $pages->find('home')->children()->first(), 'direction' => 'next']) ?>
 <?php endif ?>
