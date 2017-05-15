@@ -66,3 +66,12 @@ fieldsets:
       text: text
       bgcolor: background-color
       textcolor: text-color
+  video-section:
+    label: video-section
+    fields:
+      anchor:
+        label: Anchor
+        type: text
+      videolink:
+        label: video embed code
+        type: text

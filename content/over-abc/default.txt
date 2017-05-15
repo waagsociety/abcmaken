@@ -195,6 +195,14 @@ Sections:
   bgcolor: '#21214a'
   textcolor: '#ffffff'
   _fieldset: text-section
+- 
+  anchor: video
+  title: assa
+  text: assaas
+  bgcolor: '#ffffff'
+  textcolor: '#141414'
+  _fieldset: video-section
+  videolink: '<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLm9PXgNB9rCC7o4O_szRU9GKX-A_gBU6a" frameborder="0" allowfullscreen></iframe>'
 
 ----
 
