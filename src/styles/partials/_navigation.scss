@@ -9,6 +9,10 @@
   transition: 0.2s ease-in-out;
   padding: 0 20px;
   border-left: 1px solid #eee;
+
+  @include breakpoint(s) {
+    flex-grow: 1;
+  }
 }
 
 .navigation {
@@ -19,6 +23,11 @@
   z-index: 999999;
   opacity: 1;
   border-left: 1px solid #eee;
+
+  @include breakpoint(s) {
+    width: 100%;
+    border-top: 1px solid $lightgrey;
+  }
 }
 
 .no-flexbox .navigation { display: none; }
@@ -190,7 +199,7 @@
   padding: 5em;
 
   @include breakpoint(s) {
-    padding: 6em 1em 2em;
+    padding: 6em 1em 10em;
     column-count: 2;
     column-gap: 40px;
   }

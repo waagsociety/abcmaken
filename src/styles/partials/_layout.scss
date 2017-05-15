@@ -136,8 +136,17 @@ body.modal-open {
   float: left;
   font-size: 0.7125em;
 
+  @include breakpoint(s) {
+
+    margin-bottom: 80px;
+  }
+
   p {
     max-width: calc(100% - 280px);
+
+    @include breakpoint(s){
+      max-width: 100%;
+    }
   }
 
   span {
