@@ -21,6 +21,8 @@
   border-left: 1px solid #eee;
 }
 
+.no-flexbox .navigation { display: none; }
+
 .burger {
   align-items: center;
   background: #fff;
@@ -126,8 +128,15 @@
 .intro-arrow {
   position: absolute;
   bottom: 50px;
+  left: calc(50% - 90px);
   text-align: center;
   transform-origin: bottom center;
+  width: 180px;
+
+  // @include breakpoint(s){
+  //   left: 50%;
+  //   transform: translateX(-50%)
+  // }
 
   p {
     color: #fff;

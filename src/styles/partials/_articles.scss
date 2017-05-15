@@ -4,6 +4,11 @@
   background: transparent;
   padding: 0 0 ($gutter * 6) 0;
 
+  @include breakpoint(s){
+    padding: 20px;
+    background: #222;
+  }
+
   .inner {
     max-width: 500px;
     margin: auto;
@@ -19,6 +24,8 @@
 
   }
 }
+
+
 
 .article-header {
   align-items: center;
@@ -54,6 +61,36 @@
     background: url('//demosthenes.info/assets/images/polina.jpg') no-repeat;
     background-size: cover;
     transition: filter 0.3s ease-in;
+  }
+}
+
+@media only screen and (min-width:320px) and (max-width:480px) and (orientation:portrait) {
+  .article-header {
+    height: 500px;
+  }
+}
+
+
+.blur-layer {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  opacity: 0.2;
+
+  @include breakpoint(s) {
+    display: none;
+  }
+}
+
+
+.article-header .bg {
+  position: fixed;
+
+  @include breakpoint(s) {
+    position: absolute;
   }
 }
 
@@ -156,19 +193,6 @@
   right: 0;
 }
 
-.blur-layer {
-  position: fixed;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background-color: #000;
-  opacity: 0.2;
-}
-
-.article-header .bg {
-  position: fixed;
-}
 
 .main {
   background: white;

@@ -11,6 +11,13 @@ if (window.Element && !Element.prototype.closest) {
 	};
 }
 
+
+document.addEventListener("DOMContentLoaded", function(event) {
+	var easter_egg = new Konami(function() {
+		document.body.classList.add('konami');
+	});
+});
+
 function getMousePos(e) {
   return {
     x: e.clientX,

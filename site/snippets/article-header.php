@@ -1,13 +1,6 @@
 <header class="article-header">
-  <!-- Check if page has a video -->
-  <?php if($page->video()): ?>
-    <video class="bg-video" autoplay loop muted style="background-image: url(<?= $page->contentURL() . '/' . $page->cover() ?>);">
-      <source src="<?= $page->video()->url() ?>" type=video/webm>
-    </video>
-  <!-- no video available show image -->
-  <?php else: ?>
-    <div class="bg" style="background-image: url(<?= $page->contentURL() . '/' . $page->cover() ?>);"></div>
-  <?php endif ?>
+
+  <div class="bg" style="background-image: url(<?= $page->contentURL() . '/' . $page->cover() ?>);"></div>
 
   <div class="blur-layer"></div>
 
@@ -34,34 +27,40 @@
   </div>
 </div>
 <script>
-		// build scene
-    <?php if($page->video()): ?>
-  		var scene = new ScrollMagic.Scene({
-  			triggerHook: "onLeave",
-        duration: 300
-  		})
-  		.setTween(".bg-video", {'filter':'blur(20px)'}) // trigger a TweenMax.to tween
-  		.addTo(controller);
-    <?php else: ?>
-      var scene = new ScrollMagic.Scene({
-        triggerHook: "onLeave",
-        duration: 300
-      })
-      .setTween(".bg", {'filter':'blur(20px)'}) // trigger a TweenMax.to tween
-      .addTo(controller);
-    <?php endif ?>
+  document.addEventListener('DOMContentLoaded', function(){
+   enquire.register('screen and (min-width:64em)', {
+     match: function(){
+       // build scene
+       <?php if($page->video()): ?>
+     		var scene = new ScrollMagic.Scene({
+     			triggerHook: "onLeave",
+           duration: 300
+     		})
+     		.setTween(".article-header .bg-video", {'filter':'blur(20px)'}) // trigger a TweenMax.to tween
+     		.addTo(controller);
+       <?php else: ?>
+         var scene = new ScrollMagic.Scene({
+           triggerHook: "onLeave",
+           duration: 300
+         })
+         .setTween(".article-header .bg", {'filter':'blur(20px)'}) // trigger a TweenMax.to tween
+         .addTo(controller);
+       <?php endif ?>
 
-    var scene = new ScrollMagic.Scene({
-			triggerHook: "onLeave",
-      duration: 800
-		})
-		.setTween(".blur-layer", {opacity: 0.8}) // trigger a TweenMax.to tween
-		.addTo(controller);
+       var scene = new ScrollMagic.Scene({
+   			triggerHook: "onLeave",
+         duration: 800
+   		})
+   		.setTween(".article-header .blur-layer", {opacity: 0.8}) // trigger a TweenMax.to tween
+   		.addTo(controller);
 
-    var scene = new ScrollMagic.Scene({
-			triggerHook: "onLeave",
-      duration: 100
-		})
-		.setTween(".intro-arrow", {opacity: 0, scale: 0.9}) // trigger a TweenMax.to tween
-		.addTo(controller);
+       var scene = new ScrollMagic.Scene({
+   			triggerHook: "onLeave",
+         duration: 100
+   		})
+   		.setTween(".article-header .intro-arrow", {opacity: 0, scale: 0.9}) // trigger a TweenMax.to tween
+   		.addTo(controller);
+     },
+   })
+  })
 </script>
