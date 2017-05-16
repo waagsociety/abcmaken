@@ -24,11 +24,29 @@
   opacity: 1;
   border-left: 1px solid #eee;
 
+
   @include breakpoint(s) {
     width: 100%;
     border-top: 1px solid $lightgrey;
   }
 }
+
+//
+// @media only screen and (min-width:320px) and (max-width:480px) and (orientation:portrait) {
+//   .navigation {
+//     display: block;
+//
+//     div,
+//     a {
+//       width: 25%;
+//       float: left;
+//       margin: 0;
+//       padding: 0;
+//       height: 80px;
+//       display: block;
+//     }
+//   }
+// }
 
 .no-flexbox .navigation { display: none; }
 

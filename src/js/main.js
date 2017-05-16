@@ -37,12 +37,13 @@ function initArticleNav(prevClass, nextClass) {
 
 
 window.onunload = window.onbeforeunload = (function(){
-
 	//we leave this page, remove the loaded
-	//document.querySelector('.animation-container').classList.remove('loaded')
-
-
+	document.querySelector('.animation-container').classList.remove('loaded')
 })
+
+window.onpagehide = function(event) {
+	 	document.querySelector('.animation-container').classList.remove('loaded')
+};
 
 //force scroll animation when backbutton hit (Safari needs this)
 window.onpageshow = function(event) {
@@ -50,18 +51,16 @@ window.onpageshow = function(event) {
 };
 
 //
-window.onpagehide = function(event) {
-	 	document.querySelector('.animation-container').classList.remove('loaded')
-};
 
 //
 var gInited = false;
-function init() {
 
+function init() {
+	console.log('init call')
   //onpageshow, DOMContentLoaded both may call
 	if(gInited)
 	{
-		return;
+		// return;
 	}
 	gInited = true;
 
@@ -96,10 +95,10 @@ function init() {
 	}
 
 	//animate
-	document.querySelector('.animation-container').classList.remove('loaded')
+	// document.querySelector('.animation-container').classList.remove('loaded')
 	setTimeout(function() {
 		document.querySelector('.animation-container').classList.add('loaded')
-	}, 30);
+	}, 300);
 
 }
 
