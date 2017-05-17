@@ -104,7 +104,6 @@ function init() {
 
 //link in the site index was clicked
 function onIndexLinkClicked(e) {
-
 	document.querySelector('.navigation').classList.remove('active');
 	document.body.classList.remove('menu-open');
 	var targetLocation = document.createElement('a');
@@ -117,29 +116,31 @@ function onIndexLinkClicked(e) {
 
 //a link in a section was clicked, find out which section it belongs to, put a link to the section in the browser history to make backbutton work nicely
 function onSectionLinkClicked(e) {
-
-	var s = e.target.closest("section");
+	var s = e.target.closest("section"); 
 	if(s !== undefined)
-	{
-		var currentSectionLink = window.location.pathname + "#" + s.getAttribute("data-id");
-		history.replaceState({}, "", currentSectionLink);
-
-	  //internal links by anchor in path must be handled here
-		var targetLocation = document.createElement('a');
-		targetLocation.href = e.target.href;
-
-		//check if this is a link within our domain
-		if(targetLocation.host === window.location.host) {
-			//check if this is a link within this page
-			if(targetLocation.pathname === window.location.pathname)
-			{
-				gotoToSectionWithAnchor(targetLocation.hash)
-			}
-		}
-		else
+	{                       
+		if(s.getAttribute("data-id") != null) 
 		{
-			window.open(e.target.href, '_blank');
-			e.preventDefault();
+			var currentSectionLink = window.location.pathname + "#" + s.getAttribute("data-id");
+			history.replaceState({}, "", currentSectionLink); 
+
+		  //internal links by anchor in path must be handled here
+			var targetLocation = document.createElement('a');
+			targetLocation.href = e.target.href;
+
+			//check if this is a link within our domain
+			if(targetLocation.host === window.location.host) {
+				//check if this is a link within this page
+				if(targetLocation.pathname === window.location.pathname)
+				{
+					gotoToSectionWithAnchor(targetLocation.hash)
+				}
+			}
+			else
+			{
+				window.open(e.target.href, '_blank');
+				e.preventDefault();
+			}
 		}
 
 	}
